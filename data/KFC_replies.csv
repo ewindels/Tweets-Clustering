@@ -1,4 +1,4 @@
-data,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id
-Wed Sep 18 16:03:31 +0000 2019,2,1174353266362257408,,0,"L’offre est valable sur tous les produits, hors offre du mardi, Mégabox et gamme Petits Prix.",KFC France,79428084
-Tue Sep 17 13:03:32 +0000 2019,0,1173945583662448645,,2,"@Demdead1 Bonjour, nous sommes terriblement navrés pour cet incident et nous vous remercions de nous l'avoir signalé. Pourrions nous en parler en MP ? Merci !",KFC France,79428084
-Mon Sep 16 10:19:11 +0000 2019,0,1173541836041986054,,0,"@AnotherWild Bonjour, désolé pour cet incident, on peut s'en parler en MP ? Merci !",KFC France,79428084
+id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+1174353266362257408,"L’offre est valable sur tous les produits, hors offre du mardi, Mégabox et gamme Petits Prix.",Wed Sep 18 16:03:31 +0000 2019,KFC France,79428084,2,0,1174352382920208385
+1173945583662448645,"@Demdead1 Bonjour, nous sommes terriblement navrés pour cet incident et nous vous remercions de nous l'avoir signalé. Pourrions nous en parler en MP ? Merci !",Tue Sep 17 13:03:32 +0000 2019,KFC France,79428084,0,2,1173944841014788096
+1173541836041986054,"@AnotherWild Bonjour, désolé pour cet incident, on peut s'en parler en MP ? Merci !",Mon Sep 16 10:19:11 +0000 2019,KFC France,79428084,0,0,1172951208857874433

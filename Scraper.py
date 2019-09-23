@@ -68,7 +68,7 @@ def update_data(company, time='newest', mode='to'):
     Supported mode are to and from
     """
     if mode == 'to':
-        if '{}.csv'.format(company) in os.listdir('data'):
+        if time != 'new_company' and '{}.csv'.format(company) in os.listdir('data'):
             data_df = pd.read_csv('data/{}.csv'.format(company))
         else:
             time = 'new_company'
@@ -76,7 +76,7 @@ def update_data(company, time='newest', mode='to'):
             data_df.to_csv('data/{}.csv'.format(company), index=False)
         print('{:>5} tweets to {:<15}'.format(data_df.shape[0], company), end=' | ')
     elif mode == 'from':
-        if '{}_replies.csv'.format(company) in os.listdir('data'):
+        if time != 'new_company' and '{}_replies.csv'.format(company) in os.listdir('data'):
             data_df = pd.read_csv('data/{}_replies.csv'.format(company))
         else:
             time = 'new_company'
