@@ -1,1 +1,5 @@
-data,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id
+id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+1174007108016201729,"Bonjour ! 👋
+@_Mccoylily remporte l’éditor collector ! Quant à @ZeluBW  et @Maxster59757364, ils gagnent tous les deux le jeu #ASTRALCHAIN.
+Bravo à eux et rendez-vous en message privé. 📩🎁
+L’équipe de Nintendo",Tue Sep 17 17:08:01 +0000 2019,Nintendo France,491500016,80,1,1167485884221968390

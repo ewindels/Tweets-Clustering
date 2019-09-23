@@ -1,13 +1,13 @@
-data,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id
-Fri Sep 20 14:43:28 +0000 2019,0,1175057894318006273,,0,"@misselo87 Hej! Désolé de lire cela, je vous conseille de contacter le service client en MP pour trouver une solution. N'oubliez pas votre numéro de commande. Bonne journée.
-[LIEN]",IKEA France,113648092
-Tue Sep 17 13:20:45 +0000 2019,0,1173949913656418304,,0,"@MoreauVictoire1 Hej! Je vous conseille de contacter le service client en MP pour vous aider. N'oubliez pas votre numéro de commande. Bonne journée.
-[LIEN]",IKEA France,113648092
-Tue Sep 17 13:19:55 +0000 2019,0,1173949706944335872,,0,"@LucieLesage Hej! Désolé de lire cela, je vous conseille de contacter le service client en MP pour trouver une solution. N'oubliez pas votre numéro de commande. Bonne journée.
-[LIEN]",IKEA France,113648092
-Tue Sep 17 13:19:08 +0000 2019,0,1173949507891081216,,0,"@DelphineFrtr Hej! Désolé de lire cela, je vous conseille de contacter le service client en MP pour trouver une solution. N'oubliez pas votre numéro de commande. Bonne journée.
-[LIEN]",IKEA France,113648092
-Mon Sep 16 14:59:41 +0000 2019,0,1173612424987107328,,0,@psm Hej! Je vous invite à contacter le service client en message privé qui pourra vous aider mieux que moi. Bonne journée. [LIEN],IKEA France,113648092
-Mon Sep 16 14:58:51 +0000 2019,1,1173612217159356417,,0,@PenelopeB Hej! Je vous invite à contacter le service client en message privé qui pourra vous aider mieux que moi. Bonne journée. [LIEN],IKEA France,113648092
-Mon Sep 16 14:58:04 +0000 2019,0,1173612017342660610,,0,"@LemonyCospaly Hej! Désolé de lire cela, je vous conseille de contacter le service client en MP pour trouver une solution. N'oubliez pas votre numéro de commande. Bonne journée.
-[LIEN]",IKEA France,113648092
+id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+1175057894318006273,"@misselo87 Hej! Désolé de lire cela, je vous conseille de contacter le service client en MP pour trouver une solution. N'oubliez pas votre numéro de commande. Bonne journée.
+[LIEN]",Fri Sep 20 14:43:28 +0000 2019,IKEA France,113648092,0,0,1175018411438596097
+1173949913656418304,"@MoreauVictoire1 Hej! Je vous conseille de contacter le service client en MP pour vous aider. N'oubliez pas votre numéro de commande. Bonne journée.
+[LIEN]",Tue Sep 17 13:20:45 +0000 2019,IKEA France,113648092,0,0,1173842959948795904
+1173949706944335872,"@LucieLesage Hej! Désolé de lire cela, je vous conseille de contacter le service client en MP pour trouver une solution. N'oubliez pas votre numéro de commande. Bonne journée.
+[LIEN]",Tue Sep 17 13:19:55 +0000 2019,IKEA France,113648092,0,0,1173882297290043392
+1173949507891081216,"@DelphineFrtr Hej! Désolé de lire cela, je vous conseille de contacter le service client en MP pour trouver une solution. N'oubliez pas votre numéro de commande. Bonne journée.
+[LIEN]",Tue Sep 17 13:19:08 +0000 2019,IKEA France,113648092,0,0,1173929850337452032
+1173612424987107328,@psm Hej! Je vous invite à contacter le service client en message privé qui pourra vous aider mieux que moi. Bonne journée. [LIEN],Mon Sep 16 14:59:41 +0000 2019,IKEA France,113648092,0,0,1173339343181795328
+1173612217159356417,@PenelopeB Hej! Je vous invite à contacter le service client en message privé qui pourra vous aider mieux que moi. Bonne journée. [LIEN],Mon Sep 16 14:58:51 +0000 2019,IKEA France,113648092,1,0,1173531187798773760
+1173612017342660610,"@LemonyCospaly Hej! Désolé de lire cela, je vous conseille de contacter le service client en MP pour trouver une solution. N'oubliez pas votre numéro de commande. Bonne journée.
+[LIEN]",Mon Sep 16 14:58:04 +0000 2019,IKEA France,113648092,0,0,1173580804691300355

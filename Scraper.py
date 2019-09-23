@@ -44,14 +44,14 @@ def get_tweets(company, id_=0, time='newest', mode='to'):
             return api.GetSearch(raw_query="q={}&lang=fr&count={}".format(query, count), result_type='recent')
 
 
-def filter_img(text):
+def filter_links(text):
     return re.sub(r'https://t.co/\w+', '[LIEN]', text)
 
 
 def create_new_data(tweets, mode='to'):
     new_data = pd.DataFrame()
     new_data['id'] = [tweet.id for tweet in tweets]
-    new_data['text'] = [filter_img(tweet.full_text) for tweet in tweets]
+    new_data['text'] = [filter_links(tweet.full_text) for tweet in tweets]
     new_data['data'] = [tweet.created_at for tweet in tweets]
     new_data['user'] = [tweet.user.name for tweet in tweets]
     new_data['user_id'] = [tweet.user.id for tweet in tweets]
@@ -73,6 +73,7 @@ def update_data(company, time='newest', mode='to'):
         else:
             time = 'new_company'
             data_df = pd.DataFrame(columns=['id', 'text', 'data', 'user', 'user_id', 'favorite_cnt', 'retweet_cnt'])
+            data_df.to_csv('data/{}.csv'.format(company), index=False)
         print('{:>5} tweets to {:<15}'.format(data_df.shape[0], company), end=' | ')
     elif mode == 'from':
         if '{}_replies.csv'.format(company) in os.listdir('data'):
@@ -81,6 +82,7 @@ def update_data(company, time='newest', mode='to'):
             time = 'new_company'
             data_df = pd.DataFrame(columns=['id', 'text', 'data', 'user', 'user_id', 'favorite_cnt', 'retweet_cnt',
                                             'reply_to_id'])
+            data_df.to_csv('data/{}_replies.csv'.format(company), index=False)
         print('{:>5} tweets from {:<15}'.format(data_df.shape[0], company), end=' | ')
     else:
         print('Mode does not exist')
@@ -122,7 +124,8 @@ def update_data(company, time='newest', mode='to'):
     else:
         print('Time does not exist')
         return 1
-    new_data = create_new_data(new_tweets)
+    new_data = create_new_data(new_tweets, mode)
+
     print('{:>4} new tweets'.format(len(new_tweets)))
 
     if new_data.shape[0] > 0:

@@ -1,11 +1,11 @@
-data,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id
-Mon Sep 23 19:13:21 +0000 2019,0,1176212977030180865,,0,"@CoralieNissonne Dsl, nos listes sont complètes :) Vous pouvez toujours voir le live sur nos réseaux sociaux ! Bonne soirée Coralie",Etam Officiel,101292056
-Thu Sep 19 11:27:48 +0000 2019,0,1174646264773959680,,0,"@LBlanchard4 Laurent, il faut deviner qui est l’artiste !",Etam Officiel,101292056
-Thu Sep 19 10:36:28 +0000 2019,1,1174633348163153920,,0,@Valentina_M3 🤣c'est tout ce qu'on vous souhaite Valentina !,Etam Officiel,101292056
-Thu Sep 19 10:27:10 +0000 2019,1,1174631006210539520,,0,@Sarahdss_ On croise les doigts !,Etam Officiel,101292056
-Thu Sep 19 08:44:23 +0000 2019,1,1174605143129677825,,0,"@CarolineSPB Caroline, hahhaah. Vous nous avez fait bien rire :) Bon après 3 chaussettes c'est pas l'idéal. Aussi on vous conseille de retourner en magasin avec les produits et votre ticket de caisse ou de contacter le service client via ce doc [LIEN] Nice day :)",Etam Officiel,101292056
-Wed Sep 18 15:43:42 +0000 2019,3,1174348279066312704,,1,@Marion_Mcb @AyaNakamuraa @iamcalledsolene et son +1 ! Et d'autres pass sont à gagner...,Etam Officiel,101292056
-Wed Sep 18 14:48:50 +0000 2019,2,1174334470767423490,,1,@iamcalledsolene @AyaNakamuraa Allez voir vos DM :),Etam Officiel,101292056
-Tue Sep 17 10:51:03 +0000 2019,0,1173912243379064832,,0,@yaslcf Bien reçu et transmis au service concerné ! Bonne journée Yasmine :),Etam Officiel,101292056
-Tue Sep 17 10:45:41 +0000 2019,1,1173910892288860162,,0,"@yaslcf Hello Yasmine, vous pouvez nous donner votre adresse email en DM please ?",Etam Officiel,101292056
-Tue Sep 17 10:25:32 +0000 2019,4,1173905819294978050,,0,@airbnb_fr @grazia_fr Au profit de @SolidariteFemme !,Etam Officiel,101292056
+id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+1176212977030180865,"@CoralieNissonne Dsl, nos listes sont complètes :) Vous pouvez toujours voir le live sur nos réseaux sociaux ! Bonne soirée Coralie",Mon Sep 23 19:13:21 +0000 2019,Etam Officiel,101292056,0,0,1176190444771979264
+1174646264773959680,"@LBlanchard4 Laurent, il faut deviner qui est l’artiste !",Thu Sep 19 11:27:48 +0000 2019,Etam Officiel,101292056,0,0,1174379053660422151
+1174633348163153920,@Valentina_M3 🤣c'est tout ce qu'on vous souhaite Valentina !,Thu Sep 19 10:36:28 +0000 2019,Etam Officiel,101292056,1,0,1174631828415832064
+1174631006210539520,@Sarahdss_ On croise les doigts !,Thu Sep 19 10:27:10 +0000 2019,Etam Officiel,101292056,1,0,1174425951976984577
+1174605143129677825,"@CarolineSPB Caroline, hahhaah. Vous nous avez fait bien rire :) Bon après 3 chaussettes c'est pas l'idéal. Aussi on vous conseille de retourner en magasin avec les produits et votre ticket de caisse ou de contacter le service client via ce doc [LIEN] Nice day :)",Thu Sep 19 08:44:23 +0000 2019,Etam Officiel,101292056,1,0,1174597547693920256
+1174348279066312704,@Marion_Mcb @AyaNakamuraa @iamcalledsolene et son +1 ! Et d'autres pass sont à gagner...,Wed Sep 18 15:43:42 +0000 2019,Etam Officiel,101292056,3,1,1174343527377059841
+1174334470767423490,@iamcalledsolene @AyaNakamuraa Allez voir vos DM :),Wed Sep 18 14:48:50 +0000 2019,Etam Officiel,101292056,2,1,1174294725307838464
+1173912243379064832,@yaslcf Bien reçu et transmis au service concerné ! Bonne journée Yasmine :),Tue Sep 17 10:51:03 +0000 2019,Etam Officiel,101292056,0,0,1173911873345019908
+1173910892288860162,"@yaslcf Hello Yasmine, vous pouvez nous donner votre adresse email en DM please ?",Tue Sep 17 10:45:41 +0000 2019,Etam Officiel,101292056,1,0,1173909041610919936
+1173905819294978050,@airbnb_fr @grazia_fr Au profit de @SolidariteFemme !,Tue Sep 17 10:25:32 +0000 2019,Etam Officiel,101292056,4,0,1173903019336970241
