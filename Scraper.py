@@ -18,30 +18,24 @@ with open('companies.json') as handle:
     companies = json.loads(handle.read())
 
 
-def get_tweets(company, id_=0, time='newest', mode='to'):
+def get_tweets(company, max_id=0, since_id=0, mode='to'):
     company_account = companies[company]
     if mode == 'to':
         query = '%40{}%20-filter%3Aretweets%20-filter%3Areplies'.format(company_account)
-        count = 100
-        if time == 'oldest':
-            return api.GetSearch(raw_query="q={}&max_id={}&lang=fr&count={}".format(query, id_, count),
-                                 result_type='recent')
-        elif time == 'newest':
-            return api.GetSearch(raw_query="q={}&since_id={}&lang=fr&count={}".format(query, id_, count),
-                                 result_type='recent')
-        elif time == 'new_company':
-            return api.GetSearch(raw_query="q={}&lang=fr&count={}".format(query, count), result_type='recent')
     elif mode == 'from':
         query = 'from%3A{}%20-filter%3Aretweets%20filter%3Areplies'.format(company_account)
-        count = 100
-        if time == 'oldest':
-            return api.GetSearch(raw_query="q={}&max_id={}&lang=fr&count={}".format(query, id_, count),
-                                 result_type='recent')
-        elif time == 'newest':
-            return api.GetSearch(raw_query="q={}&since_id={}&lang=fr&count={}".format(query, id_, count),
-                                 result_type='recent')
-        elif time == 'new_company':
-            return api.GetSearch(raw_query="q={}&lang=fr&count={}".format(query, count), result_type='recent')
+    else:
+        return 1
+    if max_id != 0:
+        max_id_q = '&max_id=' + str(max_id)
+    else:
+        max_id_q = ''
+    if since_id != 0:
+        since_id_q = '&since_id=' + str(since_id)
+    else:
+        since_id_q = ''
+    return api.GetSearch(raw_query="q={}{}{}&lang=fr&count=100".format(query, since_id_q, max_id_q),
+                         result_type='recent')
 
 
 def filter_links(text):
@@ -91,31 +85,33 @@ def update_data(company, time='newest', mode='to'):
     if time == 'newest':
         new_tweets = list()
         id_ = data_df['id'].max() + 1
-        while True:
-            tweets = get_tweets(company, id_, time, mode)
+        tweets = get_tweets(company, max_id=0, since_id=id_, mode=mode)
+        tweets = [tweet for tweet in tweets if tweet.id > id_]
+        max_id = min([tweet.id for tweet in tweets]) - 1
+        while len(tweets) > 0:
+            new_tweets.extend(tweets)
+            tweets = get_tweets(company, max_id=max_id, since_id=id_, mode=mode)
+            tweets = [tweet for tweet in tweets if tweet.id > id_]
             if len(tweets) > 0:
-                new_tweets.extend(tweets)
-                id_ = max([tweet.id for tweet in tweets]) + 1
-            else:
-                break
+                max_id = min([tweet.id for tweet in tweets]) - 1
+
     elif time == 'oldest':
         new_tweets = list()
         id_ = data_df['id'].min() - 1
         while True:
-            tweets = get_tweets(company, id_, time, mode)
+            tweets = get_tweets(company, max_id=id_, since_id=0, mode=mode)
             if len(tweets) > 0:
                 new_tweets.extend(tweets)
                 id_ = min([tweet.id for tweet in tweets]) - 1
             else:
                 break
+
     elif time == 'new_company':
-        id_ = 0
-        new_tweets = get_tweets(company, id_, time, mode)
+        new_tweets = get_tweets(company, max_id=0, since_id=0, mode=mode)
         if len(new_tweets) > 0:
             id_ = min([tweet.id for tweet in new_tweets]) - 1
             while True:
-                time = 'oldest'
-                tweets = get_tweets(company, id_, time, mode)
+                tweets = get_tweets(company, max_id=id_, since_id=0, mode=mode)
                 if len(tweets) > 0:
                     new_tweets.extend(tweets)
                     id_ = min([tweet.id for tweet in tweets]) - 1
@@ -156,4 +152,3 @@ def check_all_companies():
         total_to += data_df_to.shape[0]
         total_from += data_df_from.shape[0]
     print('\nTotal: {} tweets to | {} tweets from'.format(total_to, total_from))
-
