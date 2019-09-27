@@ -87,6 +87,7 @@ def update_data(company, time='newest', mode='to'):
         id_ = data_df['id'].max() + 1
         tweets = get_tweets(company, max_id=0, since_id=id_, mode=mode)
         tweets = [tweet for tweet in tweets if tweet.id > id_]
+        max_id = 0
         if len(tweets) > 0:
             max_id = min([tweet.id for tweet in tweets]) - 1
         while len(tweets) > 0:
