@@ -1,4 +1,4 @@
-,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+Unnamed: 0,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 0,1177328705540100098,"@Zickmafr Bonjour, vous m'en voyez navré ! Quelle était la réponse de notre sav à ce propos, je vous prie ?
 ^OB",Thu Sep 26 21:06:51 +0000 2019,Amazon Help,85741735,0,0,1.1773270053663908e+18
 1,1177327864875749393,"@FredericNuyts Bonsoir, si vous pensez qu'un commentaire ne respecte pas nos instructions de la communauté, n'hésitez pas à le signaler via le bouton ""signaler un abus"". Nos équipes procéderont à sa révision.

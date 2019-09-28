@@ -1,4 +1,4 @@
-,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+Unnamed: 0,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 0,1177193265759694848,@guyomard67 Dans un cubi ? 🤣 🤣,Thu Sep 26 12:08:40 +0000 2019,Castorama,97006085,2,0,1176546613076144128
 1,1177161493298761734,"@rouanetdiane Bonjour Diane, Je suis désolée de lire votre expérience. Je remonte votre message à mes collègues du service technique afin qu'ils en prennent connaissance. N'hésitez pas à revenir vers moi en DM si besoin. Belle journée, Giusi",Thu Sep 26 10:02:25 +0000 2019,Castorama,97006085,0,0,1177157783067791360
 2,1177140385627422722,"@Seraphin_Laps Merci de votre retour, Je comprends. J'ai besoin en MP de connaitre le magasin dans lequel vous souhaitez vous rendre? La quantité désirée? Savoir si vous souhaitez du vrac ou des sacs ? Et j'ai besoin de votre téléphone pour que votre conseiller puisse vous contacter. Olivier",Thu Sep 26 08:38:32 +0000 2019,Castorama,97006085,0,0,1177136274764906498

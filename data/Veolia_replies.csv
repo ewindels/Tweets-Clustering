@@ -1,4 +1,4 @@
-,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+Unnamed: 0,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 0,1177583847099240448,"@Supadupaaaaa Bonjour, je vous invite à nous suivre pour que nous puissions discuter en privé.",Fri Sep 27 14:00:42 +0000 2019,Veolia France,783942862685802500,0,0,1177271981219164163
 1,1177540605817360386,"@AmapolatekcoR Bonjour, pour cette demande, nous vous invitons à contacter notre service Relations Consommateurs au numéro figurant sur votre facture. Cordialement.",Fri Sep 27 11:08:52 +0000 2019,Veolia France,783942862685802500,0,0,1177528380650139649
 2,1177167830611038208,"@Cecilou54 @got_freddy @Le_Poool Bonjour, je vous invite à nous suivre pour que nous en discutions en privé.",Thu Sep 26 10:27:36 +0000 2019,Veolia France,783942862685802500,0,0,1177120709769871360

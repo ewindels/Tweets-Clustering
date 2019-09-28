@@ -1,4 +1,4 @@
-,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+Unnamed: 0,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 0,1177143773245165568,@Papillondessent Avec plaisir. Nous vous souhaitons une bonne journée :) ^Lorraine,Thu Sep 26 08:52:00 +0000 2019,Sony France,2559259914,1,0,1177143267194023936
 1,1177142549431148544,"@Papillondessent Bonjour, n'hésitez pas à contacter Xperia Care pour que leurs techniciens puissent vous aider. Vous pourrez trouver tous leurs points de contact sur cette page : [LIEN]. Bien cordialement. ^Lorraine",Thu Sep 26 08:47:08 +0000 2019,Sony France,2559259914,0,0,1176949282756337664
 2,1177125379590578176,"@Mickael_69 Bonjour Lion, nous tenons à vous informer que la garantie ne couvre que les produits achetés en Europe. Cependant, nous vous conseillons de vérifier auprès du revendeur s'il existe une carte de garantie internationale vendue avec le produit ou pas. Bonne journée, ^Salah",Thu Sep 26 07:38:55 +0000 2019,Sony France,2559259914,0,0,1176734857394868225

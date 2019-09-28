@@ -15,7 +15,7 @@ api = twitter.Api(consumer_key=credentials['consumer_key'],
                   tweet_mode='extended')
 
 with open('companies.json') as handle:
-    companies = json.loads(handle.read())
+    companies = json.loads(handle.read())l
 
 
 def get_tweets(company, max_id=0, since_id=0, mode='to'):

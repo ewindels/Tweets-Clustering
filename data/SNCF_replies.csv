@@ -1,4 +1,4 @@
-,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+Unnamed: 0,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 0,1177306641441677313,@Moth13 Nous nous renseignons sur le sujet auprès de nos équipes et revenons vers vous très prochainement.,Thu Sep 26 19:39:11 +0000 2019,SNCF,218659501,0,0,1.1773052189141156e+18
 1,1177305931941588993,"@jfermaud Le chef de bord va se présenter dans votre voiture. N'hésitez pas à le solliciter. Autrement, avez-vous bien suivi les étapes décrites en pièce jointe ? Pensez à effacer les caches si besoin. A votre disposition. [LIEN]",Thu Sep 26 19:36:22 +0000 2019,SNCF,218659501,0,0,1.1773046709577073e+18
 2,1177304569094844417,@jfermaud Merci. Il me faudrait également votre numéro de voiture pour identifier s'il y a une panne uniquement dans celle-ci ou sur l'ensemble de la rame.,Thu Sep 26 19:30:57 +0000 2019,SNCF,218659501,0,0,1.177302880849748e+18

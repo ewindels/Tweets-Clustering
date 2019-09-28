@@ -1,4 +1,4 @@
-,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+Unnamed: 0,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 0,1175054028834840580,"@darkh3ll Bonjour, la collection est disponible sur notre eshop : [LIEN] Belle journée à vous !",Fri Sep 20 14:28:06 +0000 2019,L'Oréal Paris France,290014291,0,0,1174718289215467520
 1,1174944649300983809,@Timodelle @KarlLagerfeld @Monoprix Ravis de vous avoir eu parmi nous ! 💕,Fri Sep 20 07:13:28 +0000 2019,L'Oréal Paris France,290014291,0,0,1174750797072084996
 2,1174944472070684673,"@Criscristou1 Bonjour, il suffit de cliquer sur le lien 😊",Fri Sep 20 07:12:46 +0000 2019,L'Oréal Paris France,290014291,1,0,1174796847635976198
