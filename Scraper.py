@@ -152,3 +152,8 @@ def check_all_companies():
         total_to += data_df_to.shape[0]
         total_from += data_df_from.shape[0]
     print('\nTotal: {} tweets to | {} tweets from'.format(total_to, total_from))
+
+
+def add_company(company):
+    update_data(company, 'new_company', 'to')
+    update_data(company, 'new_company', 'from')
