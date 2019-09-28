@@ -1,17 +1,17 @@
-id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
-1177186348584898561,"@tendresblack @Renault_Elec_Fr Nouvelle Renault ZOE est disponible à partir de 19 900€ hors location ou achat de batterie :) 
+,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+0,1177186348584898561,"@tendresblack @Renault_Elec_Fr Nouvelle Renault ZOE est disponible à partir de 19 900€ hors location ou achat de batterie :) 
 
 Vous trouverez toutes ses versions ici : [LIEN]
 
 Julien de l'équipe Renault France",Thu Sep 26 11:41:11 +0000 2019,Renault France,148501390,0,0,1177155301000261632
-1177153781148069888,"@tendresblack La batterie est disponible à l'achat pour 8900€. 
+1,1177153781148069888,"@tendresblack La batterie est disponible à l'achat pour 8900€. 
 
 N'hésitez pas à revenir vers nous si vous avez d'autres questions :) 
 
 Vous pouvez également vous rendre sur notre page @Renault_Elec_Fr afin de suivre toutes nos actualités électriques ! 
 
 Julien de l'équipe Renault Electrique",Thu Sep 26 09:31:46 +0000 2019,Renault France,148501390,0,0,1177142258744905729
-1177141799342759936,"@tendresblack Bonjour, 
+2,1177141799342759936,"@tendresblack Bonjour, 
 
 Aujourd'hui, la location de la batterie n'est plus obligatoire lors de l'achat d'une ZOE neuve.
 
@@ -19,7 +19,7 @@ En revanche, pour de l'occasion, vous devrez reprendre le contrat existant qui i
 
 Très bonne journée, 
 Julien de l'équipe Renault France",Thu Sep 26 08:44:09 +0000 2019,Renault France,148501390,0,0,1176613146745876481
-1176612020235509760,"@tendresblack Bonjour @tendresblack, 
+3,1176612020235509760,"@tendresblack Bonjour @tendresblack, 
 
 Je n’ai pas d’information à ce sujet pour le moment mais je vous tiendrai au courant en temps voulu.
 

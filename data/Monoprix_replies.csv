@@ -1,4 +1,4 @@
-id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
-1175739517875163136,@fou_ad_ Ce modèle n’est pas disponible dans nos rayons 😇,Sun Sep 22 11:51:59 +0000 2019,Monoprix,62470684,0,0,1175720108234280962
-1175043565031964673,"@RedacAzur Bonjour, nous partageons votre suggestion auprès des équipes concernées. Bonne journée.",Fri Sep 20 13:46:31 +0000 2019,Monoprix,62470684,0,0,1174979738068144134
-1177577644604502016,"@SerwanMelk Bonjour. Oups, nous prévenons notre équipe web ! Merci de nous l'avoir signalé ! Bonne journée.",Fri Sep 27 13:36:03 +0000 2019,Monoprix,62470684,0,0,1177130272506167296
+,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+0,1175739517875163136,@fou_ad_ Ce modèle n’est pas disponible dans nos rayons 😇,Sun Sep 22 11:51:59 +0000 2019,Monoprix,62470684,0,0,1175720108234280962
+1,1175043565031964673,"@RedacAzur Bonjour, nous partageons votre suggestion auprès des équipes concernées. Bonne journée.",Fri Sep 20 13:46:31 +0000 2019,Monoprix,62470684,0,0,1174979738068144134
+2,1177577644604502016,"@SerwanMelk Bonjour. Oups, nous prévenons notre équipe web ! Merci de nous l'avoir signalé ! Bonne journée.",Fri Sep 27 13:36:03 +0000 2019,Monoprix,62470684,0,0,1177130272506167296

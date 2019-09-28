@@ -1,253 +1,253 @@
-id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
-1177325075462283270,"@Vinceva25 Très bien @Vinceva25, nous attendons votre retour pour vous établir un devis tarifaire.
+,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+0,1177325075462283270,"@Vinceva25 Très bien @Vinceva25, nous attendons votre retour pour vous établir un devis tarifaire.
 À tout de suite.",Thu Sep 26 20:52:26 +0000 2019,Air France FR,40205617,0,0,1177324233317392384
-1177320703030366216,"@Vinceva25 Bonsoir @Vinceva25, merci de nous contacter sur Twitter.
+1,1177320703030366216,"@Vinceva25 Bonsoir @Vinceva25, merci de nous contacter sur Twitter.
 Afin de vous aider à réserver votre billet, merci de nous préciser par DM votre parcours, dates de voyage, vols choisis, ainsi que le nombre de voyageurs.
 Dans l’attente de votre retour, nous restons disponibles.",Thu Sep 26 20:35:03 +0000 2019,Air France FR,40205617,1,1,1177278384906350593
-1177304849341276160,"@nono_atb @nono_atb  Bonjour, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous.",Thu Sep 26 19:32:04 +0000 2019,Air France FR,40205617,0,0,1177301229824806912
-1177270288968540165,"@magalizaza @magalizaza Bonjour, merci de nous avoir contactés sur Twitter. Nous vous invitons à nous en dire plus en DM. Nous restons à  l'écoute.",Thu Sep 26 17:14:44 +0000 2019,Air France FR,40205617,0,0,1177258891714936832
-1177237670440951808,"@MehdiZaoui Bonjour Idhem, nous comprenons et nous souhaitons vous renseigner en toute confidentialité. Pour cela, pouvez vous nous communiquer votre référence de réservation en DM ?",Thu Sep 26 15:05:07 +0000 2019,Air France FR,40205617,0,0,1177220864435265536
-1177230018428190721,"@GLasconjarias Bonjour,  nous sommes navrés pour la livraison tardive de votre valise. Afin de vous assister, pouvez-vous nous communiquer en DM la référence qui vous a été donnée par nos collègues à l’aéroport (ex: CDGAF12345) s’il vous plaît ? Nous restons à votre écoute.",Thu Sep 26 14:34:42 +0000 2019,Air France FR,40205617,0,0,1177218625788358656
-1177229078228811776,"@segadiallo Bonjour, nous sommes navrés du retard de votre vol. N’hésitez pas à nous en dire plus en DM. Bonne journée.",Thu Sep 26 14:30:58 +0000 2019,Air France FR,40205617,0,0,1177219849820561410
-1177219987599253504,@3a_dawia Bonjour @a_dawia et bienvenue sur notre Twitter. Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous,Thu Sep 26 13:54:51 +0000 2019,Air France FR,40205617,1,0,1177207922692108289
-1177203029034098688,"@MehdiZaoui Bonjour, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Thu Sep 26 12:47:28 +0000 2019,Air France FR,40205617,0,0,1177202005707767810
-1177144894810443777,@Chtiterikku Bonjour Delphine. Nous allons vous assister. Pouvez-vous nous en dire plus en DM ?,Thu Sep 26 08:56:27 +0000 2019,Air France FR,40205617,0,0,1177143580760129536
-1177139695811289088,"@max35111 Bonjour Max, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Thu Sep 26 08:35:48 +0000 2019,Air France FR,40205617,0,0,1176887862257684480
-1177133957126787073,"@lowmax94 @owmax94 Bonjour, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Thu Sep 26 08:13:00 +0000 2019,Air France FR,40205617,0,0,1177128301481091073
-1177089005558665216,"@jaastolfi_andre Bonjour @jaastolfi_andre, merci de nous contacter sur Twitter.  Afin de vous renseigner, merci de nous en dire plus en DM. Merci à vous. A tout de suite !",Thu Sep 26 05:14:22 +0000 2019,Air France FR,40205617,0,0,1177082055819223040
-1177010669763383302,"@PtitPandaBNE Bonsoir @PtitPandaBNE, bienvenue sur notre page Twitter. 
+2,1177304849341276160,"@nono_atb @nono_atb  Bonjour, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous.",Thu Sep 26 19:32:04 +0000 2019,Air France FR,40205617,0,0,1177301229824806912
+3,1177270288968540165,"@magalizaza @magalizaza Bonjour, merci de nous avoir contactés sur Twitter. Nous vous invitons à nous en dire plus en DM. Nous restons à  l'écoute.",Thu Sep 26 17:14:44 +0000 2019,Air France FR,40205617,0,0,1177258891714936832
+4,1177237670440951808,"@MehdiZaoui Bonjour Idhem, nous comprenons et nous souhaitons vous renseigner en toute confidentialité. Pour cela, pouvez vous nous communiquer votre référence de réservation en DM ?",Thu Sep 26 15:05:07 +0000 2019,Air France FR,40205617,0,0,1177220864435265536
+5,1177230018428190721,"@GLasconjarias Bonjour,  nous sommes navrés pour la livraison tardive de votre valise. Afin de vous assister, pouvez-vous nous communiquer en DM la référence qui vous a été donnée par nos collègues à l’aéroport (ex: CDGAF12345) s’il vous plaît ? Nous restons à votre écoute.",Thu Sep 26 14:34:42 +0000 2019,Air France FR,40205617,0,0,1177218625788358656
+6,1177229078228811776,"@segadiallo Bonjour, nous sommes navrés du retard de votre vol. N’hésitez pas à nous en dire plus en DM. Bonne journée.",Thu Sep 26 14:30:58 +0000 2019,Air France FR,40205617,0,0,1177219849820561410
+7,1177219987599253504,@3a_dawia Bonjour @a_dawia et bienvenue sur notre Twitter. Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous,Thu Sep 26 13:54:51 +0000 2019,Air France FR,40205617,1,0,1177207922692108289
+8,1177203029034098688,"@MehdiZaoui Bonjour, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Thu Sep 26 12:47:28 +0000 2019,Air France FR,40205617,0,0,1177202005707767810
+9,1177144894810443777,@Chtiterikku Bonjour Delphine. Nous allons vous assister. Pouvez-vous nous en dire plus en DM ?,Thu Sep 26 08:56:27 +0000 2019,Air France FR,40205617,0,0,1177143580760129536
+10,1177139695811289088,"@max35111 Bonjour Max, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Thu Sep 26 08:35:48 +0000 2019,Air France FR,40205617,0,0,1176887862257684480
+11,1177133957126787073,"@lowmax94 @owmax94 Bonjour, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Thu Sep 26 08:13:00 +0000 2019,Air France FR,40205617,0,0,1177128301481091073
+12,1177089005558665216,"@jaastolfi_andre Bonjour @jaastolfi_andre, merci de nous contacter sur Twitter.  Afin de vous renseigner, merci de nous en dire plus en DM. Merci à vous. A tout de suite !",Thu Sep 26 05:14:22 +0000 2019,Air France FR,40205617,0,0,1177082055819223040
+13,1177010669763383302,"@PtitPandaBNE Bonsoir @PtitPandaBNE, bienvenue sur notre page Twitter. 
 Si vous avez oublié votre effet personnel, nous vous invitons à faire votre déclaration de perte via ce lien : [LIEN] 
 Nous vous souhaitons une bonne soirée.",Thu Sep 26 00:03:06 +0000 2019,Air France FR,40205617,0,0,1176965134675271685
-1176974108728397824,"@Alexandra_Pvst Bonsoir Alexandra, 
+14,1176974108728397824,"@Alexandra_Pvst Bonsoir Alexandra, 
 Merci de nous contacter sur Twitter.
 Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? 
 Merci à vous",Wed Sep 25 21:37:49 +0000 2019,Air France FR,40205617,0,0,1176952869372776451
-1176926980849188865,"@MorganeJDN @MorganeJDN  Bonsoir, merci de nous avoir contactés sur Twitter. 
+15,1176926980849188865,"@MorganeJDN @MorganeJDN  Bonsoir, merci de nous avoir contactés sur Twitter. 
 Nous vous invitons à nous en dire plus en DM.
 À tout de suite.",Wed Sep 25 18:30:33 +0000 2019,Air France FR,40205617,1,0,1176888884350918656
-1176921769162268673,"@JacquesWitt Bonsoir Jacques.
+16,1176921769162268673,"@JacquesWitt Bonsoir Jacques.
 Les pièces détachées, même neuves, pour véhicules à 2, 3 ou 4 roues, sont susceptibles de contenir des produits chimiques dangereux.
 Leur transport est donc interdit.
 Nous restons à votre écoute si besoin.",Wed Sep 25 18:09:50 +0000 2019,Air France FR,40205617,0,0,1176918268143120385
-1176921263685668864,"@mokawi Nous comprenons votre ressenti. Pouvez-vous nous indiquer en Direct Message la référence 
+17,1176921263685668864,"@mokawi Nous comprenons votre ressenti. Pouvez-vous nous indiquer en Direct Message la référence 
 de votre dossier de réservation ?
 Nous restons disponibles.",Wed Sep 25 18:07:50 +0000 2019,Air France FR,40205617,0,0,1176919787957575682
-1176919494998011906,"@mokawi Vous pouvez indiquer un numéro de téléphone fixe si vous le souhaitez.
+18,1176919494998011906,"@mokawi Vous pouvez indiquer un numéro de téléphone fixe si vous le souhaitez.
 Nous restons à votre écoute.",Wed Sep 25 18:00:48 +0000 2019,Air France FR,40205617,0,0,1176918528399687680
-1176898935664889856,"@SamiMails Bonjour @SamiMails, merci de nous avoir contactés via Twitter. 
+19,1176898935664889856,"@SamiMails Bonjour @SamiMails, merci de nous avoir contactés via Twitter. 
 Nous allons vous assister. Pouvez-vous nous en dire plus en DM et nous communiquer votre référence de réservation ? Nous restons disponibles.",Wed Sep 25 16:39:06 +0000 2019,Air France FR,40205617,0,0,1176879664687656961
-1176889858863878144,"@mokawi Bonjour, nous entendons votre mécontentement. Avez-vous déjà effectué une réclamation auprès de notre Service Client ? Dans le cas contraire, nous vous invitons à le faire dès maintenant via ce lien : [LIEN]
+20,1176889858863878144,"@mokawi Bonjour, nous entendons votre mécontentement. Avez-vous déjà effectué une réclamation auprès de notre Service Client ? Dans le cas contraire, nous vous invitons à le faire dès maintenant via ce lien : [LIEN]
 Bonne journée.",Wed Sep 25 16:03:02 +0000 2019,Air France FR,40205617,0,0,1176887351487938560
-1176888501603844096,"@TribillacV Bonjour, nous entendons votre mécontentement. Avez-vous déjà effectué une réclamation auprès de notre service Client ?
+21,1176888501603844096,"@TribillacV Bonjour, nous entendons votre mécontentement. Avez-vous déjà effectué une réclamation auprès de notre service Client ?
 Dans le cas contraire, nous vous invitons à le faire dès maintenant via ce lien [LIEN]
 Nous vous souhaitons une bonne fin de journée.",Wed Sep 25 15:57:38 +0000 2019,Air France FR,40205617,0,0,1176876962037542912
-1176872927461105664,"@JErichot972 Bonjour Julien, nous sommes à votre écoute et vous invitons à nous exposer le problème évoqué en DM. A très vite.",Wed Sep 25 14:55:45 +0000 2019,Air France FR,40205617,1,0,1176865553878831105
-1176868448107945986,"@calexandre974 Bonjour @calexandre974, nous vous remercions pour ce chaleureux message et nous vous souhaitons une excellent voyage jusqu'à la Réunion. 
+22,1176872927461105664,"@JErichot972 Bonjour Julien, nous sommes à votre écoute et vous invitons à nous exposer le problème évoqué en DM. A très vite.",Wed Sep 25 14:55:45 +0000 2019,Air France FR,40205617,1,0,1176865553878831105
+23,1176868448107945986,"@calexandre974 Bonjour @calexandre974, nous vous remercions pour ce chaleureux message et nous vous souhaitons une excellent voyage jusqu'à la Réunion. 
 A bientôt, Sandrine✈",Wed Sep 25 14:37:57 +0000 2019,Air France FR,40205617,1,0,1176822119151427584
-1176866776983986178,"@meshumeursbdx Bonjour @meshumeursbdx, nous n'avons pas de promo sur la carte Week-End à vous proposer aujourd'hui, mais des promos sur des vols toute l'année, c'est par ici: [LIEN]
+24,1176866776983986178,"@meshumeursbdx Bonjour @meshumeursbdx, nous n'avons pas de promo sur la carte Week-End à vous proposer aujourd'hui, mais des promos sur des vols toute l'année, c'est par ici: [LIEN]
 Bonne journée, Sandrine✈",Wed Sep 25 14:31:19 +0000 2019,Air France FR,40205617,0,0,1176822168279293952
-1176859847234641924,"@AKM25707767 Bonjour @AKM25707767,
+25,1176859847234641924,"@AKM25707767 Bonjour @AKM25707767,
 Merci pour l'alerte ! Nous remontons au plus vite votre message aux équipes concernées. Vous avez également la possibilité de le signaler sur le site d'Air France en suivant ce lien : [LIEN]
 Bonne journée, Sandrine✈",Wed Sep 25 14:03:47 +0000 2019,Air France FR,40205617,0,0,1176854958525812736
-1176850024971608066,"@JeremyTederry Bonjour Jeremy, nous souhaitons vous assister. Pourriez-vous nous communiquer votre référence de dossier en DM ? Merci à vous. Nous restons à votre écoute.",Wed Sep 25 13:24:45 +0000 2019,Air France FR,40205617,1,0,1176837880666304512
-1176824334419148800,"@lvrfcb @lvrfcb  Bonjour Anaïs, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Dans l'attente de votre retour, nous restons à votre disposition.",Wed Sep 25 11:42:40 +0000 2019,Air France FR,40205617,0,0,1176822490808668160
-1176774467390967809,"@Cosimania @sCosimania Bonjour, merci de nous avoir contactés via Twitter.
+26,1176850024971608066,"@JeremyTederry Bonjour Jeremy, nous souhaitons vous assister. Pourriez-vous nous communiquer votre référence de dossier en DM ? Merci à vous. Nous restons à votre écoute.",Wed Sep 25 13:24:45 +0000 2019,Air France FR,40205617,1,0,1176837880666304512
+27,1176824334419148800,"@lvrfcb @lvrfcb  Bonjour Anaïs, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Dans l'attente de votre retour, nous restons à votre disposition.",Wed Sep 25 11:42:40 +0000 2019,Air France FR,40205617,0,0,1176822490808668160
+28,1176774467390967809,"@Cosimania @sCosimania Bonjour, merci de nous avoir contactés via Twitter.
 Afin de vous aider au mieux, pouvez-vous nous communiquer la référence de votre dossier de réservation en DM ?
 Nous restons disponibles.",Wed Sep 25 08:24:31 +0000 2019,Air France FR,40205617,0,0,1176772275955220480
-1176772292627619841,"@sim_chev Bonjour @SimChev . Nous allons vous aider avec plaisir. Pouvez-vous SVP, nous contacter par DM en précisant vos nom et prénom, le numéro et le niveau de votre carte Flying Blue, votre adresse e-mail ainsi que votre date de naissance ? A bientôt.",Wed Sep 25 08:15:52 +0000 2019,Air France FR,40205617,0,0,1176571915911270401
-1176772123270029312,"@jmimoun Bonjour Jérémy, pouvez vous nous préciser en DM votre demande ? Souhaitez vous une facture pour ce voyage ?",Wed Sep 25 08:15:12 +0000 2019,Air France FR,40205617,0,0,1176748643317112832
-1176708492545220612,"@Trnnc_ @Trnnc_Nous modernisons nos cabines et notre flotte régulièrement afin de vous satisfaire. 
+29,1176772292627619841,"@sim_chev Bonjour @SimChev . Nous allons vous aider avec plaisir. Pouvez-vous SVP, nous contacter par DM en précisant vos nom et prénom, le numéro et le niveau de votre carte Flying Blue, votre adresse e-mail ainsi que votre date de naissance ? A bientôt.",Wed Sep 25 08:15:52 +0000 2019,Air France FR,40205617,0,0,1176571915911270401
+30,1176772123270029312,"@jmimoun Bonjour Jérémy, pouvez vous nous préciser en DM votre demande ? Souhaitez vous une facture pour ce voyage ?",Wed Sep 25 08:15:12 +0000 2019,Air France FR,40205617,0,0,1176748643317112832
+31,1176708492545220612,"@Trnnc_ @Trnnc_Nous modernisons nos cabines et notre flotte régulièrement afin de vous satisfaire. 
 Nous restons à votre disposition si besoin.",Wed Sep 25 04:02:21 +0000 2019,Air France FR,40205617,0,0,1176616043084681216
-1176708393937096705,@Trnnc_ Bonjour @Trnnc_ merci de nous avoir contactés via Twitter. Nous vous remercions d’avoir pris le temps de nous écrire ici et entendons votre ressenti concernant votre expérience de voyage.,Wed Sep 25 04:01:57 +0000 2019,Air France FR,40205617,0,0,1176616043084681216
-1176653960620515328,"@Thomaas_11 Bonsoir @Thomaas_11 merci de nous avoir contactés via Twitter. Nous allons vous assister. Pouvez-vous nous en dire plus en DM ?
+32,1176708393937096705,@Trnnc_ Bonjour @Trnnc_ merci de nous avoir contactés via Twitter. Nous vous remercions d’avoir pris le temps de nous écrire ici et entendons votre ressenti concernant votre expérience de voyage.,Wed Sep 25 04:01:57 +0000 2019,Air France FR,40205617,0,0,1176616043084681216
+33,1176653960620515328,"@Thomaas_11 Bonsoir @Thomaas_11 merci de nous avoir contactés via Twitter. Nous allons vous assister. Pouvez-vous nous en dire plus en DM ?
 Merci à vous.",Wed Sep 25 00:25:40 +0000 2019,Air France FR,40205617,0,0,1176592671672033289
-1176524275425120262,@Trash__Mi Bonjour @Trash__Mi et merci de nous contacter sur Twitter. Comment pouvons-nous vous aider ? Merci de nous écrire par DM pour toute demande. A très vite.,Tue Sep 24 15:50:20 +0000 2019,Air France FR,40205617,0,0,1176517274439749633
-1176467173725937665,"@mvarieras Bonjour @mvarieras, afin de vous assister, pouvez-vous nous contacter en DM ? 
+34,1176524275425120262,@Trash__Mi Bonjour @Trash__Mi et merci de nous contacter sur Twitter. Comment pouvons-nous vous aider ? Merci de nous écrire par DM pour toute demande. A très vite.,Tue Sep 24 15:50:20 +0000 2019,Air France FR,40205617,0,0,1176517274439749633
+35,1176467173725937665,"@mvarieras Bonjour @mvarieras, afin de vous assister, pouvez-vous nous contacter en DM ? 
 Nous ne communiquons aucune information en public. À tout de suite.",Tue Sep 24 12:03:26 +0000 2019,Air France FR,40205617,0,0,1176186163939487749
-1176453084391849985,"@Tjuskar Bonjour, pour utiliser votre avoir en ligne, votre numéro doit être renseigné lors de la phase de paiement de votre billet via notre site dans le champs ""avoir électronique"" et non dans le champs ""code de réduction"". 
+36,1176453084391849985,"@Tjuskar Bonjour, pour utiliser votre avoir en ligne, votre numéro doit être renseigné lors de la phase de paiement de votre billet via notre site dans le champs ""avoir électronique"" et non dans le champs ""code de réduction"". 
 Nous vous souhaitons une bonne journée.",Tue Sep 24 11:07:27 +0000 2019,Air France FR,40205617,1,0,1175000752521207811
-1176439101651914752,"@de_miren @de_miren Bonjour, merci de revenir vers nous en message privé (""DM"" pour Direct Message). Nous vous invitons à supprimer immédiatement le tweet comportant vos informations confidentielles pour des raisons de sécurité. Merci.",Tue Sep 24 10:11:53 +0000 2019,Air France FR,40205617,0,0,1176436881980055553
-1176438413500792834,"@JulienBRK Bonjour Julien , merci de nous communiquer par DM votre nom/prénom, date de naissance, numéro de carte Flying Blue, statut et adresse e-mail. A tout de suite.",Tue Sep 24 10:09:09 +0000 2019,Air France FR,40205617,0,0,1176434692310085632
-1176415518376566786,"@ClaireR2Paris Bonjour @claire ,merci de nous contacter sur Twitter.  Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? 
+37,1176439101651914752,"@de_miren @de_miren Bonjour, merci de revenir vers nous en message privé (""DM"" pour Direct Message). Nous vous invitons à supprimer immédiatement le tweet comportant vos informations confidentielles pour des raisons de sécurité. Merci.",Tue Sep 24 10:11:53 +0000 2019,Air France FR,40205617,0,0,1176436881980055553
+38,1176438413500792834,"@JulienBRK Bonjour Julien , merci de nous communiquer par DM votre nom/prénom, date de naissance, numéro de carte Flying Blue, statut et adresse e-mail. A tout de suite.",Tue Sep 24 10:09:09 +0000 2019,Air France FR,40205617,0,0,1176434692310085632
+39,1176415518376566786,"@ClaireR2Paris Bonjour @claire ,merci de nous contacter sur Twitter.  Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? 
 Nous restons à votre écoute.",Tue Sep 24 08:38:10 +0000 2019,Air France FR,40205617,0,0,1176414267005906946
-1176413363091456000,"@JacquesPlessier Bonjour Jacques,
+40,1176413363091456000,"@JacquesPlessier Bonjour Jacques,
 
 Nous vous remercions pour votre sympathique retour que nous transmettons à l'équipage qui était en charge du vol. Bonne journée.",Tue Sep 24 08:29:37 +0000 2019,Air France FR,40205617,0,0,1176390743663026176
-1176384437996662784,"@MrsAurelie Bonjour @MrsAurelie, merci de nous avoir contactés via Twitter. Afin de vous renseigner au mieux, pourriez-vous nous communiquer votre référence de réservation via DM ? À tout de suite !",Tue Sep 24 06:34:40 +0000 2019,Air France FR,40205617,0,0,1176383271250382849
-1176375226042585088,"@kawa_sutra Bonjour. Afin de vous renseigner, merci de nous communiquer votre référence de réservation en DM.",Tue Sep 24 05:58:04 +0000 2019,Air France FR,40205617,0,0,1176367565888729088
-1176328063929528321,"@de_miren Bonjour@de_miren, nous allons vous assister. Pouvez-vous nous communiquer votre numéro de carte Flying Blue, nom et prénom, date de naissance, adresse postale, adresse e-mail et votre statut en DM ? Merci à vous",Tue Sep 24 02:50:40 +0000 2019,Air France FR,40205617,0,0,1176239476085014528
-1176262131806867456,"@TTrainini Bonsoir, nous regrettons que votre bagage ait été endommagé. Vous avez 7 jours à compter de la date de réception de votre bagage pour compléter notre formulaire de réclamation ici :  [LIEN]
+41,1176384437996662784,"@MrsAurelie Bonjour @MrsAurelie, merci de nous avoir contactés via Twitter. Afin de vous renseigner au mieux, pourriez-vous nous communiquer votre référence de réservation via DM ? À tout de suite !",Tue Sep 24 06:34:40 +0000 2019,Air France FR,40205617,0,0,1176383271250382849
+42,1176375226042585088,"@kawa_sutra Bonjour. Afin de vous renseigner, merci de nous communiquer votre référence de réservation en DM.",Tue Sep 24 05:58:04 +0000 2019,Air France FR,40205617,0,0,1176367565888729088
+43,1176328063929528321,"@de_miren Bonjour@de_miren, nous allons vous assister. Pouvez-vous nous communiquer votre numéro de carte Flying Blue, nom et prénom, date de naissance, adresse postale, adresse e-mail et votre statut en DM ? Merci à vous",Tue Sep 24 02:50:40 +0000 2019,Air France FR,40205617,0,0,1176239476085014528
+44,1176262131806867456,"@TTrainini Bonsoir, nous regrettons que votre bagage ait été endommagé. Vous avez 7 jours à compter de la date de réception de votre bagage pour compléter notre formulaire de réclamation ici :  [LIEN]
 
 Nous vous souhaitons une bonne soirée.",Mon Sep 23 22:28:40 +0000 2019,Air France FR,40205617,0,0,1176231651896123392
-1176241559941124096,"@FloGil Bonsoir @FloGil et merci de nous avoir contactés via Twitter. Nous vous invitons à répondre au mail de réclamation. 
+45,1176241559941124096,"@FloGil Bonsoir @FloGil et merci de nous avoir contactés via Twitter. Nous vous invitons à répondre au mail de réclamation. 
 Nous vous souhaitons une excellente soirée.",Mon Sep 23 21:06:56 +0000 2019,Air France FR,40205617,0,0,1176200939553918976
-1176231255408631808,"@Rob1P Nous vous invitons, si vous le souhaitez, à faire part de votre expérience à notre service client ici [LIEN]  
+46,1176231255408631808,"@Rob1P Nous vous invitons, si vous le souhaitez, à faire part de votre expérience à notre service client ici [LIEN]  
 Nous vous remercions d’avoir pris le temps de nous écrire et restons à votre écoute si besoin.",Mon Sep 23 20:25:59 +0000 2019,Air France FR,40205617,0,0,1176200527719350272
-1176231130607042561,"@Rob1P Bonsoir Robin,
+47,1176231130607042561,"@Rob1P Bonsoir Robin,
 Merci de nous avoir contactés via Twitter. Nous prenons connaissance de votre message et regrettons votre ressenti. Toutes les remarques de nos clients, positives comme négatives, nous permettent de faire évoluer nos produits et services de manière significative.",Mon Sep 23 20:25:29 +0000 2019,Air France FR,40205617,0,0,1176200527719350272
-1176200405321179139,"@RPeigney Bonsoir @RPeigney, merci de nous contacter sur Twitter.
+48,1176200405321179139,"@RPeigney Bonsoir @RPeigney, merci de nous contacter sur Twitter.
 Afin de vous aider à réserver votre billet, merci de nous préciser par DM votre parcours, dates de voyage, vols choisis, ainsi que le nombre de voyageurs.
 Nous restons à votre écoute.",Mon Sep 23 18:23:24 +0000 2019,Air France FR,40205617,0,0,1176162351541653504
-1176193309565423621,"@serialseb Afin d'effectuer de plus amples recherches, nous avons besoin de plus d'informations vous concernant (référence de dossier, nom/prénom, n° de carte Flying Blue.....). Merci de nous DM ces éléments.",Mon Sep 23 17:55:12 +0000 2019,Air France FR,40205617,0,0,1176169721965830145
-1176187474655232001,"@vinzniv Bonjour Vincent, nous sommes navrés de votre ressenti.  Afin de vous assister, pouvez-vous nous en dire plus en DM ? Merci à vous",Mon Sep 23 17:32:01 +0000 2019,Air France FR,40205617,0,0,1176175146601787392
-1176169183442276353,@serialseb Avez-vous adressé votre réclamation au service client ?,Mon Sep 23 16:19:20 +0000 2019,Air France FR,40205617,0,0,1176150851469094913
-1176148017323433989,"@serialseb Bonjour, nous avons échangé avec vous à plusieurs reprises en DM sur ce point. Nous vous invitons à revenir vers nous, toujours  en DM,  si vous souhaitez nous communiquer d'autres éléments concernant votre demande. Merci à vous",Mon Sep 23 14:55:13 +0000 2019,Air France FR,40205617,0,0,1176135892379013120
-1176145130073575429,"@BrancheEmmanuel Pour échanger en message privé, vous devez cliquer sur la petite enveloppe, puis sur nouveau message.",Mon Sep 23 14:43:45 +0000 2019,Air France FR,40205617,0,0,1176143723614363648
-1176139180235284486,@BrancheEmmanuel En DM signifie en message privé. Nous vous invitons à nous indiquer également votre date de naissance.,Mon Sep 23 14:20:06 +0000 2019,Air France FR,40205617,0,0,1176123135990599681
-1176107304242032640,"@BrancheEmmanuel @BrancheEmmanuel Bonjour, merci de nous communiquer par DM votre nom/prénom, date de naissance, numéro de carte Flying Blue, statut et adresse e-mail. A tout de suite.",Mon Sep 23 12:13:27 +0000 2019,Air France FR,40205617,0,0,1176103287201775616
-1176103074198446080,"@Stef74G Bonjour, afin que votre demande de sponsoring soit étudiée par nos équipes, nous vous invitons à vous rendre sur notre site et remplir notre formulaire ici : [LIEN]
+49,1176193309565423621,"@serialseb Afin d'effectuer de plus amples recherches, nous avons besoin de plus d'informations vous concernant (référence de dossier, nom/prénom, n° de carte Flying Blue.....). Merci de nous DM ces éléments.",Mon Sep 23 17:55:12 +0000 2019,Air France FR,40205617,0,0,1176169721965830145
+50,1176187474655232001,"@vinzniv Bonjour Vincent, nous sommes navrés de votre ressenti.  Afin de vous assister, pouvez-vous nous en dire plus en DM ? Merci à vous",Mon Sep 23 17:32:01 +0000 2019,Air France FR,40205617,0,0,1176175146601787392
+51,1176169183442276353,@serialseb Avez-vous adressé votre réclamation au service client ?,Mon Sep 23 16:19:20 +0000 2019,Air France FR,40205617,0,0,1176150851469094913
+52,1176148017323433989,"@serialseb Bonjour, nous avons échangé avec vous à plusieurs reprises en DM sur ce point. Nous vous invitons à revenir vers nous, toujours  en DM,  si vous souhaitez nous communiquer d'autres éléments concernant votre demande. Merci à vous",Mon Sep 23 14:55:13 +0000 2019,Air France FR,40205617,0,0,1176135892379013120
+53,1176145130073575429,"@BrancheEmmanuel Pour échanger en message privé, vous devez cliquer sur la petite enveloppe, puis sur nouveau message.",Mon Sep 23 14:43:45 +0000 2019,Air France FR,40205617,0,0,1176143723614363648
+54,1176139180235284486,@BrancheEmmanuel En DM signifie en message privé. Nous vous invitons à nous indiquer également votre date de naissance.,Mon Sep 23 14:20:06 +0000 2019,Air France FR,40205617,0,0,1176123135990599681
+55,1176107304242032640,"@BrancheEmmanuel @BrancheEmmanuel Bonjour, merci de nous communiquer par DM votre nom/prénom, date de naissance, numéro de carte Flying Blue, statut et adresse e-mail. A tout de suite.",Mon Sep 23 12:13:27 +0000 2019,Air France FR,40205617,0,0,1176103287201775616
+56,1176103074198446080,"@Stef74G Bonjour, afin que votre demande de sponsoring soit étudiée par nos équipes, nous vous invitons à vous rendre sur notre site et remplir notre formulaire ici : [LIEN]
 Bonne journée.",Mon Sep 23 11:56:38 +0000 2019,Air France FR,40205617,3,0,1176092134308556802
-1176077217752866817,"@CrizxFlex @CrizxFlex Bonjour, pourriez-vous nous recontacter en DM avec plus de précisions s'il vous plaît ? Nous restons disponibles.",Mon Sep 23 10:13:53 +0000 2019,Air France FR,40205617,4,0,1176073873072238592
-1176036215822409728,@rpa_2016 Bonjour @rpa_2016 et bienvenue sur notre Twitter. Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous,Mon Sep 23 07:30:58 +0000 2019,Air France FR,40205617,0,0,1176024949372440576
-1176035973915906048,"@JEROMEDEDEYAN Bonjour Jerôme, afin de vous assister pouvez vous nous en dire plus en DM  ?",Mon Sep 23 07:30:00 +0000 2019,Air France FR,40205617,0,0,1176015448984432640
-1176023574404091904,"@ramicaro @ramicaro Bonjour, et merci de prendre contact avec nous via Twitter. Afin de vous assister, pourriez-vous nous recontacter en DM s'il vous plaît ? Nous restons disponibles.",Mon Sep 23 06:40:44 +0000 2019,Air France FR,40205617,0,0,1175835498230800389
-1176020149259952128,"@danoo77711 Ce montant est susceptible d’évoluer selon les disponibilités. 
+57,1176077217752866817,"@CrizxFlex @CrizxFlex Bonjour, pourriez-vous nous recontacter en DM avec plus de précisions s'il vous plaît ? Nous restons disponibles.",Mon Sep 23 10:13:53 +0000 2019,Air France FR,40205617,4,0,1176073873072238592
+58,1176036215822409728,@rpa_2016 Bonjour @rpa_2016 et bienvenue sur notre Twitter. Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous,Mon Sep 23 07:30:58 +0000 2019,Air France FR,40205617,0,0,1176024949372440576
+59,1176035973915906048,"@JEROMEDEDEYAN Bonjour Jerôme, afin de vous assister pouvez vous nous en dire plus en DM  ?",Mon Sep 23 07:30:00 +0000 2019,Air France FR,40205617,0,0,1176015448984432640
+60,1176023574404091904,"@ramicaro @ramicaro Bonjour, et merci de prendre contact avec nous via Twitter. Afin de vous assister, pourriez-vous nous recontacter en DM s'il vous plaît ? Nous restons disponibles.",Mon Sep 23 06:40:44 +0000 2019,Air France FR,40205617,0,0,1175835498230800389
+61,1176020149259952128,"@danoo77711 Ce montant est susceptible d’évoluer selon les disponibilités. 
 Vous trouverez ces informations via ce lien : [LIEN]
 Nous restons disponibles si besoin et nous vous souhaitons une bonne journée.",Mon Sep 23 06:27:07 +0000 2019,Air France FR,40205617,0,0,1175999023498629121
-1176020107325255681,@danoo77711 Le prix du billet à ce jour est à 910.35 euros +30.00 euros de frais de service soit un total de 940.35 pour un aller simple au tarif Light avec un bagage de 12 kilos en cabine.,Mon Sep 23 06:26:57 +0000 2019,Air France FR,40205617,0,0,1175999023498629121
-1176020016866742272,@danoo77711 Bonjour @danoo77 et merci de nous contacter sur Twitter. Le vol AF1366 du 27 septembre au départ de Paris Charles de Gaulle vers Florence est un appareil Airbus A318.,Mon Sep 23 06:26:36 +0000 2019,Air France FR,40205617,0,0,1175999023498629121
-1176014857256263683,"@Hania_Kassoul @Hania_Kassoul Bonjour, et merci de prendre contact avec nous via Twitter. N'hésitez pas à nous en dire plus via DM. Nous restons disponibles.",Mon Sep 23 06:06:05 +0000 2019,Air France FR,40205617,0,0,1176011037616873473
-1176007898226409472,"@jmbruel Bonjour Jean-Michel, nous sommes ravis que nos équipes au comptoir de Paris-CDG aient pu vous assister et vous donner pleine satisfaction. Nous vous souhaitons un agréable voyage. Bonne journée.",Mon Sep 23 05:38:26 +0000 2019,Air France FR,40205617,1,0,1176003167676444673
-1175796815326826496,"@nanoulafe @nanoulafe Nous regrettons qu’une panne technique vous ait empêché de profiter des distractions attendues.
+62,1176020107325255681,@danoo77711 Le prix du billet à ce jour est à 910.35 euros +30.00 euros de frais de service soit un total de 940.35 pour un aller simple au tarif Light avec un bagage de 12 kilos en cabine.,Mon Sep 23 06:26:57 +0000 2019,Air France FR,40205617,0,0,1175999023498629121
+63,1176020016866742272,@danoo77711 Bonjour @danoo77 et merci de nous contacter sur Twitter. Le vol AF1366 du 27 septembre au départ de Paris Charles de Gaulle vers Florence est un appareil Airbus A318.,Mon Sep 23 06:26:36 +0000 2019,Air France FR,40205617,0,0,1175999023498629121
+64,1176014857256263683,"@Hania_Kassoul @Hania_Kassoul Bonjour, et merci de prendre contact avec nous via Twitter. N'hésitez pas à nous en dire plus via DM. Nous restons disponibles.",Mon Sep 23 06:06:05 +0000 2019,Air France FR,40205617,0,0,1176011037616873473
+65,1176007898226409472,"@jmbruel Bonjour Jean-Michel, nous sommes ravis que nos équipes au comptoir de Paris-CDG aient pu vous assister et vous donner pleine satisfaction. Nous vous souhaitons un agréable voyage. Bonne journée.",Mon Sep 23 05:38:26 +0000 2019,Air France FR,40205617,1,0,1176003167676444673
+66,1175796815326826496,"@nanoulafe @nanoulafe Nous regrettons qu’une panne technique vous ait empêché de profiter des distractions attendues.
 Nous vous invitons à effectuer une réclamation auprès de notre Service Client ici : [LIEN]
 Nous restons à votre disposition.",Sun Sep 22 15:39:40 +0000 2019,Air France FR,40205617,0,0,1175787740572659714
-1175796735010099200,"@nanoulafe @nanoulafe Merci de nous faire part de votre insatisfaction concernant le système audio-vidéo lors de votre voyage.
+67,1175796735010099200,"@nanoulafe @nanoulafe Merci de nous faire part de votre insatisfaction concernant le système audio-vidéo lors de votre voyage.
 Nos équipements font l’objet d’un suivi régulier afin de vous offrir les meilleures conditions de voyage.",Sun Sep 22 15:39:21 +0000 2019,Air France FR,40205617,0,0,1175787740572659714
-1175759850636271621,"@nanoulafe @nanoulafe Bonjour, nous vous invitons à consulter notre site ici : [LIEN] pour plus d’informations.
+68,1175759850636271621,"@nanoulafe @nanoulafe Bonjour, nous vous invitons à consulter notre site ici : [LIEN] pour plus d’informations.
 Nous restons disponibles si besoin et vous souhaitons un bon après-midi.",Sun Sep 22 13:12:47 +0000 2019,Air France FR,40205617,0,0,1175722650263531525
-1175759842872627201,"@lucdid Bonjour @lucdid, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? A très vite.",Sun Sep 22 13:12:45 +0000 2019,Air France FR,40205617,0,0,1175745553164095488
-1175743391520497665,"@sailro Bonjour, merci de nous avoir contactés sur Twitter. Nous venons de vous contacter par DM concernant votre demande. A très vite.",Sun Sep 22 12:07:23 +0000 2019,Air France FR,40205617,0,0,1175721598768287744
-1175729342376267776,"@faridator Bonjour, merci de nous avoir contactés via Twitter, une réponse vous a été envoyé en DM.
+69,1175759842872627201,"@lucdid Bonjour @lucdid, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? A très vite.",Sun Sep 22 13:12:45 +0000 2019,Air France FR,40205617,0,0,1175745553164095488
+70,1175743391520497665,"@sailro Bonjour, merci de nous avoir contactés sur Twitter. Nous venons de vous contacter par DM concernant votre demande. A très vite.",Sun Sep 22 12:07:23 +0000 2019,Air France FR,40205617,0,0,1175721598768287744
+71,1175729342376267776,"@faridator Bonjour, merci de nous avoir contactés via Twitter, une réponse vous a été envoyé en DM.
 Nous vous souhaitons une bonne journée.",Sun Sep 22 11:11:33 +0000 2019,Air France FR,40205617,0,0,1175715745487040514
-1175709725389918213,"@Fuelkick_ @Fuelkick Bonjour, merci de nous avoir contactés via Twitter.
+72,1175709725389918213,"@Fuelkick_ @Fuelkick Bonjour, merci de nous avoir contactés via Twitter.
 Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Sun Sep 22 09:53:36 +0000 2019,Air France FR,40205617,0,0,1175689410056282112
-1175632357665181697,"@7Sbb6 @ينا7Sbb6 Bonjour, merci de nous avoir contactés via Twitter. Nous vous avons apporté une réponse en DM. Nous vous souhaitons une bonne journée.",Sun Sep 22 04:46:10 +0000 2019,Air France FR,40205617,1,0,1175556646438866944
-1175630826735886336,"@UnLaotien @UnLaotien Bonjour, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Sun Sep 22 04:40:05 +0000 2019,Air France FR,40205617,1,0,1175548080961335296
-1175587299582775297,"@sidneylandsam Bonjour @sidneylandsam, merci de nous avoir contactés via Twitter.
+73,1175632357665181697,"@7Sbb6 @ينا7Sbb6 Bonjour, merci de nous avoir contactés via Twitter. Nous vous avons apporté une réponse en DM. Nous vous souhaitons une bonne journée.",Sun Sep 22 04:46:10 +0000 2019,Air France FR,40205617,1,0,1175556646438866944
+74,1175630826735886336,"@UnLaotien @UnLaotien Bonjour, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Sun Sep 22 04:40:05 +0000 2019,Air France FR,40205617,1,0,1175548080961335296
+75,1175587299582775297,"@sidneylandsam Bonjour @sidneylandsam, merci de nous avoir contactés via Twitter.
 Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous.",Sun Sep 22 01:47:08 +0000 2019,Air France FR,40205617,1,0,1175526734269243394
-1175544019314728967,"@drrjsalmon Bonjour @drrjsalmon et merci de nous contacter sur Twitter. Comment pouvons-nous vous aider ? 
+76,1175544019314728967,"@drrjsalmon Bonjour @drrjsalmon et merci de nous contacter sur Twitter. Comment pouvons-nous vous aider ? 
 Pouvez-vous nous en dire plus en DM ? Nous restons à votre écoute.",Sat Sep 21 22:55:09 +0000 2019,Air France FR,40205617,0,0,1175481652396658689
-1175462724832235520,"@EmmanuelGuyonn1 Bonjour Emmanuel.
+77,1175462724832235520,"@EmmanuelGuyonn1 Bonjour Emmanuel.
 Afin de vous assister, merci de nous DM la référence ou n° de billet de ce dossier. Nous sommes à votre écoute.",Sat Sep 21 17:32:07 +0000 2019,Air France FR,40205617,0,0,1175453865921208322
-1175461863133523968,@DorianGaliana La différence de tarif peut s'expliquer par les conditions tarifaires qui diffèrent selon le tarif sélectionné.,Sat Sep 21 17:28:41 +0000 2019,Air France FR,40205617,1,0,1175458456440061952
-1175457141882314760,"@DorianGaliana Bonjour @DorianGaliana, afin de vous assister, nous vous invitons à nous en dire plus en DM, nous restons à votre écoute. A très vite.",Sat Sep 21 17:09:56 +0000 2019,Air France FR,40205617,1,0,1175449589631148034
-1175423128773824512,"@PhilDaubisse @PhilDaubisse Afin de vous assister et pour des raisons de confidentialité, nous vous invitons à nous recontacter en Direct Message. Nous restons disponibles.",Sat Sep 21 14:54:46 +0000 2019,Air France FR,40205617,0,0,1175420506369134592
-1175412701566251008,"@johannChapron @johannCapron afin de vous aider au mieux, pouvez-vous nous communiquer votre référence de dossier en DM.
+78,1175461863133523968,@DorianGaliana La différence de tarif peut s'expliquer par les conditions tarifaires qui diffèrent selon le tarif sélectionné.,Sat Sep 21 17:28:41 +0000 2019,Air France FR,40205617,1,0,1175458456440061952
+79,1175457141882314760,"@DorianGaliana Bonjour @DorianGaliana, afin de vous assister, nous vous invitons à nous en dire plus en DM, nous restons à votre écoute. A très vite.",Sat Sep 21 17:09:56 +0000 2019,Air France FR,40205617,1,0,1175449589631148034
+80,1175423128773824512,"@PhilDaubisse @PhilDaubisse Afin de vous assister et pour des raisons de confidentialité, nous vous invitons à nous recontacter en Direct Message. Nous restons disponibles.",Sat Sep 21 14:54:46 +0000 2019,Air France FR,40205617,0,0,1175420506369134592
+81,1175412701566251008,"@johannChapron @johannCapron afin de vous aider au mieux, pouvez-vous nous communiquer votre référence de dossier en DM.
 En attente de votre retour.",Sat Sep 21 14:13:20 +0000 2019,Air France FR,40205617,0,0,1175409115776114688
-1175402095488524289,"@realdavid_972 Bonjour, afin de vous assister, merci de nous communiquer la référence de votre réservation en DM. A très vite.",Sat Sep 21 13:31:12 +0000 2019,Air France FR,40205617,0,0,1175399223505969153
-1175401354426298368,"@PierreHennequin Bonjour, la mention ""Prioritaire"" est désormais imprimée directement sur l’étiquette apposée sur votre bagage. Nous regrettons toutefois que votre bagage ne soit pas arrivé parmi les premiers. Nous restons à votre disposition en cas de besoin.",Sat Sep 21 13:28:15 +0000 2019,Air France FR,40205617,0,0,1175392906431074307
-1175398629324054528,"@PhilDaubisse @PhilDaubisse Bonjour, nous sommes navrés de ces aléas. N'hésitez pas à nous communiquer votre référence de réservation en  DM si notre assistance est nécessaire. Nous restons disponibles.",Sat Sep 21 13:17:25 +0000 2019,Air France FR,40205617,0,0,1175395530102509573
-1175365340253118464,"@Callmecricri @Callmecricri Bonjour, nous regrettons l'annulation de votre vol AF 681. Afin de vous assister, pourriez-vous nous communiquer votre référence de réservation en DM s'il  vous plaît ? Nous restons disponibles.",Sat Sep 21 11:05:09 +0000 2019,Air France FR,40205617,0,0,1175362739302219776
-1175355336728961025,"@johannChapron Bonjour @johannChapron et bienvenue sur notre Twitter. Pouvez-vous nous en dire plus en DM ?
+82,1175402095488524289,"@realdavid_972 Bonjour, afin de vous assister, merci de nous communiquer la référence de votre réservation en DM. A très vite.",Sat Sep 21 13:31:12 +0000 2019,Air France FR,40205617,0,0,1175399223505969153
+83,1175401354426298368,"@PierreHennequin Bonjour, la mention ""Prioritaire"" est désormais imprimée directement sur l’étiquette apposée sur votre bagage. Nous regrettons toutefois que votre bagage ne soit pas arrivé parmi les premiers. Nous restons à votre disposition en cas de besoin.",Sat Sep 21 13:28:15 +0000 2019,Air France FR,40205617,0,0,1175392906431074307
+84,1175398629324054528,"@PhilDaubisse @PhilDaubisse Bonjour, nous sommes navrés de ces aléas. N'hésitez pas à nous communiquer votre référence de réservation en  DM si notre assistance est nécessaire. Nous restons disponibles.",Sat Sep 21 13:17:25 +0000 2019,Air France FR,40205617,0,0,1175395530102509573
+85,1175365340253118464,"@Callmecricri @Callmecricri Bonjour, nous regrettons l'annulation de votre vol AF 681. Afin de vous assister, pourriez-vous nous communiquer votre référence de réservation en DM s'il  vous plaît ? Nous restons disponibles.",Sat Sep 21 11:05:09 +0000 2019,Air France FR,40205617,0,0,1175362739302219776
+86,1175355336728961025,"@johannChapron Bonjour @johannChapron et bienvenue sur notre Twitter. Pouvez-vous nous en dire plus en DM ?
 Merci à vous.",Sat Sep 21 10:25:23 +0000 2019,Air France FR,40205617,0,0,1175346079279325184
-1175340106934312961,"@LamineGUIRASSY Bonjour Lamine,
+87,1175340106934312961,"@LamineGUIRASSY Bonjour Lamine,
 
 Nous vous remercions également pour vos remarques qui sont essentielles à l'amélioration de notre qualité de service. Nous restons ici à l’écoute car votre satisfaction est une de nos priorités. 
 
 Bonne journée.",Sat Sep 21 09:24:52 +0000 2019,Air France FR,40205617,20,3,1175333896961089536
-1175313528619786240,"@mezues Bonjour @mezues, merci de nous avoir contactés via Twitter. Nous regrettons les difficultés rencontrées pour nous joindre par téléphone. N’hésitez à nous solliciter par DM pour plus de confidentialité. A tout de suite.",Sat Sep 21 07:39:16 +0000 2019,Air France FR,40205617,0,0,1175311038687916033
-1175305617113800706,"@mvarieras Bonjour @mvarieras, afin de vous assister, pouvez-vous nous contacter en DM ? À tout de suite.",Sat Sep 21 07:07:49 +0000 2019,Air France FR,40205617,0,0,1175169843424899078
-1175269021295493120,"@LoysTwit @LoysTwit Bonjour, merci de nous avoir contactés via Twitter.
+88,1175313528619786240,"@mezues Bonjour @mezues, merci de nous avoir contactés via Twitter. Nous regrettons les difficultés rencontrées pour nous joindre par téléphone. N’hésitez à nous solliciter par DM pour plus de confidentialité. A tout de suite.",Sat Sep 21 07:39:16 +0000 2019,Air France FR,40205617,0,0,1175311038687916033
+89,1175305617113800706,"@mvarieras Bonjour @mvarieras, afin de vous assister, pouvez-vous nous contacter en DM ? À tout de suite.",Sat Sep 21 07:07:49 +0000 2019,Air France FR,40205617,0,0,1175169843424899078
+90,1175269021295493120,"@LoysTwit @LoysTwit Bonjour, merci de nous avoir contactés via Twitter.
 Nous vous avons apporté une réponse en DM.
 Nous vous souhaitons une bonne journée.",Sat Sep 21 04:42:24 +0000 2019,Air France FR,40205617,0,0,1175264427718742018
-1175164371942727680,@JacquesPlessier Merci Jacques de nous faire partager votre expérience. Nous sommes ravis que nos équipes aient su vous surprendre et vous rapporter votre objet tant aimé. Nous vous souhaitons une agréable journée.,Fri Sep 20 21:46:34 +0000 2019,Air France FR,40205617,0,0,1175149251690717184
-1175124623953936387,"@aurelien_le_pev Bonjour Aurélien, merci de nous contacter via Twitter.
+91,1175164371942727680,@JacquesPlessier Merci Jacques de nous faire partager votre expérience. Nous sommes ravis que nos équipes aient su vous surprendre et vous rapporter votre objet tant aimé. Nous vous souhaitons une agréable journée.,Fri Sep 20 21:46:34 +0000 2019,Air France FR,40205617,0,0,1175149251690717184
+92,1175124623953936387,"@aurelien_le_pev Bonjour Aurélien, merci de nous contacter via Twitter.
 Afin de vous assister, pouvez-vous nous communiquer en DM votre référence de réservation? À tout de suite.",Fri Sep 20 19:08:37 +0000 2019,Air France FR,40205617,0,0,1175108513703636994
-1175122095484919809,"@Clem_baz Bonjour Clem, merci de nous contacter via Twitter.
+93,1175122095484919809,"@Clem_baz Bonjour Clem, merci de nous contacter via Twitter.
 Afin de vous assister, pouvez-vous nous contacter en DM avec la ou les références concernées par votre demande ? À tout de suite.",Fri Sep 20 18:58:34 +0000 2019,Air France FR,40205617,0,0,1175120058881851393
-1175096136346025984,"@narikzeivFN Bonjour @narikzeivFN, afin de vous renseigner, merci de nous communiquer votre référence de réservation ou votre numéro de billet commençant par 057 en DM. À tout de suite.",Fri Sep 20 17:15:25 +0000 2019,Air France FR,40205617,0,0,1175091444828254213
-1175052371694632960,"@djsnake81 @djsnake81 nous vous informons qu’une réponse vous a été apportée en DM.
+94,1175096136346025984,"@narikzeivFN Bonjour @narikzeivFN, afin de vous renseigner, merci de nous communiquer votre référence de réservation ou votre numéro de billet commençant par 057 en DM. À tout de suite.",Fri Sep 20 17:15:25 +0000 2019,Air France FR,40205617,0,0,1175091444828254213
+95,1175052371694632960,"@djsnake81 @djsnake81 nous vous informons qu’une réponse vous a été apportée en DM.
 
 Nous vous souhaitons une bonne journée.",Fri Sep 20 14:21:31 +0000 2019,Air France FR,40205617,0,0,1175042398075916290
-1175049034849050625,"@mvarieras Bonjour et merci de nous contacter sur Twitter. Afin de vous renseigner au mieux, pourriez-vous nous faire part de votre référence de dossier via DM ? Nous restons disponibles.",Fri Sep 20 14:08:15 +0000 2019,Air France FR,40205617,0,0,1175048081387249664
-1175041802753269762,"@djsnake81 Bonjour @djsnake81, nous souhaitons vous renseigner. Pour cela, nous vous invitons à nous communiquer votre référence de réservation en DM s'il vous plaît ? A très vite.",Fri Sep 20 13:39:31 +0000 2019,Air France FR,40205617,0,0,1175040859651399680
-1175034313013891072,"@AEC73804312 Bonjour @AEC73804312, nous souhaitons vous renseigner. Pour cela, nous vous invitons à nous communiquer votre référence de réservation en DM s'il vous plaît ? A très vite.",Fri Sep 20 13:09:45 +0000 2019,Air France FR,40205617,0,0,1175033322721988608
-1175018496360624129,"@hebiflux Bonjour et merci de nous avoir contactés via Twitter. Nous allons vous assister. Pouvez-vous nous en dire plus en DM ?
+96,1175049034849050625,"@mvarieras Bonjour et merci de nous contacter sur Twitter. Afin de vous renseigner au mieux, pourriez-vous nous faire part de votre référence de dossier via DM ? Nous restons disponibles.",Fri Sep 20 14:08:15 +0000 2019,Air France FR,40205617,0,0,1175048081387249664
+97,1175041802753269762,"@djsnake81 Bonjour @djsnake81, nous souhaitons vous renseigner. Pour cela, nous vous invitons à nous communiquer votre référence de réservation en DM s'il vous plaît ? A très vite.",Fri Sep 20 13:39:31 +0000 2019,Air France FR,40205617,0,0,1175040859651399680
+98,1175034313013891072,"@AEC73804312 Bonjour @AEC73804312, nous souhaitons vous renseigner. Pour cela, nous vous invitons à nous communiquer votre référence de réservation en DM s'il vous plaît ? A très vite.",Fri Sep 20 13:09:45 +0000 2019,Air France FR,40205617,0,0,1175033322721988608
+99,1175018496360624129,"@hebiflux Bonjour et merci de nous avoir contactés via Twitter. Nous allons vous assister. Pouvez-vous nous en dire plus en DM ?
 Nous restons disponibles.",Fri Sep 20 12:06:54 +0000 2019,Air France FR,40205617,0,0,1175016681665679362
-1174993990560702469,"@FredSerriere Bonjour @FredSerriere , merci de nous avoir contactés via Twitter. Nous sommes navrés que vous rencontrez des difficultés via notre site internet. Nous allons vous assister pour effectuer votre réservation et vous invitons à nous communiquer votre demande via DM. À tout de suite.",Fri Sep 20 10:29:32 +0000 2019,Air France FR,40205617,0,0,1174990166445953025
-1174969334705246209,"@AutumnWaldorf Bonjour Olivia, merci de nous avoir contactés via Twitter. Pouvez-vous nous en dire plus en DM ?
+100,1174993990560702469,"@FredSerriere Bonjour @FredSerriere , merci de nous avoir contactés via Twitter. Nous sommes navrés que vous rencontrez des difficultés via notre site internet. Nous allons vous assister pour effectuer votre réservation et vous invitons à nous communiquer votre demande via DM. À tout de suite.",Fri Sep 20 10:29:32 +0000 2019,Air France FR,40205617,0,0,1174990166445953025
+101,1174969334705246209,"@AutumnWaldorf Bonjour Olivia, merci de nous avoir contactés via Twitter. Pouvez-vous nous en dire plus en DM ?
 Nous restons disponibles.",Fri Sep 20 08:51:33 +0000 2019,Air France FR,40205617,0,0,1174966141271175169
-1174968023389622274,"@hydra_66 Bonjour Mathieu. Nous vous remercions pour ce message fort sympathique ainsi que pour votre fidélité. Nous vous souhaitons une excellente journée. A très vite, merci.",Fri Sep 20 08:46:21 +0000 2019,Air France FR,40205617,0,0,1174961858739990528
-1174964676209205249,"@faridator @faridator bnjour. Si vous voulez bien nous rejoindre en DM avec la référence de votre réservation ou votre numéro de billet, nous serons ravis de vous assister. Bonne journée et à bientôt!",Fri Sep 20 08:33:03 +0000 2019,Air France FR,40205617,0,0,1174963631785529344
-1174951400117133314,@nournou86720300 Bonjour et merci de nous contacter sur Twitter. Pouvez vous nous en dire plus en DM? Nous attendons votre message.,Fri Sep 20 07:40:17 +0000 2019,Air France FR,40205617,0,0,1174949445265346563
-1174929043172388865,"@pjc8719 Bonjour @pjc8719 et merci de nous avoir contacté via Twitter. Afin de vous renseigner au mieux, pouvez-vous nous communiquer votre référence de réclamation en DM ?",Fri Sep 20 06:11:27 +0000 2019,Air France FR,40205617,0,0,1174924195286831115
-1174807347891507200,"@yacinovic86 Bonjour Yacine nous avons besoin de la référence de votre dossier afin de vous assister auprès du service client nous vous prions de nous la communiquer en message prive ,nous restons a votre écoute.",Thu Sep 19 22:07:53 +0000 2019,Air France FR,40205617,0,0,1174792880575193088
-1174762403663425537,@yacinovic86 Pouvez-vous nous préciser par DM la référence de réclamation pour laquelle vous attendez une réponse ?,Thu Sep 19 19:09:17 +0000 2019,Air France FR,40205617,0,0,1174758677145931778
-1174752410214047746,"@Noar30 Bonsoir, nous vous avons adressé une réponse par DM. Belle soirée.",Thu Sep 19 18:29:35 +0000 2019,Air France FR,40205617,0,0,1174748589072928769
-1174745551621042179,@Noar30 Nous vous avons adressé une réponde en DM. Belle soirée à vous.,Thu Sep 19 18:02:19 +0000 2019,Air France FR,40205617,0,0,1174742904750911491
-1174742517507592192,"@Noar30 Bonjour @Noar30, merci de nous contacter via Twitter.
+102,1174968023389622274,"@hydra_66 Bonjour Mathieu. Nous vous remercions pour ce message fort sympathique ainsi que pour votre fidélité. Nous vous souhaitons une excellente journée. A très vite, merci.",Fri Sep 20 08:46:21 +0000 2019,Air France FR,40205617,0,0,1174961858739990528
+103,1174964676209205249,"@faridator @faridator bnjour. Si vous voulez bien nous rejoindre en DM avec la référence de votre réservation ou votre numéro de billet, nous serons ravis de vous assister. Bonne journée et à bientôt!",Fri Sep 20 08:33:03 +0000 2019,Air France FR,40205617,0,0,1174963631785529344
+104,1174951400117133314,@nournou86720300 Bonjour et merci de nous contacter sur Twitter. Pouvez vous nous en dire plus en DM? Nous attendons votre message.,Fri Sep 20 07:40:17 +0000 2019,Air France FR,40205617,0,0,1174949445265346563
+105,1174929043172388865,"@pjc8719 Bonjour @pjc8719 et merci de nous avoir contacté via Twitter. Afin de vous renseigner au mieux, pouvez-vous nous communiquer votre référence de réclamation en DM ?",Fri Sep 20 06:11:27 +0000 2019,Air France FR,40205617,0,0,1174924195286831115
+106,1174807347891507200,"@yacinovic86 Bonjour Yacine nous avons besoin de la référence de votre dossier afin de vous assister auprès du service client nous vous prions de nous la communiquer en message prive ,nous restons a votre écoute.",Thu Sep 19 22:07:53 +0000 2019,Air France FR,40205617,0,0,1174792880575193088
+107,1174762403663425537,@yacinovic86 Pouvez-vous nous préciser par DM la référence de réclamation pour laquelle vous attendez une réponse ?,Thu Sep 19 19:09:17 +0000 2019,Air France FR,40205617,0,0,1174758677145931778
+108,1174752410214047746,"@Noar30 Bonsoir, nous vous avons adressé une réponse par DM. Belle soirée.",Thu Sep 19 18:29:35 +0000 2019,Air France FR,40205617,0,0,1174748589072928769
+109,1174745551621042179,@Noar30 Nous vous avons adressé une réponde en DM. Belle soirée à vous.,Thu Sep 19 18:02:19 +0000 2019,Air France FR,40205617,0,0,1174742904750911491
+110,1174742517507592192,"@Noar30 Bonjour @Noar30, merci de nous contacter via Twitter.
 Pouvez-vous nous envoyer en DM votre référence de réservation ?",Thu Sep 19 17:50:16 +0000 2019,Air France FR,40205617,0,0,1174727355149033472
-1174705869281513472,"@Hania_Kassoul Hania, merci pour votre retour.
+111,1174705869281513472,"@Hania_Kassoul Hania, merci pour votre retour.
 Pouvez-vous nous contacter en DM ? À tout de suite.",Thu Sep 19 15:24:38 +0000 2019,Air France FR,40205617,0,0,1174699218470146054
-1174695300679852034,"@Hania_Kassoul @Hania_Kassoul, nous venons de vous l’envoyer.
+112,1174695300679852034,"@Hania_Kassoul @Hania_Kassoul, nous venons de vous l’envoyer.
 L’avez-vous reçu ?
 Nous restons disponibles en DM en cas de besoin.",Thu Sep 19 14:42:39 +0000 2019,Air France FR,40205617,0,0,1174693622811439104
-1174692830067003393,"@Hania_Kassoul Bonjour@Hania_Kassoul, une réponse vous a été envoyée en DM.
+113,1174692830067003393,"@Hania_Kassoul Bonjour@Hania_Kassoul, une réponse vous a été envoyée en DM.
 À très vite.",Thu Sep 19 14:32:50 +0000 2019,Air France FR,40205617,0,0,1174688779153657857
-1174682743973851139,"@SuperYeou Bonsoir Chloé.
+114,1174682743973851139,"@SuperYeou Bonsoir Chloé.
 Nous sommes désolés pour cette anomalie technique et allons vous aider à modifier votre billet.
 Pouvez-vous nous DM votre nouvelle date de retour souhaitée svp?
 Merci.",Thu Sep 19 13:52:45 +0000 2019,Air France FR,40205617,0,0,1174652855191359488
-1174677073539063809,"@MaelAtr Bonjour @MaelAtr, merci de nous avoir contactés via Twitter. Nous sommes navrés pour le dysfonctionnement, nous vous invitons à essayer plus tard. Nous pouvons vous assister. Si cela vous convient, merci de nous communiquer vos informations en DM.
+115,1174677073539063809,"@MaelAtr Bonjour @MaelAtr, merci de nous avoir contactés via Twitter. Nous sommes navrés pour le dysfonctionnement, nous vous invitons à essayer plus tard. Nous pouvons vous assister. Si cela vous convient, merci de nous communiquer vos informations en DM.
 Nous restons disponibles.",Thu Sep 19 13:30:13 +0000 2019,Air France FR,40205617,0,0,1174672747705917440
-1174661956915073024,"@dommtp @zeTravelersClub @Airbus @AFnewsroom @airfrance @skyteam @BoardingArea @AvgeeksFR @aeroport_tls Replying to @dommtp, @zeTravelersCluband 7 others
+116,1174661956915073024,"@dommtp @zeTravelersClub @Airbus @AFnewsroom @airfrance @skyteam @BoardingArea @AvgeeksFR @aeroport_tls Replying to @dommtp, @zeTravelersCluband 7 others
 Bonjour @dommtp, le 1er vol reliera Roissy-Charles de Gaulle à Abidjan/Bamako; les autres destinations concernées sont Toronto et Séoul😊
 A bientôt, Sandrine✈️",Thu Sep 19 12:30:09 +0000 2019,Air France FR,40205617,0,0,1174625703540723714
-1174620187120885760,"@LFortinwine @LFortinwine, ce service est en cours. Nous vous invitons à suivre ce lien [LIEN] , où vous pourrez trouver cette information. Nous restons disponibles pour toutes autres demandes et vous souhaitons une agréable journée.",Thu Sep 19 09:44:10 +0000 2019,Air France FR,40205617,0,0,1174592027562008576
-1174606629557460993,"@yacinovic86 Bonjour.  Nous entendons votre mécontentement. Avez-vous déjà effectué une réclamation auprès des compagnies à bord desquelles vous avez voyagé? Dans le cas contraire, nous vous invitons à effectuer cette opération au plus vite.
+117,1174620187120885760,"@LFortinwine @LFortinwine, ce service est en cours. Nous vous invitons à suivre ce lien [LIEN] , où vous pourrez trouver cette information. Nous restons disponibles pour toutes autres demandes et vous souhaitons une agréable journée.",Thu Sep 19 09:44:10 +0000 2019,Air France FR,40205617,0,0,1174592027562008576
+118,1174606629557460993,"@yacinovic86 Bonjour.  Nous entendons votre mécontentement. Avez-vous déjà effectué une réclamation auprès des compagnies à bord desquelles vous avez voyagé? Dans le cas contraire, nous vous invitons à effectuer cette opération au plus vite.
 Bonne journée.",Thu Sep 19 08:50:18 +0000 2019,Air France FR,40205617,0,0,1174597976389554183
-1174589764126826496,"@JacquesWitt Bonjour Jacques, n'hésitez pas à nous en dire plus en DM si vous souhaitez une assistance. Bonne journée à vous.",Thu Sep 19 07:43:17 +0000 2019,Air France FR,40205617,0,0,1174569283353006080
-1174587872625799169,@treeschannels Bon vol à vous Philippe et belle échappée Madrilène ;),Thu Sep 19 07:35:46 +0000 2019,Air France FR,40205617,2,0,1174571616166174720
-1174584100080029696,"@LFortinwine Bonjour @LFortinwine, merci de nous avoir contactés via Twitter. Nous ne proposons pas ce service pour le moment via notre application. Cependant, le lien suivant  vous permet de suivre votre bagage en ligne : [LIEN]
+119,1174589764126826496,"@JacquesWitt Bonjour Jacques, n'hésitez pas à nous en dire plus en DM si vous souhaitez une assistance. Bonne journée à vous.",Thu Sep 19 07:43:17 +0000 2019,Air France FR,40205617,0,0,1174569283353006080
+120,1174587872625799169,@treeschannels Bon vol à vous Philippe et belle échappée Madrilène ;),Thu Sep 19 07:35:46 +0000 2019,Air France FR,40205617,2,0,1174571616166174720
+121,1174584100080029696,"@LFortinwine Bonjour @LFortinwine, merci de nous avoir contactés via Twitter. Nous ne proposons pas ce service pour le moment via notre application. Cependant, le lien suivant  vous permet de suivre votre bagage en ligne : [LIEN]
 Nous vous souhaitons une bonne journée.",Thu Sep 19 07:20:46 +0000 2019,Air France FR,40205617,0,0,1174579601013714945
-1174575270961000449,@her__max Bonjour Maxime. Merci de nous contacter sur Twitter. Notre application est actuellement fonctionnelle. Nous vous invitons à tenter de vous connecter via un autre appareil. N'hésitez pas à nous apporter des précisions en DM sur le dysfonctionnement rencontré. Bonne journée.,Thu Sep 19 06:45:41 +0000 2019,Air France FR,40205617,0,0,1174573336950706177
-1174569885508046850,"@Al46189929 Bonjour Al, vous pourrez demander le remboursement de votre billet ou des taxes aéroportuaires ici [LIEN] juste en dessous du récapitulatif de votre voyage, rubrique Annulation/Remboursement. Cette démarche annulera l’ensemble du dossier de réservation.",Thu Sep 19 06:24:17 +0000 2019,Air France FR,40205617,0,0,1174304056757690374
-1174455408683081728,@mestrade Bonjour. Nous regrettons cela. Nous constatons que vos préférences ne figurent plus dans votre profil. Pouvez-vous svp nous les communiquer en DM? Nous allons faire le nécessaire. A bientôt.,Wed Sep 18 22:49:24 +0000 2019,Air France FR,40205617,0,0,1174398082794082304
-1174398478073638916,"@T_Anyjay Bonjour @Anyjay, merci de nous contacter sur Twitter.
+122,1174575270961000449,@her__max Bonjour Maxime. Merci de nous contacter sur Twitter. Notre application est actuellement fonctionnelle. Nous vous invitons à tenter de vous connecter via un autre appareil. N'hésitez pas à nous apporter des précisions en DM sur le dysfonctionnement rencontré. Bonne journée.,Thu Sep 19 06:45:41 +0000 2019,Air France FR,40205617,0,0,1174573336950706177
+123,1174569885508046850,"@Al46189929 Bonjour Al, vous pourrez demander le remboursement de votre billet ou des taxes aéroportuaires ici [LIEN] juste en dessous du récapitulatif de votre voyage, rubrique Annulation/Remboursement. Cette démarche annulera l’ensemble du dossier de réservation.",Thu Sep 19 06:24:17 +0000 2019,Air France FR,40205617,0,0,1174304056757690374
+124,1174455408683081728,@mestrade Bonjour. Nous regrettons cela. Nous constatons que vos préférences ne figurent plus dans votre profil. Pouvez-vous svp nous les communiquer en DM? Nous allons faire le nécessaire. A bientôt.,Wed Sep 18 22:49:24 +0000 2019,Air France FR,40205617,0,0,1174398082794082304
+125,1174398478073638916,"@T_Anyjay Bonjour @Anyjay, merci de nous contacter sur Twitter.
 Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous.",Wed Sep 18 19:03:11 +0000 2019,Air France FR,40205617,0,0,1174378571231612928
-1174364366076071936,"@tiboxstick Merci, nous vous répondons de suite.",Wed Sep 18 16:47:38 +0000 2019,Air France FR,40205617,0,0,1174362850288123911
-1174362483198480389,"@tiboxstick Bonjour, afin de vous assister, pouvez vous revenir vers nous en DM? Nous restons à votre écoute.",Wed Sep 18 16:40:09 +0000 2019,Air France FR,40205617,0,0,1174344965251653633
-1174338399009947648,@0nizukaEikichi Bonjour @0nizukaEikichiet merci de nous contacter sur Twitter. Comment pouvons-nous vous aider ?  Pouvez-vous nous en dire plus en Direct Message ? Merci à vous.,Wed Sep 18 15:04:27 +0000 2019,Air France FR,40205617,0,0,1174326796671705089
-1174308437439782912,"@avandevelde79 Bonjour Alexandre et merci de nous contacter sur Twitter.  Merci de nous communiquer par DM votre nom/prénom, date de naissance, numéro de carte Flying Blue, statut et adresse e-mail. A tout de suite.",Wed Sep 18 13:05:23 +0000 2019,Air France FR,40205617,0,0,1174307211717337088
-1174300608951672832,"@Sylvain___B Bonjour Sylvain, nous regrettons ce dysfonctionnement. Pouvez-vous en DM nous indiquer le parcours, numéros de vols, dates de voyage ?
+126,1174364366076071936,"@tiboxstick Merci, nous vous répondons de suite.",Wed Sep 18 16:47:38 +0000 2019,Air France FR,40205617,0,0,1174362850288123911
+127,1174362483198480389,"@tiboxstick Bonjour, afin de vous assister, pouvez vous revenir vers nous en DM? Nous restons à votre écoute.",Wed Sep 18 16:40:09 +0000 2019,Air France FR,40205617,0,0,1174344965251653633
+128,1174338399009947648,@0nizukaEikichi Bonjour @0nizukaEikichiet merci de nous contacter sur Twitter. Comment pouvons-nous vous aider ?  Pouvez-vous nous en dire plus en Direct Message ? Merci à vous.,Wed Sep 18 15:04:27 +0000 2019,Air France FR,40205617,0,0,1174326796671705089
+129,1174308437439782912,"@avandevelde79 Bonjour Alexandre et merci de nous contacter sur Twitter.  Merci de nous communiquer par DM votre nom/prénom, date de naissance, numéro de carte Flying Blue, statut et adresse e-mail. A tout de suite.",Wed Sep 18 13:05:23 +0000 2019,Air France FR,40205617,0,0,1174307211717337088
+130,1174300608951672832,"@Sylvain___B Bonjour Sylvain, nous regrettons ce dysfonctionnement. Pouvez-vous en DM nous indiquer le parcours, numéros de vols, dates de voyage ?
 Nous restons disponibles.",Wed Sep 18 12:34:17 +0000 2019,Air France FR,40205617,0,0,1174297614327701505
-1174295673614798848,"@LaurentEdel Bonjour @LaurentEdel, toute demande d'annulation doit être effectuée par le client lui-même via le site Air France. Nous n'avons pas, via ce canal, la possibilité d'annuler une réservation. Nous restons disponibles.",Wed Sep 18 12:14:40 +0000 2019,Air France FR,40205617,0,0,1174292496207233024
-1174285624012091392,"@Ze_Pueqeno Bonjour @Ze_Pueqeno, nous regrettons que vous n'appréciez pas forcément leur compagnie; mais à bord de nos vols, nos petits voyageurs en culotte courte sont toujours les bienvenus 😉 
+131,1174295673614798848,"@LaurentEdel Bonjour @LaurentEdel, toute demande d'annulation doit être effectuée par le client lui-même via le site Air France. Nous n'avons pas, via ce canal, la possibilité d'annuler une réservation. Nous restons disponibles.",Wed Sep 18 12:14:40 +0000 2019,Air France FR,40205617,0,0,1174292496207233024
+132,1174285624012091392,"@Ze_Pueqeno Bonjour @Ze_Pueqeno, nous regrettons que vous n'appréciez pas forcément leur compagnie; mais à bord de nos vols, nos petits voyageurs en culotte courte sont toujours les bienvenus 😉 
 Bonne journée, Sandrine ✈",Wed Sep 18 11:34:44 +0000 2019,Air France FR,40205617,0,1,1174176657160232961
-1174278785455263745,"@marcfredericgo Bonjour @marcfredericgo, merci de nous avoir contactés sur Twitter. Nous venons de vous contacter par DM concernant votre demande. 
+133,1174278785455263745,"@marcfredericgo Bonjour @marcfredericgo, merci de nous avoir contactés sur Twitter. Nous venons de vous contacter par DM concernant votre demande. 
 À très vite.",Wed Sep 18 11:07:34 +0000 2019,Air France FR,40205617,0,0,1174273097517731842
-1174256504926609408,"@Lenoir88Lenoir Bonjour Charlotte, nous prenons connaissance de votre message et regrettons votre ressenti. Nous vous invitons à faire part de votre expérience à notre service client ici [LIEN]  
+134,1174256504926609408,"@Lenoir88Lenoir Bonjour Charlotte, nous prenons connaissance de votre message et regrettons votre ressenti. Nous vous invitons à faire part de votre expérience à notre service client ici [LIEN]  
 Nous vous remercions de prendre le temps de nous écrire.",Wed Sep 18 09:39:02 +0000 2019,Air France FR,40205617,0,0,1174254923976007682
-1174216794392997889,"@cynthiamoussi Bonjour, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Wed Sep 18 07:01:14 +0000 2019,Air France FR,40205617,0,0,1174146973756264448
-1174172671342534656,"@xenirox @xenirox, une réponse vous a été apportée en DM. Nous vous souhaitons une bonne journée.",Wed Sep 18 04:05:54 +0000 2019,Air France FR,40205617,0,0,1173958373357883394
-1174163453612875776,"@ohcourant @ohcourant Bonjour, nous vous remercions de nous avoir contactés sur Twitter. Nous vous invitons à consulter notre site ici : [LIEN] pour plus d’informations.
+135,1174216794392997889,"@cynthiamoussi Bonjour, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Wed Sep 18 07:01:14 +0000 2019,Air France FR,40205617,0,0,1174146973756264448
+136,1174172671342534656,"@xenirox @xenirox, une réponse vous a été apportée en DM. Nous vous souhaitons une bonne journée.",Wed Sep 18 04:05:54 +0000 2019,Air France FR,40205617,0,0,1173958373357883394
+137,1174163453612875776,"@ohcourant @ohcourant Bonjour, nous vous remercions de nous avoir contactés sur Twitter. Nous vous invitons à consulter notre site ici : [LIEN] pour plus d’informations.
 Nous restons disponibles si besoin.",Wed Sep 18 03:29:16 +0000 2019,Air France FR,40205617,0,0,1174094706285977606
-1174091726077726721,@miiskine Bonsoir @miiskine et merci de nous avoir contactés via Twitter. Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous,Tue Sep 17 22:44:15 +0000 2019,Air France FR,40205617,0,0,1174054730894589954
-1174090101141450752,"@18Rowling @Bonjour, merci de nous avoir contactés sur Twitter. Afin de vous renseigner, merci de nous communiquer votre référence de réservation en DM.",Tue Sep 17 22:37:48 +0000 2019,Air France FR,40205617,0,0,1174072201731067906
-1174071317114621954,"@rayurebleue Bonsoir @rayurebleue et bienvenue sur notre Twitter. Nous allons vous assister. Merci de nous communiquer par DM votre nom/prénom, date de naissance, numéro de carte Flying Blue, statut et adresse e-mail. A tout de suite.",Tue Sep 17 21:23:09 +0000 2019,Air France FR,40205617,0,0,1174037862129569792
-1174061083738476549,"@axelvitch Bonjour, bienvenue sur Twitter. Nous vous invitons à nous en dire plus DM. 
+138,1174091726077726721,@miiskine Bonsoir @miiskine et merci de nous avoir contactés via Twitter. Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous,Tue Sep 17 22:44:15 +0000 2019,Air France FR,40205617,0,0,1174054730894589954
+139,1174090101141450752,"@18Rowling @Bonjour, merci de nous avoir contactés sur Twitter. Afin de vous renseigner, merci de nous communiquer votre référence de réservation en DM.",Tue Sep 17 22:37:48 +0000 2019,Air France FR,40205617,0,0,1174072201731067906
+140,1174071317114621954,"@rayurebleue Bonsoir @rayurebleue et bienvenue sur notre Twitter. Nous allons vous assister. Merci de nous communiquer par DM votre nom/prénom, date de naissance, numéro de carte Flying Blue, statut et adresse e-mail. A tout de suite.",Tue Sep 17 21:23:09 +0000 2019,Air France FR,40205617,0,0,1174037862129569792
+141,1174061083738476549,"@axelvitch Bonjour, bienvenue sur Twitter. Nous vous invitons à nous en dire plus DM. 
 Nous restons à votre écoute.",Tue Sep 17 20:42:30 +0000 2019,Air France FR,40205617,0,0,1174024102652366848
-1174047367668146176,"@Marion_MyAnh @Marion_Myanh, afin de vous aidez au mieux, pouvez-vous nous communiquez votre référence de réservation par message privé. Nous restons disponibles.",Tue Sep 17 19:47:59 +0000 2019,Air France FR,40205617,0,0,1174042793716658178
-1177480695611981828,"@samlecorsaire Bonjour @samlecorsaire, merci de nous contacter via Twitter.
+142,1174047367668146176,"@Marion_MyAnh @Marion_Myanh, afin de vous aidez au mieux, pouvez-vous nous communiquez votre référence de réservation par message privé. Nous restons disponibles.",Tue Sep 17 19:47:59 +0000 2019,Air France FR,40205617,0,0,1174042793716658178
+143,1177480695611981828,"@samlecorsaire Bonjour @samlecorsaire, merci de nous contacter via Twitter.
 Afin de vous assister, pouvez-vous nous contacter en DM ? À tout de suite.",Fri Sep 27 07:10:49 +0000 2019,Air France FR,40205617,0,0,1176868613044736000
-1177458938779820032,"@calexandre974 @calexandre974 bonjour! Si vous voulez bien nous rejoindre en DM afin de nous exposer votre suggestion plus en détail, nous serons ravis de vous assister. Bonne journée et à bientôt!",Fri Sep 27 05:44:21 +0000 2019,Air France FR,40205617,0,0,1177392149505150978
-1177406910456356867,"@NY44c Bonjour @NY44c, merci de nous contacter sur Twitter.
+144,1177458938779820032,"@calexandre974 @calexandre974 bonjour! Si vous voulez bien nous rejoindre en DM afin de nous exposer votre suggestion plus en détail, nous serons ravis de vous assister. Bonne journée et à bientôt!",Fri Sep 27 05:44:21 +0000 2019,Air France FR,40205617,0,0,1177392149505150978
+145,1177406910456356867,"@NY44c Bonjour @NY44c, merci de nous contacter sur Twitter.
 Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? 
 Merci à vous.",Fri Sep 27 02:17:37 +0000 2019,Air France FR,40205617,0,0,1177344926587281408
-1177352460748382208,"@Didouush Bonsoir @Didouush, merci de nous contacter sur Twitter.
+146,1177352460748382208,"@Didouush Bonsoir @Didouush, merci de nous contacter sur Twitter.
 Afin de vous aider à réserver votre billet, merci de nous préciser par DM votre parcours, dates de voyage, vols choisis, ainsi que le nombre de voyageurs.
 Nous restons disponibles.",Thu Sep 26 22:41:15 +0000 2019,Air France FR,40205617,0,0,1177313130885603328
-1177532687344701442,"@Maubry_exe Bonjour, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Fri Sep 27 10:37:24 +0000 2019,Air France FR,40205617,0,0,1177528510421852161
-1177515398234697729,"@cyberguerre Bonjour Nicolas, bienvenue sur Twitter.
+147,1177532687344701442,"@Maubry_exe Bonjour, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Fri Sep 27 10:37:24 +0000 2019,Air France FR,40205617,0,0,1177528510421852161
+148,1177515398234697729,"@cyberguerre Bonjour Nicolas, bienvenue sur Twitter.
 Il arrive que certaines des compagnies partenaires n'autorisent pas l'enregistrement via notre site. Dans ce cas, nous vous invitons à essayer via le site Internet de la compagnie en question ou directement à l'aéroport.
 Belle journée.",Fri Sep 27 09:28:42 +0000 2019,Air France FR,40205617,1,1,1177511962973888518
-1177586280571506693,"@vanessaweb Bonjour Vanessa, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Etes-vous sur le site TRANSAVIA ou sur le site Air France avec des vols opérés par TRANSAVIA ? Merci à vous",Fri Sep 27 14:10:22 +0000 2019,Air France FR,40205617,0,0,1177582803824848896
-1177583427115212800,"@noorghdr @AnneRigail @AirFranceKLM Bonjour, Air France a renoué avec la tradition de baptiser ses avions. Les prochains A350 porteront également le nom de villes françaises. Bonne journée ! Clémence",Fri Sep 27 13:59:02 +0000 2019,Air France FR,40205617,1,0,1177581590731509760
-1177554006601850880,"@vramiro Bonjour @vramiro ,  merci de nous communiquer par DM votre nom/prénom, date de naissance, numéro de carte Flying Blue, statut et adresse e-mail. A tout de suite.",Fri Sep 27 12:02:07 +0000 2019,Air France FR,40205617,0,0,1177552136386895874
-1177552376510713856,"@fabricegv @fabricegv Bonjour, merci de nous avoir contactés via Twitter.
+149,1177586280571506693,"@vanessaweb Bonjour Vanessa, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Etes-vous sur le site TRANSAVIA ou sur le site Air France avec des vols opérés par TRANSAVIA ? Merci à vous",Fri Sep 27 14:10:22 +0000 2019,Air France FR,40205617,0,0,1177582803824848896
+150,1177583427115212800,"@noorghdr @AnneRigail @AirFranceKLM Bonjour, Air France a renoué avec la tradition de baptiser ses avions. Les prochains A350 porteront également le nom de villes françaises. Bonne journée ! Clémence",Fri Sep 27 13:59:02 +0000 2019,Air France FR,40205617,1,0,1177581590731509760
+151,1177554006601850880,"@vramiro Bonjour @vramiro ,  merci de nous communiquer par DM votre nom/prénom, date de naissance, numéro de carte Flying Blue, statut et adresse e-mail. A tout de suite.",Fri Sep 27 12:02:07 +0000 2019,Air France FR,40205617,0,0,1177552136386895874
+152,1177552376510713856,"@fabricegv @fabricegv Bonjour, merci de nous avoir contactés via Twitter.
 Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Fri Sep 27 11:55:39 +0000 2019,Air France FR,40205617,0,0,1177544592398458881
-1177550816925892608,"@Nacksssss Bonjour, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Fri Sep 27 11:49:27 +0000 2019,Air France FR,40205617,0,0,1177550092200554497
-1177549058313003008,"@Battersea4ever @Battersea4ever Bonjour, et et merci de prendre contact avec nous via Twitter. Pourriez-vous nous recontacter en DM avec plus de précisions ainsi que votre numéro de carte Flying Blue s'il vous plaît ? A très bientôt.",Fri Sep 27 11:42:27 +0000 2019,Air France FR,40205617,0,0,1177547941797666817
-1177539996108107776,"@_jonasf_ Bonjour Julien, pouvez-vous nous en dire plus en DM ? Nous restons à votre écoute.",Fri Sep 27 11:06:27 +0000 2019,Air France FR,40205617,0,0,1177537542318690307
-1177760485707522050,@dear_0106 Bonjour @dear_0106 merci de nous avoir contactés via Twitter.  Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous,Sat Sep 28 01:42:36 +0000 2019,Air France FR,40205617,0,0,1177661658145153025
-1177674138007326727,"@KrasdalPopov Bonjour, afin de vous assister, merci de nous communiquer votre référence de réservation ou votre numéro de billet en DM. A très vite.",Fri Sep 27 19:59:29 +0000 2019,Air France FR,40205617,0,0,1177667323479695360
+153,1177550816925892608,"@Nacksssss Bonjour, nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous",Fri Sep 27 11:49:27 +0000 2019,Air France FR,40205617,0,0,1177550092200554497
+154,1177549058313003008,"@Battersea4ever @Battersea4ever Bonjour, et et merci de prendre contact avec nous via Twitter. Pourriez-vous nous recontacter en DM avec plus de précisions ainsi que votre numéro de carte Flying Blue s'il vous plaît ? A très bientôt.",Fri Sep 27 11:42:27 +0000 2019,Air France FR,40205617,0,0,1177547941797666817
+155,1177539996108107776,"@_jonasf_ Bonjour Julien, pouvez-vous nous en dire plus en DM ? Nous restons à votre écoute.",Fri Sep 27 11:06:27 +0000 2019,Air France FR,40205617,0,0,1177537542318690307
+156,1177760485707522050,@dear_0106 Bonjour @dear_0106 merci de nous avoir contactés via Twitter.  Nous allons vous assister. Pouvez-vous nous en dire plus en DM ? Merci à vous,Sat Sep 28 01:42:36 +0000 2019,Air France FR,40205617,0,0,1177661658145153025
+157,1177674138007326727,"@KrasdalPopov Bonjour, afin de vous assister, merci de nous communiquer votre référence de réservation ou votre numéro de billet en DM. A très vite.",Fri Sep 27 19:59:29 +0000 2019,Air France FR,40205617,0,0,1177667323479695360
