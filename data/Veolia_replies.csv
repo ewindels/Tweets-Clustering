@@ -1,10 +1,10 @@
-Unnamed: 0,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
-0,1177583847099240448,"@Supadupaaaaa Bonjour, je vous invite à nous suivre pour que nous puissions discuter en privé.",Fri Sep 27 14:00:42 +0000 2019,Veolia France,783942862685802500,0,0,1177271981219164163
-1,1177540605817360386,"@AmapolatekcoR Bonjour, pour cette demande, nous vous invitons à contacter notre service Relations Consommateurs au numéro figurant sur votre facture. Cordialement.",Fri Sep 27 11:08:52 +0000 2019,Veolia France,783942862685802500,0,0,1177528380650139649
-2,1177167830611038208,"@Cecilou54 @got_freddy @Le_Poool Bonjour, je vous invite à nous suivre pour que nous en discutions en privé.",Thu Sep 26 10:27:36 +0000 2019,Veolia France,783942862685802500,0,0,1177120709769871360
-3,1176801268486103040,"@_A_Sheep Bonjour, pouvez-vous suivre notre compte afin d'en discuter en privé svp.",Wed Sep 25 10:11:00 +0000 2019,Veolia France,783942862685802500,0,0,1173712274399399936
-4,1176135068689096706,"@Celenna6 Bonjour, pouvez-vous suivre notre compte afin que puission en discuter en PV s'il vous plait.",Mon Sep 23 14:03:46 +0000 2019,Veolia France,783942862685802500,0,0,1176129203189760002
-5,1175141993900625922,"@Chattancourt Bonsoir, merci de bien vouloir nous suivre pour poursuivre cette conversation en messagerie pv.",Fri Sep 20 20:17:39 +0000 2019,Veolia France,783942862685802500,0,0,1175139421081022464
-6,1175022029965336576,"@CosiNine @GDeleur @Veolia @CosiNine Bonjour, pouvez-vous suivre notre compte afin que nous puissions discuter en privé svp. Merci",Fri Sep 20 12:20:57 +0000 2019,Veolia France,783942862685802500,0,0,1174738551231193088
-7,1174958526877188097,"@GravierAlexand1 Bonjour, pouvez-vous suivre notre compte afin que nous puissions en discuter en PV svp? Merci",Fri Sep 20 08:08:37 +0000 2019,Veolia France,783942862685802500,0,0,1174955226073198594
-8,1174678307306184705,"@lothiraldan Bonjour, pouvez-vous suivre notre compte svp pour poursuivre cette conversation en pv?",Thu Sep 19 13:35:07 +0000 2019,Veolia France,783942862685802500,0,0,1174677621378093056
+id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+1177583847099240448,"@Supadupaaaaa Bonjour, je vous invite à nous suivre pour que nous puissions discuter en privé.",Fri Sep 27 14:00:42 +0000 2019,Veolia France,783942862685802500,0,0,1177271981219164163
+1177540605817360386,"@AmapolatekcoR Bonjour, pour cette demande, nous vous invitons à contacter notre service Relations Consommateurs au numéro figurant sur votre facture. Cordialement.",Fri Sep 27 11:08:52 +0000 2019,Veolia France,783942862685802500,0,0,1177528380650139649
+1177167830611038208,"@Cecilou54 @got_freddy @Le_Poool Bonjour, je vous invite à nous suivre pour que nous en discutions en privé.",Thu Sep 26 10:27:36 +0000 2019,Veolia France,783942862685802500,0,0,1177120709769871360
+1176801268486103040,"@_A_Sheep Bonjour, pouvez-vous suivre notre compte afin d'en discuter en privé svp.",Wed Sep 25 10:11:00 +0000 2019,Veolia France,783942862685802500,0,0,1173712274399399936
+1176135068689096706,"@Celenna6 Bonjour, pouvez-vous suivre notre compte afin que puission en discuter en PV s'il vous plait.",Mon Sep 23 14:03:46 +0000 2019,Veolia France,783942862685802500,0,0,1176129203189760002
+1175141993900625922,"@Chattancourt Bonsoir, merci de bien vouloir nous suivre pour poursuivre cette conversation en messagerie pv.",Fri Sep 20 20:17:39 +0000 2019,Veolia France,783942862685802500,0,0,1175139421081022464
+1175022029965336576,"@CosiNine @GDeleur @Veolia @CosiNine Bonjour, pouvez-vous suivre notre compte afin que nous puissions discuter en privé svp. Merci",Fri Sep 20 12:20:57 +0000 2019,Veolia France,783942862685802500,0,0,1174738551231193088
+1174958526877188097,"@GravierAlexand1 Bonjour, pouvez-vous suivre notre compte afin que nous puissions en discuter en PV svp? Merci",Fri Sep 20 08:08:37 +0000 2019,Veolia France,783942862685802500,0,0,1174955226073198594
+1174678307306184705,"@lothiraldan Bonjour, pouvez-vous suivre notre compte svp pour poursuivre cette conversation en pv?",Thu Sep 19 13:35:07 +0000 2019,Veolia France,783942862685802500,0,0,1174677621378093056

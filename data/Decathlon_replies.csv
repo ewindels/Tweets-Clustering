@@ -1,43 +1,43 @@
-Unnamed: 0,id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
-0,1177283153792290817,"@Plasma_Gameur Alors moi aussi, bonne nuit Vincent 😘",Thu Sep 26 18:05:51 +0000 2019,Decathlon,126267113,1,0,1177280893225975808
-1,1177280685863817216,@Plasma_Gameur Ça va bien merci Vincent !,Thu Sep 26 17:56:02 +0000 2019,Decathlon,126267113,1,0,1177245893394935809
-2,1176901874747891713,"@beamerminsk On n’avait pas encore vu, quel frère 💞",Wed Sep 25 16:50:47 +0000 2019,Decathlon,126267113,0,0,1176897112426123264
-3,1176896090991419392,@beamerminsk De l'amour ?,Wed Sep 25 16:27:48 +0000 2019,Decathlon,126267113,1,0,1176895729274695682
-4,1176788162342989824,"@BasilicPodcast Hey ! Bien-sûr !
+id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+1177283153792290817,"@Plasma_Gameur Alors moi aussi, bonne nuit Vincent 😘",Thu Sep 26 18:05:51 +0000 2019,Decathlon,126267113,1,0,1177280893225975808
+1177280685863817216,@Plasma_Gameur Ça va bien merci Vincent !,Thu Sep 26 17:56:02 +0000 2019,Decathlon,126267113,1,0,1177245893394935809
+1176901874747891713,"@beamerminsk On n’avait pas encore vu, quel frère 💞",Wed Sep 25 16:50:47 +0000 2019,Decathlon,126267113,0,0,1176897112426123264
+1176896090991419392,@beamerminsk De l'amour ?,Wed Sep 25 16:27:48 +0000 2019,Decathlon,126267113,1,0,1176895729274695682
+1176788162342989824,"@BasilicPodcast Hey ! Bien-sûr !
 Tu peux me donner le numéro de ta commande en DM, ou au moins l'adresse email qui y est associée ?
 Pascale",Wed Sep 25 09:18:56 +0000 2019,Decathlon,126267113,0,0,1176767415318917120
-5,1176552848588455936,"@MINYOONCIA @SeoYoongiBMH Trop de confiance, trop de confiance 😏",Tue Sep 24 17:43:53 +0000 2019,Decathlon,126267113,137,4,1176551555782316032
-6,1176544886054674432,"@polarbearyoongi hahahaha, ah ouais on en est là.",Tue Sep 24 17:12:14 +0000 2019,Decathlon,126267113,68,12,1176543986535809025
-7,1176541270220640256,"@Sverdlovian Salut ! Tu peux commander en ligne, y'a du stock : [LIEN]
+1176552848588455936,"@MINYOONCIA @SeoYoongiBMH Trop de confiance, trop de confiance 😏",Tue Sep 24 17:43:53 +0000 2019,Decathlon,126267113,137,4,1176551555782316032
+1176544886054674432,"@polarbearyoongi hahahaha, ah ouais on en est là.",Tue Sep 24 17:12:14 +0000 2019,Decathlon,126267113,68,12,1176543986535809025
+1176541270220640256,"@Sverdlovian Salut ! Tu peux commander en ligne, y'a du stock : [LIEN]
 yann",Tue Sep 24 16:57:52 +0000 2019,Decathlon,126267113,0,0,1176540761464233989
-8,1176431538252046348,"@Pirod411 @KametoCorp Oui, justement tu es cycliste mais pas eux. Le guidon et la position route n'est pas hyper facile à appréhender pour un débutant. Du coup, ils ont opté pour un bon VTC + cuissard.",Tue Sep 24 09:41:50 +0000 2019,Decathlon,126267113,1,0,1176430386110484482
-9,1176427592372707329,"@Pirod411 @KametoCorp Salut Romain, ce n'est pas un VTT mais un VTC qui permet d'être polyvalent et de passer sur des routes et des chemins. Le vélo route, quand tu n'es pas habitué à en faire, c'est pas la meilleure option.
+1176431538252046348,"@Pirod411 @KametoCorp Oui, justement tu es cycliste mais pas eux. Le guidon et la position route n'est pas hyper facile à appréhender pour un débutant. Du coup, ils ont opté pour un bon VTC + cuissard.",Tue Sep 24 09:41:50 +0000 2019,Decathlon,126267113,1,0,1176430386110484482
+1176427592372707329,"@Pirod411 @KametoCorp Salut Romain, ce n'est pas un VTT mais un VTC qui permet d'être polyvalent et de passer sur des routes et des chemins. Le vélo route, quand tu n'es pas habitué à en faire, c'est pas la meilleure option.
 Yann",Tue Sep 24 09:26:09 +0000 2019,Decathlon,126267113,2,0,1176410069627543552
-10,1176408028427489286,"@damien27480 Vous pouvez essayer d'appeler notre service client (09 69 32 33 22), mais il se peut qu'ils ne puissent pas trouver la solution immédiatement par téléphone.
+1176408028427489286,"@damien27480 Vous pouvez essayer d'appeler notre service client (09 69 32 33 22), mais il se peut qu'ils ne puissent pas trouver la solution immédiatement par téléphone.
 Yann",Tue Sep 24 08:08:25 +0000 2019,Decathlon,126267113,0,0,1176407421495009280
-11,1176406514426417152,"@damien27480 Bonjour Damien, vous pouvez demander l'aide de notre assistance via ce formulaire : [LIEN]
+1176406514426417152,"@damien27480 Bonjour Damien, vous pouvez demander l'aide de notre assistance via ce formulaire : [LIEN]
 Yann",Tue Sep 24 08:02:24 +0000 2019,Decathlon,126267113,0,0,1176405279396814848
-12,1176111932048334849,"@Ylusion Soit le ticket de caisse, soit ta carte Decathlon si tu l'as utilisée au moment de l'achat.",Mon Sep 23 12:31:50 +0000 2019,Decathlon,126267113,0,0,1176111796605923328
-13,1176111226360868864,"@Ylusion Peut-être que le modèle en question a un souci de fabrication. Ça ne me semble pas normal, n'hésite pas à repasser en magasin pour qu'on puisse te l'échanger.
+1176111932048334849,"@Ylusion Soit le ticket de caisse, soit ta carte Decathlon si tu l'as utilisée au moment de l'achat.",Mon Sep 23 12:31:50 +0000 2019,Decathlon,126267113,0,0,1176111796605923328
+1176111226360868864,"@Ylusion Peut-être que le modèle en question a un souci de fabrication. Ça ne me semble pas normal, n'hésite pas à repasser en magasin pour qu'on puisse te l'échanger.
 Yann",Mon Sep 23 12:29:02 +0000 2019,Decathlon,126267113,0,0,1176108367523307526
-14,1176104799059750913,"@Kammeto Courage Kamel on est ensemble. 
+1176104799059750913,"@Kammeto Courage Kamel on est ensemble. 
 Et si au bout de 2h tu commences à fatiguer, dis-toi qu'il n'en reste plus que 7 😏",Mon Sep 23 12:03:29 +0000 2019,Decathlon,126267113,1161,89,1176075867279286273
-15,1175856929849126913,@ptit_Z @institutpasteur @KametoCorp On est sur le dossier 🤝,Sun Sep 22 19:38:33 +0000 2019,Decathlon,126267113,28,4,1175853772741971969
-16,1175107821001674755,"@peakylamet On ne va pas donner de leçons aux autres marques parce qu’on a encore pas mal de produits genrés chez nous aussi. La société évolue, mais la demande de produits roses pour les femmes est encore très présente, on en peut pas la renier complètement.
+1175856929849126913,@ptit_Z @institutpasteur @KametoCorp On est sur le dossier 🤝,Sun Sep 22 19:38:33 +0000 2019,Decathlon,126267113,28,4,1175853772741971969
+1175107821001674755,"@peakylamet On ne va pas donner de leçons aux autres marques parce qu’on a encore pas mal de produits genrés chez nous aussi. La société évolue, mais la demande de produits roses pour les femmes est encore très présente, on en peut pas la renier complètement.
 Yann",Fri Sep 20 18:01:51 +0000 2019,Decathlon,126267113,1,0,1175102074499076097
-17,1175087351913168896,@MehdiFlorian Pareil,Fri Sep 20 16:40:31 +0000 2019,Decathlon,126267113,2,1,1175085890168905730
-18,1175070656523882501,"@Celebriante Bonjour ! On essaye toujours de proposer des prix très bas. Malheureusement, on fait parfois face à de multiples contraintes locales dans les pays où on ouvre de nouveaux magasins (taxe à l'importation, coût des loyers, etc...),...",Fri Sep 20 15:34:10 +0000 2019,Decathlon,126267113,0,0,1175001667739312128
-19,1175069558476017664,"@peakylamet Bonjour ! J'imagine que le modèle bleu est un modèle homme, et le modèle rose est destinée aux femmes. Malheureusement, nous ne sommes pas responsables des choix de design de la marque Asics.
+1175087351913168896,@MehdiFlorian Pareil,Fri Sep 20 16:40:31 +0000 2019,Decathlon,126267113,2,1,1175085890168905730
+1175070656523882501,"@Celebriante Bonjour ! On essaye toujours de proposer des prix très bas. Malheureusement, on fait parfois face à de multiples contraintes locales dans les pays où on ouvre de nouveaux magasins (taxe à l'importation, coût des loyers, etc...),...",Fri Sep 20 15:34:10 +0000 2019,Decathlon,126267113,0,0,1175001667739312128
+1175069558476017664,"@peakylamet Bonjour ! J'imagine que le modèle bleu est un modèle homme, et le modèle rose est destinée aux femmes. Malheureusement, nous ne sommes pas responsables des choix de design de la marque Asics.
 Yann",Fri Sep 20 15:29:49 +0000 2019,Decathlon,126267113,0,0,1175057458781405184
-20,1174739118573654017,@ecolocyclobobo Ah c’est pas mal là !,Thu Sep 19 17:36:46 +0000 2019,Decathlon,126267113,0,0,1174738679371325440
-21,1174699557701279745,"@ReynaldLelong Bon, on va trouver une solution !",Thu Sep 19 14:59:34 +0000 2019,Decathlon,126267113,1,0,1174699411584225280
-22,1174699048068100097,"@ReynaldLelong Bonjour Reynald,
+1174739118573654017,@ecolocyclobobo Ah c’est pas mal là !,Thu Sep 19 17:36:46 +0000 2019,Decathlon,126267113,0,0,1174738679371325440
+1174699557701279745,"@ReynaldLelong Bon, on va trouver une solution !",Thu Sep 19 14:59:34 +0000 2019,Decathlon,126267113,1,0,1174699411584225280
+1174699048068100097,"@ReynaldLelong Bonjour Reynald,
 C'est à dire, en SAV ? On peut en parler en DM ? 
 Yann",Thu Sep 19 14:57:32 +0000 2019,Decathlon,126267113,1,0,1174697211776643072
-23,1174665120682844160,@15locraft Ça va toujours merci ! Et toi t'es en forme ?,Thu Sep 19 12:42:43 +0000 2019,Decathlon,126267113,0,0,1174664823394701312
-24,1174664554787348481,"@15locraft Hello !
+1174665120682844160,@15locraft Ça va toujours merci ! Et toi t'es en forme ?,Thu Sep 19 12:42:43 +0000 2019,Decathlon,126267113,0,0,1174664823394701312
+1174664554787348481,"@15locraft Hello !
 Oui, c'est bien compatible 🙂
 Yann",Thu Sep 19 12:40:28 +0000 2019,Decathlon,126267113,0,0,1174652183733780480
-25,1174610952488202241,"@ydelpierre Bonjour Yoann,
+1174610952488202241,"@ydelpierre Bonjour Yoann,
 Désolé pour cette mauvaise expérience, je pense que votre produit avait en effet un souci de qualité. N'hésitez pas à passer en magasin pour qu'on puisse vous remplacer la sangle.
 Yann",Thu Sep 19 09:07:28 +0000 2019,Decathlon,126267113,1,0,1174577004588470272
