@@ -5,14 +5,24 @@ import json
 import os
 from time import sleep
 
-with open('credentials.json') as handle:
-    credentials = json.loads(handle.read())
 
-api = twitter.Api(consumer_key=credentials['consumer_key'],
-                  consumer_secret=credentials['consumer_secret'],
-                  access_token_key=credentials['access_token_key'],
-                  access_token_secret=credentials['access_token_secret'],
-                  tweet_mode='extended')
+with open('credentials_pe.json') as handle:
+    credentials_pe = json.loads(handle.read())
+    
+with open('credentials_ew.json') as handle:
+    credentials_ew = json.loads(handle.read())
+
+api_pe = twitter.Api(consumer_key=credentials_pe['consumer_key'],
+                     consumer_secret=credentials_pe['consumer_secret'],
+                     access_token_key=credentials_pe['access_token_key'],
+                     access_token_secret=credentials_pe['access_token_secret'],
+                     tweet_mode='extended')
+
+api_ew = twitter.Api(consumer_key=credentials_ew['consumer_key'],
+                     consumer_secret=credentials_ew['consumer_secret'],
+                     access_token_key=credentials_ew['access_token_key'],
+                     access_token_secret=credentials_ew['access_token_secret'],
+                     tweet_mode='extended')
 
 with open('companies.json') as handle:
     companies = json.loads(handle.read())
@@ -34,8 +44,12 @@ def get_tweets(company, max_id=0, since_id=0, mode='to'):
         since_id_q = '&since_id=' + str(since_id)
     else:
         since_id_q = ''
-    return api.GetSearch(raw_query="q={}{}{}&lang=fr&count=100".format(query, since_id_q, max_id_q),
-                         result_type='recent')
+    if mode == 'to':
+        return api_pe.GetSearch(raw_query="q={}{}{}&lang=fr&count=100".format(query, since_id_q, max_id_q),
+                                result_type='recent')
+    elif mode == 'from':
+        return api_ew.GetSearch(raw_query="q={}{}{}&lang=fr&count=100".format(query, since_id_q, max_id_q),
+                                result_type='recent')
 
 
 def filter_links(text):
