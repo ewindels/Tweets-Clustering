@@ -12,21 +12,21 @@ with open('credentials_pe.json') as handle:
 with open('credentials_ew.json') as handle:
     credentials_ew = json.loads(handle.read())
 
-api_pe = twitter.Api(consumer_key=credentials_pe['consumer_key'],
-                     consumer_secret=credentials_pe['consumer_secret'],
-                     access_token_key=credentials_pe['access_token_key'],
-                     access_token_secret=credentials_pe['access_token_secret'],
-                     tweet_mode='extended')
-
-api_ew = twitter.Api(consumer_key=credentials_ew['consumer_key'],
-                     consumer_secret=credentials_ew['consumer_secret'],
-                     access_token_key=credentials_ew['access_token_key'],
-                     access_token_secret=credentials_ew['access_token_secret'],
-                     tweet_mode='extended')
-
 with open('companies.json') as handle:
-    companies = json.loads(handle.read())
+    companies = json.loads(handle.read())    
 
+def make_API(who):
+	if who == 'pe':
+		credentials = credentials_pe
+	elif who == 'ew':
+		credentials = credentials_ew
+	else:
+		return 1
+	return twitter.Api(consumer_key=credentials['consumer_key'],
+                     	consumer_secret=credentials['consumer_secret'],
+                    	access_token_key=credentials['access_token_key'],
+                    	access_token_secret=credentials['access_token_secret'],
+                    	tweet_mode='extended')
 
 def get_tweets(company, max_id=0, since_id=0, mode='to'):
     company_account = companies[company]
@@ -44,11 +44,9 @@ def get_tweets(company, max_id=0, since_id=0, mode='to'):
         since_id_q = '&since_id=' + str(since_id)
     else:
         since_id_q = ''
-    if mode == 'to':
-        return api_pe.GetSearch(raw_query="q={}{}{}&lang=fr&count=100".format(query, since_id_q, max_id_q),
-                                result_type='recent')
-    elif mode == 'from':
-        return api_ew.GetSearch(raw_query="q={}{}{}&lang=fr&count=100".format(query, since_id_q, max_id_q),
+    api = make_API('pe') if mode == 'to' else make_API('ew')
+
+    return api.GetSearch(raw_query="q={}{}{}&lang=fr&count=100".format(query, since_id_q, max_id_q),
                                 result_type='recent')
 
 
