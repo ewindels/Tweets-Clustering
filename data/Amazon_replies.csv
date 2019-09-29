@@ -1,4 +1,4 @@
-id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1177328705540100098,"@Zickmafr Bonjour, vous m'en voyez navré ! Quelle était la réponse de notre sav à ce propos, je vous prie ?
 ^OB",Thu Sep 26 21:06:51 +0000 2019,Amazon Help,85741735,0,0,1.1773270053663908e+18
 1177327864875749393,"@FredericNuyts Bonsoir, si vous pensez qu'un commentaire ne respecte pas nos instructions de la communauté, n'hésitez pas à le signaler via le bouton ""signaler un abus"". Nos équipes procéderont à sa révision.
@@ -1764,9 +1764,9 @@ Merci pour votre compréhension.
 1177685342243184640,"@XTensionProject Bonsoir, je suis désolé d'apprendre que vous n'avez pas reçu votre colis, vous avez la possibilité de demander le remboursement de vos frais de livraison en contactant notre service client.
 -YLE",Fri Sep 27 20:44:00 +0000 2019,Amazon Help,85741735,0,0,1.177684492720509e+18
 1177684587574693890,"@Bladium_ Bonsoir, avez-vous signalé cet incident à notre service client ? Si oui, quelle était la réponse de ce dernier ? je vous prie.
--YLE",Fri Sep 27 20:41:00 +0000 2019,Amazon Help,85741735,0,0,1.1776820122761667e+18
+-YLE",Fri Sep 27 20:41:00 +0000 2019,Amazon Help,85741735,0,0,1.177682012276167e+18
 1177671880494522368,"@Figo__10 Je suis sincèrement désolé pour cette situation et comprends votre commentaire qui sera remonté au département en charge afin d'améliorer notre service.
-^YLA.",Fri Sep 27 19:50:31 +0000 2019,Amazon Help,85741735,0,0,1.1776701084933693e+18
+^YLA.",Fri Sep 27 19:50:31 +0000 2019,Amazon Help,85741735,0,0,1.177670108493369e+18
 1177669106704760832,"@Figo__10 Je comprends parfaitement votre réaction et je suis désolée pour ce désagrément causé, je vous prie de patienter ^KO",Fri Sep 27 19:39:29 +0000 2019,Amazon Help,85741735,0,0,1.1776665606615777e+18
 1177668381903900673,"@jnk D'accord, je vais reprendre contact avec vous dans la soirée.
 -YLE",Fri Sep 27 19:36:36 +0000 2019,Amazon Help,85741735,0,0,1.1776628741074289e+18

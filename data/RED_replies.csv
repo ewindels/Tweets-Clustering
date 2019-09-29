@@ -1,4 +1,4 @@
-id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1177265707228286979,"@Rricless Bonjour, nous vous invitons à vérifier la présence d'un incident dans votre secteur sur le lien suivant : [LIEN]
 
 Vous pouvez également contacter nos conseillers afin de trouver une solution ici : [LIEN]

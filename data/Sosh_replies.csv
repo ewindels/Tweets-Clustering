@@ -1,4 +1,4 @@
-id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1177261805661503489,"@Jerom1978 Nous ne pouvons pas vous garantir un RDV à cette date.
 
 ^Ian",Thu Sep 26 16:41:01 +0000 2019,Sosh_fr,338262255,0,0,1.1772611409062584e+18

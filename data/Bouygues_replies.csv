@@ -1,4 +1,4 @@
-id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1177280876645892096,"@Marinerauhl Bonjour, merci pour votre alerte et toutes nos excuses. Afin d’analyser au mieux le souci, pouvez-vous effectuer le diagnostic ci-après : [LIEN] . Nos équipes pourront ainsi vous recontacter si nécessaire. Merci de votre confiance Audrey",Thu Sep 26 17:56:48 +0000 2019,Bouygues Telecom,16557431,1,0,1.1772800667426038e+18
 1177278796308930560,"@hilovemesomepie Bonsoir et merci de votre retour.
 
@@ -3227,7 +3227,7 @@ A tout de suite en privé.
 Dominique",Sat Sep 28 06:57:11 +0000 2019,Bouygues Telecom,16557431,0,0,1.1776953880710554e+18
 1177837843684712448,"@MignotSylv1 @France3tv Bonjour, 
 A tout de suite en privé.
-Dominique",Sat Sep 28 06:49:59 +0000 2019,Bouygues Telecom,16557431,0,0,1.1776964172022333e+18
+Dominique",Sat Sep 28 06:49:59 +0000 2019,Bouygues Telecom,16557431,0,0,1.177696417202233e+18
 1177837524116525056,"@en_mousse Bonjour, 
 A tout de suite en DM.
 Dominique",Sat Sep 28 06:48:43 +0000 2019,Bouygues Telecom,16557431,0,0,1.1776804247950295e+18

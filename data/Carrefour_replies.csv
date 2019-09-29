@@ -1,4 +1,4 @@
-id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1177237060798881792,"@bpoesy43 @GroupeCarrefour @poulehouse Bonjour, vous pouvez demander directement au magasin concerné, c'est eux qui gère leur approvisionnement. :) 
 Bonne journée, 
 L'équipe Carrefour.",Thu Sep 26 15:02:41 +0000 2019,Carrefour,61193820,0,1,1177220079806758912

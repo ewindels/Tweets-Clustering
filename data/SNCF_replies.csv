@@ -1,4 +1,4 @@
-id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1177306641441677313,@Moth13 Nous nous renseignons sur le sujet auprès de nos équipes et revenons vers vous très prochainement.,Thu Sep 26 19:39:11 +0000 2019,SNCF,218659501,0,0,1.1773052189141156e+18
 1177305931941588993,"@jfermaud Le chef de bord va se présenter dans votre voiture. N'hésitez pas à le solliciter. Autrement, avez-vous bien suivi les étapes décrites en pièce jointe ? Pensez à effacer les caches si besoin. A votre disposition. [LIEN]",Thu Sep 26 19:36:22 +0000 2019,SNCF,218659501,0,0,1.1773046709577073e+18
 1177304569094844417,@jfermaud Merci. Il me faudrait également votre numéro de voiture pour identifier s'il y a une panne uniquement dans celle-ci ou sur l'ensemble de la rame.,Thu Sep 26 19:30:57 +0000 2019,SNCF,218659501,0,0,1.177302880849748e+18
@@ -2183,7 +2183,7 @@ Bien à vous,",Sat Sep 28 05:43:51 +0000 2019,SNCF,218659501,0,0,1.1776854260705
 1177820967533461504,"@_feeliz @ouisncf Bonjour _feeliz, je comprends votre interrogation et je regrette ces difficultés. Il arrive dans de rares cas qu'un prélèvement soit quand même réalisé suite à ce type d'erreur technique. Je vous invite à surveiller vos comptes et à revenir vers nous, si vous constatez un débit.",Sat Sep 28 05:42:56 +0000 2019,SNCF,218659501,0,0,1.1777178472896676e+18
 1177820540482064384,"@tamerectasoeur Bonjour, 
 Vous pouvez, si vous le souhaitez, nous contacter en DM depuis le lien suivant : [LIEN]",Sat Sep 28 05:41:14 +0000 2019,SNCF,218659501,0,0,1.177688171200602e+18
-1177817080940449794,@arljlgt Bonjour. Prévoyez 30 minutes de retard. Les préparations de votre train sont plus longues que prévu.,Sat Sep 28 05:27:29 +0000 2019,SNCF,218659501,0,0,1.1778117383953859e+18
+1177817080940449794,@arljlgt Bonjour. Prévoyez 30 minutes de retard. Les préparations de votre train sont plus longues que prévu.,Sat Sep 28 05:27:29 +0000 2019,SNCF,218659501,0,0,1.177811738395386e+18
 1177812090884481026,"@rk1_boi @BertetGabriel Bonjour BertetGabriel, navré pour le retard de votre train, vous étiez à bord d'un TER OU TGV ?",Sat Sep 28 05:07:39 +0000 2019,SNCF,218659501,0,0,1.1777000373857567e+18
 1177671797917016064,@Benoit__GILLES Dans quelle voiture voyagez-vous s'il vous plaît ?,Fri Sep 27 19:50:11 +0000 2019,SNCF,218659501,0,0,1.1776700401637786e+18
 1177670711483260928,"@TheGuils Rendez-vous ici : [LIEN]
@@ -2195,10 +2195,10 @@ Rendez-vous ici : [LIEN]
 Je reste à votre disposition pour tout autre renseignement.
 Bien à vous.",Fri Sep 27 19:45:07 +0000 2019,SNCF,218659501,0,0,1.1776702342092145e+18
 1177670170871046145,"@TheGuils Bonsoir, je vous invite à faire votre demande par courrier à l'adresse suivante : Service G30 SNCF - CS 69150 - 14949 CAEN Cedex 9 Vous disposez de 60 jours. Voir le lien : [LIEN]",Fri Sep 27 19:43:43 +0000 2019,SNCF,218659501,0,0,1.177669795011076e+18
-1177669341623541768,"@Benoit__GILLES Bonsoir, pouvez-vous nous préciser le numéro de votre TGV s'il vous plaît ?",Fri Sep 27 19:40:25 +0000 2019,SNCF,218659501,0,0,1.1776688437848515e+18
-1177666307497582598,@Melanie_Brth Je fais part de toutes ces indications à nos équipes. A votre disposition.,Fri Sep 27 19:28:22 +0000 2019,SNCF,218659501,0,0,1.1776624478948803e+18
+1177669341623541768,"@Benoit__GILLES Bonsoir, pouvez-vous nous préciser le numéro de votre TGV s'il vous plaît ?",Fri Sep 27 19:40:25 +0000 2019,SNCF,218659501,0,0,1.1776688437848517e+18
+1177666307497582598,@Melanie_Brth Je fais part de toutes ces indications à nos équipes. A votre disposition.,Fri Sep 27 19:28:22 +0000 2019,SNCF,218659501,0,0,1.1776624478948805e+18
 1177666243396014081,"@BLONDIN47030807 Bonsoir, je mets nos collègues @ouigoSNCF dans la boucle. Cordialement,",Fri Sep 27 19:28:07 +0000 2019,SNCF,218659501,0,0,1.177663867968721e+18
-1177661427194175488,"@Melanie_Brth Si votre TGV enregistre un retard supérieur ou égal à 30 minutes, vous bénéficiez d'une compensation à l'arrivée en consultant ce lien : [LIEN] Concernant l'impossibilité de payer en carte bancaire au bar TGV, le barista vous a-t-il donné des explications ?",Fri Sep 27 19:08:58 +0000 2019,SNCF,218659501,0,0,1.1776591490747965e+18
+1177661427194175488,"@Melanie_Brth Si votre TGV enregistre un retard supérieur ou égal à 30 minutes, vous bénéficiez d'une compensation à l'arrivée en consultant ce lien : [LIEN] Concernant l'impossibilité de payer en carte bancaire au bar TGV, le barista vous a-t-il donné des explications ?",Fri Sep 27 19:08:58 +0000 2019,SNCF,218659501,0,0,1.1776591490747963e+18
 1177660152926867456,"@MedorDu27 Bonsoir, pour vos prochains trajets je vous invite à contacter directement @TERNormandie
 Bonne soirée !",Fri Sep 27 19:03:54 +0000 2019,SNCF,218659501,0,0,1.1776563885516923e+18
 1177659774827147266,"@gastrofolly Je vous invite à remplir une déclaration de perte en ligne, avec le maximum de détails possible, via ce lien : [LIEN]",Fri Sep 27 19:02:24 +0000 2019,SNCF,218659501,0,0,1.1776576082510848e+18
@@ -2206,4 +2206,4 @@ Bonne soirée !",Fri Sep 27 19:03:54 +0000 2019,SNCF,218659501,0,0,1.17765638855
 1177658914629922817,"@Melanie_Brth C'est note. Le chef de bord se présentera néanmoins à votre place pour vérifier l'éclairage. Notez par ailleurs que le TGV 6980 circule avec 35 minutes en plus. En cause, une panne d'alimentation électrique survenue entre Lacour-d'Arcenay et Mâcon-Loché TGV. A votre disposition.",Fri Sep 27 18:58:59 +0000 2019,SNCF,218659501,0,0,1.177657556866605e+18
 1177657474352066560,@Melanie_Brth Le chef de bord va être informé de votre situation et se présentera à votre place bientôt. A votre disposition.,Fri Sep 27 18:53:16 +0000 2019,SNCF,218659501,0,0,1.177653789068845e+18
 1177654473411497984,@AnnaVautier Votre Intercités circule actuellement avec 55 minutes de retard. C'est dû à la panne d'un autre train.,Fri Sep 27 18:41:20 +0000 2019,SNCF,218659501,0,0,1.1776532878956667e+18
-1177653382577823744,"@Melanie_Brth Bonsoir, quels sont vos numéros de train, voiture et place ?",Fri Sep 27 18:37:00 +0000 2019,SNCF,218659501,0,0,1.1776526343097917e+18
+1177653382577823744,"@Melanie_Brth Bonsoir, quels sont vos numéros de train, voiture et place ?",Fri Sep 27 18:37:00 +0000 2019,SNCF,218659501,0,0,1.1776526343097915e+18

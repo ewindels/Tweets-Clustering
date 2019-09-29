@@ -1,4 +1,4 @@
-id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1177278714113118210,"@ClasseEco Hello @ClasseEco, un message vous attend en DM. A tout de suite !",Thu Sep 26 17:48:12 +0000 2019,BNP Paribas SAV,207492509,0,0,1177136644421537794
 1177130275068882944,"@santouh @santouh Bonjour, afin de signaler le dysfonctionnement, nos conseillers sont à votre disposition en DM. Merci par avance. Très bonne journée !",Thu Sep 26 07:58:22 +0000 2019,BNP Paribas SAV,207492509,0,0,1177125360816861184
 1177129769772683264,"@GuillaumeBeque Bonjour, nous attendons votre retour en privé depuis notre précédent message. Nous sommes #avotredispo .",Thu Sep 26 07:56:21 +0000 2019,BNP Paribas SAV,207492509,0,0,1177125640589467653

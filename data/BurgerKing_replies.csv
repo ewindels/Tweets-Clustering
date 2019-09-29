@@ -1,2 +1,2 @@
-id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1174721861541912577,Il faut toujours vérifier ses sources… mais bon ceux qui votent sur l'app le savaient déjà. [LIEN],Thu Sep 19 16:28:11 +0000 2019,Burger King France,2242099796,56,6,1174352384656461824

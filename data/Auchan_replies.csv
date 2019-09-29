@@ -1,4 +1,4 @@
-id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1177280936020512770,@Thy_balt T H Y B A L T  ?? Merci de nous donner votre numéro de commande afin de vérifier ce qu'il s'est passé,Thu Sep 26 17:57:02 +0000 2019,AUCHAN,87701473,0,0,1177280364139745282
 1177221182602522624,"@CamilClmt Bonjour Camille, je suis désolé du désagrément causé. Toutes nos équipes sont sur le pont pour réduire au maximum l'impact sur nos clients. Merci de votre compréhension. Romain, à votre écoute",Thu Sep 26 13:59:36 +0000 2019,AUCHAN,87701473,0,0,1177190664028807169
 1177220926846451713,"@Ioussaille Bonjour Lucie, j'entends tout à fait votre position. Vous comprendrez que ce n'est pas notre volonté de vous empêcher de faire vos courses, ce nouvel incident est indépendant de notre volonté 😌 A bientôt j'espère ! Romain",Thu Sep 26 13:58:35 +0000 2019,AUCHAN,87701473,0,0,1177202559641165826

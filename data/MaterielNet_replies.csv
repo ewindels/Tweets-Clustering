@@ -1,4 +1,4 @@
-id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1177140020538499072,"@Softryx Bonjour :)
 Oui, bien sûr ! Communiquez-nous les informations nécessaires pour que nous puissions vérifier ce qu'il se passe !
 Alicia",Thu Sep 26 08:37:05 +0000 2019,Materiel.net,47565953,0,0,1176848828865101827

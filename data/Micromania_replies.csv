@@ -1,4 +1,4 @@
-id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1177229422040145921,"@consollection Étrange, je vous conseille d'annuler. Si cela se reproduit, il faut questionner le magasin !",Thu Sep 26 14:32:20 +0000 2019,Micromania-Zing,80595852,0,0,1177227895904903171
 1177223838419079168,"@Just_Koro Bonjour, il est encore trop tôt pour le dire !",Thu Sep 26 14:10:09 +0000 2019,Micromania-Zing,80595852,0,0,1177221355885989888
 1177202704009109505,"@GaetGK Bonjour, il s'agit d'une édition spéciale avec du contenu supplémentaire et un accès anticipé de 3 jours :-)",Thu Sep 26 12:46:10 +0000 2019,Micromania-Zing,80595852,0,0,1177201020356767745

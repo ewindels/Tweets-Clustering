@@ -1,4 +1,4 @@
-id,text,data,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1177266421715415040,"@ayhan_yh Très bien, nous sommes désolés. Mary",Thu Sep 26 16:59:22 +0000 2019,Darty SAV,2905108013,0,0,1.1772650241523425e+18
 1177266083914498048,"@faflarage59 Bonsoir, pouvez-vous m'en dire plus sur votre demande?",Thu Sep 26 16:58:01 +0000 2019,Darty SAV,2905108013,0,0,1.1772334522000138e+18
 1177264845743370241,"@ayhan_yh Bonsoir, afin d'accéder à votre dossier, pouvez-vous me communiquer votre numéro de contrat Sav? Mary",Thu Sep 26 16:53:06 +0000 2019,Darty SAV,2905108013,0,0,1.177263333046739e+18
