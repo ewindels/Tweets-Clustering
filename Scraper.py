@@ -87,13 +87,14 @@ def update_data(company, time='newest', mode='to'):
         id_ = data_df['id'].max() + 1
         tweets = get_tweets(company, max_id=0, since_id=id_, mode=mode)
         tweets = [tweet for tweet in tweets if tweet.id > id_]
+        new_tweets.extend(tweets)
         max_id = 0
         if len(tweets) > 0:
             max_id = min([tweet.id for tweet in tweets]) - 1
-        while len(tweets) > 0:
-            new_tweets.extend(tweets)
+        while len(tweets) == 100:
             tweets = get_tweets(company, max_id=max_id, since_id=id_, mode=mode)
             tweets = [tweet for tweet in tweets if tweet.id > id_]
+            new_tweets.extend(tweets)
             if len(tweets) > 0:
                 max_id = min([tweet.id for tweet in tweets]) - 1
     elif time == 'oldest':
@@ -101,10 +102,9 @@ def update_data(company, time='newest', mode='to'):
         id_ = data_df['id'].min() - 1
         while True:
             tweets = get_tweets(company, max_id=id_, since_id=0, mode=mode)
-            if len(tweets) > 0:
-                new_tweets.extend(tweets)
-                id_ = min([tweet.id for tweet in tweets]) - 1
-            else:
+            new_tweets.extend(tweets)
+            id_ = min([tweet.id for tweet in tweets]) - 1
+            if len(tweets) < 100:
                 break
     elif time == 'new_company':
         new_tweets = get_tweets(company, max_id=0, since_id=0, mode=mode)
@@ -112,10 +112,9 @@ def update_data(company, time='newest', mode='to'):
             id_ = min([tweet.id for tweet in new_tweets]) - 1
             while True:
                 tweets = get_tweets(company, max_id=id_, since_id=0, mode=mode)
-                if len(tweets) > 0:
-                    new_tweets.extend(tweets)
-                    id_ = min([tweet.id for tweet in tweets]) - 1
-                else:
+                new_tweets.extend(tweets)
+                id_ = min([tweet.id for tweet in tweets]) - 1
+                if len(tweets) < 100:
                     break
     else:
         print('Time does not exist')
