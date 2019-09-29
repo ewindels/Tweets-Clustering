@@ -103,17 +103,19 @@ def update_data(company, time='newest', mode='to'):
         while True:
             tweets = get_tweets(company, max_id=id_, since_id=0, mode=mode)
             new_tweets.extend(tweets)
-            id_ = min([tweet.id for tweet in tweets]) - 1
+            if len(tweets) > 0:
+                id_ = min([tweet.id for tweet in tweets]) - 1
             if len(tweets) < 100:
                 break
     elif time == 'new_company':
         new_tweets = get_tweets(company, max_id=0, since_id=0, mode=mode)
-        if len(new_tweets) > 0:
+        if len(new_tweets) == 100:
             id_ = min([tweet.id for tweet in new_tweets]) - 1
             while True:
                 tweets = get_tweets(company, max_id=id_, since_id=0, mode=mode)
                 new_tweets.extend(tweets)
-                id_ = min([tweet.id for tweet in tweets]) - 1
+                if len(tweets) > 0:
+                    id_ = min([tweet.id for tweet in tweets]) - 1
                 if len(tweets) < 100:
                     break
     else:
