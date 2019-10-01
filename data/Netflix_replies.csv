@@ -34,7 +34,7 @@ id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1177264461431943173,@maeva__2905 Ça arrive.,Thu Sep 26 16:51:34 +0000 2019,Netflix France,2341888057,15,1,1.1772626983184998e+18
 1177264437939621889,"@clairteee En même temps, la diffusion de la dernière saison vient tout juste de commencer. Tu vas devoir patienter un bon moment.",Thu Sep 26 16:51:29 +0000 2019,Netflix France,2341888057,8,0,1.1772602269339238e+18
 1177264240727613442,"@philippeyaiche En France, la série est diffusée par un autre diffuseur, Philippe.",Thu Sep 26 16:50:42 +0000 2019,Netflix France,2341888057,1,0,1.1772599126756393e+18
-1177264145831485448,@eno49193694 Elle est en tournage donc tu connais la réponse...,Thu Sep 26 16:50:19 +0000 2019,Netflix France,2341888057,29,1,1.1772598451137987e+18
+1177264145831485448,@eno49193694 Elle est en tournage donc tu connais la réponse...,Thu Sep 26 16:50:19 +0000 2019,Netflix France,2341888057,29,1,1.177259845113799e+18
 1177264057251966976,@Inosukeshi Demain.,Thu Sep 26 16:49:58 +0000 2019,Netflix France,2341888057,36,3,1.177263935818543e+18
 1177263997810348032,"@Kamila75psg__ Elle est toujours en production, donc prochainement.",Thu Sep 26 16:49:44 +0000 2019,Netflix France,2341888057,33,1,1.177259532571091e+18
 1177263921973145602,"@ChouquetSteevy Si un jour on récupère les droits, on chasserait bien du Titan, ouais.",Thu Sep 26 16:49:26 +0000 2019,Netflix France,2341888057,103,3,1.1772594651350016e+18
@@ -43,7 +43,7 @@ id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1177263482678456322,"@SparkixOfficiel Tu vas pouvoir attendre, on n'a pas les droits pour cette saison, pour l'instant.",Thu Sep 26 16:47:41 +0000 2019,Netflix France,2341888057,22,0,1.1772596970632888e+18
 1177263123994238977,"@JustRandomGeek Kengan Ashura, c'est quoi ?",Thu Sep 26 16:46:15 +0000 2019,Netflix France,2341888057,28,0,1.1772595668384932e+18
 1177260214401339393,"@NoT_Atchoum Oui, Atchoum. À tes souhaits, d'ailleurs.",Thu Sep 26 16:34:42 +0000 2019,Netflix France,2341888057,219,11,1.1772599779516498e+18
-1177260125217853450,@GustavoReyizz C'est en production donc prochainement.,Thu Sep 26 16:34:20 +0000 2019,Netflix France,2341888057,80,0,1.1772595391561277e+18
+1177260125217853450,@GustavoReyizz C'est en production donc prochainement.,Thu Sep 26 16:34:20 +0000 2019,Netflix France,2341888057,80,0,1.1772595391561275e+18
 1177260061346996224,@AmelieAnger C'est la saison 2 de The Sinner. Le casting est différent.,Thu Sep 26 16:34:05 +0000 2019,Netflix France,2341888057,8,0,1.1772594550980854e+18
 1177259945055674368,@Yacinef4 DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN ! DEMAIN !,Thu Sep 26 16:33:37 +0000 2019,Netflix France,2341888057,227,29,1.1772594224244736e+18
 1177259833420079104,@fdpiousse On l'a annoncé ce matin.,Thu Sep 26 16:33:11 +0000 2019,Netflix France,2341888057,8,0,1.1772594089523487e+18
@@ -66,7 +66,7 @@ id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1177235338068201472,@HeySamiiii @BlaackyStaar Tu as l'air.,Thu Sep 26 14:55:51 +0000 2019,Netflix France,2341888057,8,2,1.177233213892305e+18
 1177235287250014211,@djo_F_228_972 Parce qu'il y a certaines séries pour lesquelles on a les droits à raison d'un épisode par semaine.,Thu Sep 26 14:55:39 +0000 2019,Netflix France,2341888057,4,0,1.1772338783496888e+18
 1177234805592907776,"@Soredamor42 Tous les épisodes d'un coup, Pascale.",Thu Sep 26 14:53:44 +0000 2019,Netflix France,2341888057,45,3,1.1772344951808778e+18
-1177234702253604865,"@allan_exo La série appartient à un autre diffuseur, donc ça va être compliqué.",Thu Sep 26 14:53:19 +0000 2019,Netflix France,2341888057,4,0,1.1772341856622141e+18
+1177234702253604865,"@allan_exo La série appartient à un autre diffuseur, donc ça va être compliqué.",Thu Sep 26 14:53:19 +0000 2019,Netflix France,2341888057,4,0,1.177234185662214e+18
 1177234578018357248,"@zororonoa93 Une nouvelle saison arrive bientôt. Plus sérieusement, quand on aura les droits, on l'annoncera !",Thu Sep 26 14:52:50 +0000 2019,Netflix France,2341888057,20,0,1.1772343387794227e+18
 1177233574409506817,@Rubble__ Prochainement !,Thu Sep 26 14:48:50 +0000 2019,Netflix France,2341888057,14,0,1.1772335334185206e+18
 1177233518289666048,"@allan_exo Pour l'instant, ce n'est pas prévu. On est en train de voir avec All Might si on peut avoir les droits. Si ça arrive, on prévient !",Thu Sep 26 14:48:37 +0000 2019,Netflix France,2341888057,33,1,1.1772329915983913e+18
@@ -75,8 +75,8 @@ id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1177226351759233024,"@xRzkaa On ne s'occupe que de la France, Gio. On ne peut pas te dire.",Thu Sep 26 14:20:08 +0000 2019,Netflix France,2341888057,14,2,1.1772241781996462e+18
 1177221017162276864,@DarkFuneral972 On va y travailler. ;),Thu Sep 26 13:58:56 +0000 2019,Netflix France,2341888057,58,1,1.1772206857830605e+18
 1177215285109121024,@PussSlaye1 Prochainement ! Le tournage s'est achevé il y a très peu de temps.,Thu Sep 26 13:36:10 +0000 2019,Netflix France,2341888057,1,0,1.1772137614611497e+18
-1177215037997498369,"@NacimSteur Alors :
-- Murder n'est pas une série originale Netflix.
+1177215037997498369,"@NacimSteur Alors :
+- Murder n'est pas une série originale Netflix.
 - Même si c'était le cas, ça te pose un problème ?",Thu Sep 26 13:35:11 +0000 2019,Netflix France,2341888057,4,0,1.177213906986705e+18
 1177213809167130624,"@mnl_alg C'est une question de droits. Si c'était possible, on l'aurait fait.",Thu Sep 26 13:30:18 +0000 2019,Netflix France,2341888057,83,5,1.1772121683008348e+18
 1177207505547616256,"@BoydDoun Pour l'instant, on n'a pas d'infos. Mais on préviendra si ça arrive.",Thu Sep 26 13:05:15 +0000 2019,Netflix France,2341888057,7,0,1.1771802364940616e+18
@@ -104,9 +104,9 @@ id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1176846689077989376,@S1076452509 Très très très très bientôt.,Wed Sep 25 13:11:30 +0000 2019,Netflix France,2341888057,5,0,1.1768462771680625e+18
 1176846626922663939,@destyhtr @TTrevor95 Pareil.,Wed Sep 25 13:11:15 +0000 2019,Netflix France,2341888057,1,0,1.176846495750021e+18
 1176846153121521665,"@TTrevor95 @destyhtr C'est pas qu'on veut pas, c'est juste que High School Musical appartient à un autre diffuseur, donc on ne peut pas.",Wed Sep 25 13:09:22 +0000 2019,Netflix France,2341888057,3,0,1.1768456013857628e+18
-1176837521969467392,@Ethan41099789 2020. Et on rappelle que ce sera la saison finale.,Wed Sep 25 12:35:04 +0000 2019,Netflix France,2341888057,0,0,1.1768320983150019e+18
+1176837521969467392,@Ethan41099789 2020. Et on rappelle que ce sera la saison finale.,Wed Sep 25 12:35:04 +0000 2019,Netflix France,2341888057,0,0,1.176832098315002e+18
 1176837415769649152,"@Ethan41099789 La saison 4 existe, elle n'a pas encore été diffusée par son diffuseur original. Donc ça arrivera si on récupère les droits après la diffusion.",Wed Sep 25 12:34:39 +0000 2019,Netflix France,2341888057,0,0,1.1768349424431718e+18
-1176830751226118144,@JabenM1 C’est dispo !,Wed Sep 25 12:08:10 +0000 2019,Netflix France,2341888057,2,0,1.1768188893653443e+18
+1176830751226118144,@JabenM1 C’est dispo !,Wed Sep 25 12:08:10 +0000 2019,Netflix France,2341888057,2,0,1.1768188893653445e+18
 1176830713762648065,@zawkzak Quand on aura les droits.,Wed Sep 25 12:08:01 +0000 2019,Netflix France,2341888057,1,0,1.1768181721770803e+18
 1176817589886038017,@Bolemvnho C’est un épisode d’Abstract sur le designer numérique d’Instagram.,Wed Sep 25 11:15:52 +0000 2019,Netflix France,2341888057,21,0,1.176817311111635e+18
 1176817465130717184,"@neegrodlatess Est-ce que tu as vu la vidéo qu’on te propose, au moins ? Prochainement pour Greenhouse Academy.",Wed Sep 25 11:15:22 +0000 2019,Netflix France,2341888057,44,1,1.1768170778454712e+18
@@ -116,7 +116,7 @@ id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1176779229712830466,@DieneBass93 Il est toujours en préparation.,Wed Sep 25 08:43:26 +0000 2019,Netflix France,2341888057,0,0,1.1767772432443433e+18
 1176779199807467520,"@alwaysaGD2 OUI, PROCHAINEMENT !",Wed Sep 25 08:43:19 +0000 2019,Netflix France,2341888057,2,0,1.1767784865660846e+18
 1176766100442427393,@skandrXX [LIEN] C'est pas comme si on l'avait pas annoncé...,Wed Sep 25 07:51:16 +0000 2019,Netflix France,2341888057,6,2,1.176764619525935e+18
-1176763762755477510,@arthur44793385 TRÈS BIENTÔT ON A DIT !,Wed Sep 25 07:41:58 +0000 2019,Netflix France,2341888057,1,0,1.1767598926040515e+18
+1176763762755477510,@arthur44793385 TRÈS BIENTÔT ON A DIT !,Wed Sep 25 07:41:58 +0000 2019,Netflix France,2341888057,1,0,1.1767598926040517e+18
 1176763736360718336,"@toaan_93 Le jour où on aura les droits parce que pour l'instant, ils appartiennent à un autre diffuseur. On appelle Ragnar et on voit.",Wed Sep 25 07:41:52 +0000 2019,Netflix France,2341888057,17,1,1.1767601325266248e+18
 1176763617229922304,@jumox18 Il n'y a pas de suite à Berserk.,Wed Sep 25 07:41:24 +0000 2019,Netflix France,2341888057,9,0,1.1767610871375954e+18
 1176763556919947264,@LucOffishhhhhhh Pas d'infos pour l'instant. Les droits appartiennent à un autre diffuseur. Donc on préviendra le jour où ça arrive.,Wed Sep 25 07:41:09 +0000 2019,Netflix France,2341888057,9,0,1.176762990240174e+18
@@ -135,7 +135,7 @@ id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1176521583743180800,@Strandingg Toujours pas. On la donnera en temps voulu. Mais sache que c'est TRÈS bientôt.,Tue Sep 24 15:39:38 +0000 2019,Netflix France,2341888057,42,0,1.176520074292867e+18
 1176520614628274176,@Arnaud064 Quelques minutes après l'épisode final.,Tue Sep 24 15:35:47 +0000 2019,Netflix France,2341888057,89,12,1.1765201252620493e+18
 1176520337573515264,@matteobeaury2 Toujours en production. Ça arrive prochainement.,Tue Sep 24 15:34:41 +0000 2019,Netflix France,2341888057,10,0,1.1765199589998387e+18
-1176520274445033472,@MrMouche2 Toujours en production !,Tue Sep 24 15:34:26 +0000 2019,Netflix France,2341888057,9,0,1.1765199754120765e+18
+1176520274445033472,@MrMouche2 Toujours en production !,Tue Sep 24 15:34:26 +0000 2019,Netflix France,2341888057,9,0,1.1765199754120763e+18
 1176519938988793861,"@Arko_FR Non, c'est la suite directe de la série.",Tue Sep 24 15:33:06 +0000 2019,Netflix France,2341888057,50,0,1.1765197153065943e+18
 1176519861134069765,"@Mxnxnxke213 Pas d'infos, pour l'instant.",Tue Sep 24 15:32:48 +0000 2019,Netflix France,2341888057,10,0,1.1765196041155215e+18
 1176519821229469696,"@ZiziPoilu7 Ouais, y'a rien.",Tue Sep 24 15:32:38 +0000 2019,Netflix France,2341888057,36,1,1.1765195802708992e+18
@@ -143,8 +143,8 @@ id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1176452815474036737,@Theocrpl2 Regarde notre dernier tweet.,Tue Sep 24 11:06:23 +0000 2019,Netflix France,2341888057,3,0,1.176452476897284e+18
 1176450318919438336,@kakesinfo @beredeb__ Pas du tout.,Tue Sep 24 10:56:28 +0000 2019,Netflix France,2341888057,1646,87,1.1764496830965268e+18
 1176448165114982400,@grmy_atsu @SoWeee16 Et bah parfait.,Tue Sep 24 10:47:54 +0000 2019,Netflix France,2341888057,154,2,1.176447564864004e+18
-1176447883203227648,"@LorynnDreams Pour la mythologie nordique, il y aura Ragnarok l'année prochaine. 
-
+1176447883203227648,"@LorynnDreams Pour la mythologie nordique, il y aura Ragnarok l'année prochaine. 
+
 Ça va super et toi ?",Tue Sep 24 10:46:47 +0000 2019,Netflix France,2341888057,387,20,1.1764477421110395e+18
 1176447688352653314,"@Nicoloscopie1 Ragnarok, donc. L'année prochaine.",Tue Sep 24 10:46:00 +0000 2019,Netflix France,2341888057,3,0,1.176447558392197e+18
 1176447261452185600,"@marilinasn Mieux vaut le répéter, parfois.",Tue Sep 24 10:44:19 +0000 2019,Netflix France,2341888057,530,2,1.1764471043000648e+18
@@ -167,8 +167,8 @@ id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
 1176401075223650305,"@AuzouNathan Si tu n'as jamais pris d'abonnement chez nous, tu peux profiter de ton mois gratuit.",Tue Sep 24 07:40:47 +0000 2019,Netflix France,2341888057,0,0,1.1764004715877212e+18
 1176400902594486272,@KohlerLouka Pas d'infos concernant une saison 2.,Tue Sep 24 07:40:06 +0000 2019,Netflix France,2341888057,0,0,1.176179797006934e+18
 1176163411115335681,"@EddySalvt7 Dès qu'on récupèrera les droits, promis !",Mon Sep 23 15:56:23 +0000 2019,Netflix France,2341888057,66,4,1.176162428834521e+18
-1176162240375984129,"Vu que tu te demandes pourquoi : les droits expirent à cette date. Il faut savoir qu'ils sont limités dans le temps pour des films et séries qui ne nous appartiennent pas.
-
+1176162240375984129,"Vu que tu te demandes pourquoi : les droits expirent à cette date. Il faut savoir qu'ils sont limités dans le temps pour des films et séries qui ne nous appartiennent pas.
+
 Et on va faire notre maximum pour les récupérer, vraiment !",Mon Sep 23 15:51:44 +0000 2019,Netflix France,2341888057,12068,819,1.176157862432858e+18
 1176160812785905666,@NicoDiogo La durée des droits varie selon le contenu.,Mon Sep 23 15:46:04 +0000 2019,Netflix France,2341888057,118,0,1.176158329405657e+18
 1176159406381309953,@ANTONN90570345 On ne le fait pas par plaisir. Les droits sont limités dans le temps pour les films et séries qui ne nous appartiennent pas.,Mon Sep 23 15:40:29 +0000 2019,Netflix France,2341888057,74,2,1.1761589529937674e+18
@@ -178,16 +178,16 @@ Et on va faire notre maximum pour les récupérer, vraiment !",Mon Sep 23 15:51:
 1176158201315807232,"@yomec_ Les droits des films arrivent à expiration, c'est pour ça.",Mon Sep 23 15:35:41 +0000 2019,Netflix France,2341888057,192,0,1.176158019547259e+18
 1176158133980450817,@farm_legend Les droits arrivent à expiration !,Mon Sep 23 15:35:25 +0000 2019,Netflix France,2341888057,67,0,1.176157947321299e+18
 1176148892628508673,@Perdule PROCHAINEMENT !,Mon Sep 23 14:58:42 +0000 2019,Netflix France,2341888057,3,0,1.176141560934781e+18
-1176148780619579392,"@LaSoccaEnVrai Pour le moment, les droits sont détenus par un autre diffuseur. Quand ça change, on lâche un BWAAAAARGH et on prévient.",Mon Sep 23 14:58:15 +0000 2019,Netflix France,2341888057,3,0,1.1761470032036413e+18
-1176143215256322049,@Paul14500904 Fumer tue.,Mon Sep 23 14:36:08 +0000 2019,Netflix France,2341888057,7,0,1.1761370031440445e+18
+1176148780619579392,"@LaSoccaEnVrai Pour le moment, les droits sont détenus par un autre diffuseur. Quand ça change, on lâche un BWAAAAARGH et on prévient.",Mon Sep 23 14:58:15 +0000 2019,Netflix France,2341888057,3,0,1.176147003203641e+18
+1176143215256322049,@Paul14500904 Fumer tue.,Mon Sep 23 14:36:08 +0000 2019,Netflix France,2341888057,7,0,1.1761370031440443e+18
 1176115850669174784,"@Zuyane_ On n'a pas les droits, pour l'instant.",Mon Sep 23 12:47:24 +0000 2019,Netflix France,2341888057,2,0,1.1761105672008868e+18
 1176115570867154944,"@mel_vegass Tant que toute la saison n'a pas été diffusée aux US et qu'on aura pas les droits, ça n'arrivera pas tout de suite.",Mon Sep 23 12:46:17 +0000 2019,Netflix France,2341888057,2,1,1.1761142655074714e+18
 1176088494155993088,"@NarutoCoeur Ce n'est pas le sujet ici, bg.",Mon Sep 23 10:58:42 +0000 2019,Netflix France,2341888057,50,1,1.1760871218719416e+18
 1176086912525885441,@ifnabxx Fonce.,Mon Sep 23 10:52:25 +0000 2019,Netflix France,2341888057,1,0,
-1176086828614672385,"@Namasteeii Si un jour on a les droits, on verra !",Mon Sep 23 10:52:05 +0000 2019,Netflix France,2341888057,87,0,1.1760859434613187e+18
+1176086828614672385,"@Namasteeii Si un jour on a les droits, on verra !",Mon Sep 23 10:52:05 +0000 2019,Netflix France,2341888057,87,0,1.176085943461319e+18
 1176058372682067968,@Renoi_Sure Les droits.,Mon Sep 23 08:59:00 +0000 2019,Netflix France,2341888057,3,0,1.1760583261756375e+18
 1176049371458297858,@MarineIrwinx On n'a pas les droits donc on n'a pas de date. On l'annoncera quand on l'aura.,Mon Sep 23 08:23:14 +0000 2019,Netflix France,2341888057,1,0,1.1760490785909555e+18
-1176049263723327488,@vicecity_150 Tout dépend de ce que tu veux voir.,Mon Sep 23 08:22:49 +0000 2019,Netflix France,2341888057,0,0,1.1759366787767747e+18
+1176049263723327488,@vicecity_150 Tout dépend de ce que tu veux voir.,Mon Sep 23 08:22:49 +0000 2019,Netflix France,2341888057,0,0,1.175936678776775e+18
 1176048371351588864,"@stephbernard831 Bien sûr, le 11 octobre sur Netflix. Pas au cinéma.",Mon Sep 23 08:19:16 +0000 2019,Netflix France,2341888057,1,0,1.17600710504568e+18
 1176048190715334656,"@rexsses On ne produit pas la série. On sait qu'elle arrive en novembre chez son diffuseur original. Chez nous, il faudra patienter le temps qu'on récupère les droits.",Mon Sep 23 08:18:33 +0000 2019,Netflix France,2341888057,0,0,1.1760298688967188e+18
 1176048005679595520,@samyroush Demande à @Netflixhelps de t'aider !,Mon Sep 23 08:17:49 +0000 2019,Netflix France,2341888057,0,0,1.1760403584274063e+18
@@ -220,3 +220,81 @@ Et on va faire notre maximum pour les récupérer, vraiment !",Mon Sep 23 15:51:
 1175342447716646912,@MiuuBerry On l'a !,Sat Sep 21 09:34:10 +0000 2019,Netflix France,2341888057,194,1,1.175342172796797e+18
 1175342282771501062,@Val_Az_ Bien joué.,Sat Sep 21 09:33:31 +0000 2019,Netflix France,2341888057,190,0,1.175342064126636e+18
 1175334521870401536,@s15c02 On ne laisse pas Elfo dans un coin.,Sat Sep 21 09:02:41 +0000 2019,Netflix France,2341888057,30,1,1.1751015182756004e+18
+1178652002240389126,@buteravelvets Prochainement !,Mon Sep 30 12:45:10 +0000 2019,Netflix France,2341888057,1,0,1.178647234197545e+18
+1178650980260438016,"@stcommuniste En 2020, et la suite en 2021.",Mon Sep 30 12:41:06 +0000 2019,Netflix France,2341888057,1,0,1.178641475145552e+18
+1178626082406387712,"@Qbinze Mets des gouttes dans tes yeux, maintenant.",Mon Sep 30 11:02:10 +0000 2019,Netflix France,2341888057,82,0,1.178625678842966e+18
+1178625387968057344,"@YannAmar12 Tu as l'oeil. C'est parce qu'on n'a pas les droits, pour l'instant.",Mon Sep 30 10:59:24 +0000 2019,Netflix France,2341888057,0,0,1.178624932873478e+18
+1178624612873191424,"@JSchoelcher Très bien et toi, Joanna ?",Mon Sep 30 10:56:20 +0000 2019,Netflix France,2341888057,3,0,1.1786241120062218e+18
+1178624560478015488,@YtVenomrize Toujours pas !,Mon Sep 30 10:56:07 +0000 2019,Netflix France,2341888057,6,0,1.1786240976029327e+18
+1178624535039488000,@vichar07 La série a malheureusement été annulée.,Mon Sep 30 10:56:01 +0000 2019,Netflix France,2341888057,17,0,1.178624039268565e+18
+1178624105198899201,"@FreddoMosby Tu l'aimes, donc.",Mon Sep 30 10:54:19 +0000 2019,Netflix France,2341888057,0,1,1.178623956351365e+18
+1178623694945558534,"@ewanlechofa666 Il est là, @sethgueko.",Mon Sep 30 10:52:41 +0000 2019,Netflix France,2341888057,17,1,1.178623531447472e+18
+1178623665149288449,"@auguste56275963 La série a été annulée, désolés.",Mon Sep 30 10:52:34 +0000 2019,Netflix France,2341888057,13,0,1.178623565249368e+18
+1178710165647843328,"@ZeFZytaaz Pas du tout, les droits sont détenus par un autre diffuseur.",Mon Sep 30 16:36:17 +0000 2019,Netflix France,2341888057,0,0,1.1787070098872607e+18
+1178704120552841216,@AliceDhnn @lauraamtn PRO-CHAINE-MENT.,Mon Sep 30 16:12:16 +0000 2019,Netflix France,2341888057,13,0,1.1787023521335665e+18
+1178704070028222466,@Lilou_AW Prochainement. On est immunisés contre les gages.,Mon Sep 30 16:12:04 +0000 2019,Netflix France,2341888057,76,2,1.17870379131256e+18
+1178703513263726592,"@SarahWolfgrtn La preuve, on vient de le faire.",Mon Sep 30 16:09:51 +0000 2019,Netflix France,2341888057,133,2,1.178702959368135e+18
+1178702856469336065,"@Alexandreherive Quand ? Prochainement.
+Où ? Sur Netflix.
+Comment ? En utilisant une connexion Internet.",Mon Sep 30 16:07:14 +0000 2019,Netflix France,2341888057,289,16,1.1787019337936855e+18
+1178702689632477184,@eli_zoon On comprend ton point de vue.,Mon Sep 30 16:06:35 +0000 2019,Netflix France,2341888057,118,2,1.1787018678843884e+18
+1178702629033127942,"@YouleGaming ON PARLE DE STRANGER THINGS 4, LÀ ! 
+LUCIFER SAISON FINALE ARRIVE EN 2020 !",Mon Sep 30 16:06:20 +0000 2019,Netflix France,2341888057,246,5,1.1787018815033713e+18
+1178702451584782342,@Experimentboy Pas encore.,Mon Sep 30 16:05:38 +0000 2019,Netflix France,2341888057,65,0,1.1787021593508332e+18
+1178702318168088580,"@SarahWolfgrtn PRO
+CHAINE
+MENT
+!",Mon Sep 30 16:05:06 +0000 2019,Netflix France,2341888057,201,9,1.1787020659394314e+18
+1178702238904139776,@MatouPlantive Pas le temps.,Mon Sep 30 16:04:47 +0000 2019,Netflix France,2341888057,137,1,1.1787020929172644e+18
+1178699331907592192,@lulluby_koa WOW LE VOCABULAIRE ! T'ES PAS BIEN !,Mon Sep 30 15:53:14 +0000 2019,Netflix France,2341888057,2,0,1.178699000494674e+18
+1178698184215937024,"@everytimemydear @JinoKaz Alors : c'est un épisode par semaine, chez nous. Et le premier épisode de la saison finale est disponible depuis vendredi.",Mon Sep 30 15:48:40 +0000 2019,Netflix France,2341888057,1,0,1.178697020439253e+18
+1178697525760593920,@selly2207 Oui ! Le deuxième film arrive le 12 février 2020.,Mon Sep 30 15:46:03 +0000 2019,Netflix France,2341888057,21,1,1.1786974001118454e+18
+1178697191726161920,"@MathisMigi Elle est toujours en production, patience.",Mon Sep 30 15:44:44 +0000 2019,Netflix France,2341888057,5,0,1.1786969525502198e+18
+1178697150311682049,@mjb32452144 Ça nous dira quand on aura les droits.,Mon Sep 30 15:44:34 +0000 2019,Netflix France,2341888057,2,0,1.1786969818684047e+18
+1178697065389608969,"@MonnetAugustin C'est normal, le tournage vient de commencer et ça arrive en 2020.",Mon Sep 30 15:44:14 +0000 2019,Netflix France,2341888057,26,0,1.1786967263974892e+18
+1178696986129776640,@lovecraftgreg66 @IstradeCS Tout simplement parce qu'on n'a pas les droits.,Mon Sep 30 15:43:55 +0000 2019,Netflix France,2341888057,3,0,1.178696847801639e+18
+1178694130035314698,"@djib_sns Bonjour.
+
+Nous passons une journée de type agréable. La vie suit son cours et nous sommes heureux. Nous espérons que c'est la même chose de ton côté.
+
+On te fait une bise de type cordial.
+
+Cordialement.",Mon Sep 30 15:32:34 +0000 2019,Netflix France,2341888057,150,10,1.178687525331841e+18
+1178689702377005056,@Gregoluk C'est en production donc c'est...,Mon Sep 30 15:14:58 +0000 2019,Netflix France,2341888057,6,0,1.1786895745681695e+18
+1178689656235397120,@Lucariite C'est prévu pour prochainement.,Mon Sep 30 15:14:47 +0000 2019,Netflix France,2341888057,4,0,1.1786894608773202e+18
+1178688750857134080,@IstradeCS On est en train de corriger le souci.,Mon Sep 30 15:11:11 +0000 2019,Netflix France,2341888057,12,0,1.1786879619043615e+18
+1178688703843241985,@DRS_212 La nuit.,Mon Sep 30 15:11:00 +0000 2019,Netflix France,2341888057,17,0,1.17868793837432e+18
+1178688543864053761,"@maxime_hbrt C'est en production, Maxime.",Mon Sep 30 15:10:22 +0000 2019,Netflix France,2341888057,21,0,1.1786877407806956e+18
+1178688391224934406,@mouss34070 Tout à fait.,Mon Sep 30 15:09:46 +0000 2019,Netflix France,2341888057,5,0,1.1786876754753823e+18
+1178688365211914240,"@TheRealCrazyJo Ta femme va être contente : ça arrive le 17 novembre.
+Et elle va être encore plus contente : la quatrième saison est en production !",Mon Sep 30 15:09:39 +0000 2019,Netflix France,2341888057,9,0,1.1786876333939016e+18
+1178688244680155136,"@Unhumain56 Oui, petit.",Mon Sep 30 15:09:11 +0000 2019,Netflix France,2341888057,31,1,1.1786879610403963e+18
+1178688200346341376,@AntoineDeTorth PROCHAAAAAAAAAINEMEEEEEEEEENT !,Mon Sep 30 15:09:00 +0000 2019,Netflix France,2341888057,78,1,1.1786875969999708e+18
+1178688140703358976,"@alyzee10810479 De ce qu'on sait, non.",Mon Sep 30 15:08:46 +0000 2019,Netflix France,2341888057,42,0,1.17868757849045e+18
+1178688026416947207,@zolki7 DÈS VENDREDI !,Mon Sep 30 15:08:19 +0000 2019,Netflix France,2341888057,64,2,1.178687915016278e+18
+1178687941473906688,@ABoukherrouba On n'a pas d'infos concernant une série Resident Evil.,Mon Sep 30 15:07:58 +0000 2019,Netflix France,2341888057,11,0,1.178687534521606e+18
+1178687876848082945,@El_Fantominho66 Et bien tu peux piocher dans cette liste !,Mon Sep 30 15:07:43 +0000 2019,Netflix France,2341888057,7,0,1.1786877473657692e+18
+1178687770170146821,"@Flo_ber7 C'est pour un ami ? Pour le moment, ce n'est pas prévu ! On va voir avec les droits si ils nous chantent une petite chanson.",Mon Sep 30 15:07:18 +0000 2019,Netflix France,2341888057,31,1,1.178687466649346e+18
+1178687555514048512,@THOMAS42250239 Le 29 octobre ! Tout n'est pas dans la liste.,Mon Sep 30 15:06:26 +0000 2019,Netflix France,2341888057,26,1,1.1786874151139123e+18
+1178687419505356800,"@Valex56 Pas dans la liste, comme tu peux le voir.",Mon Sep 30 15:05:54 +0000 2019,Netflix France,2341888057,30,0,1.1786873715687178e+18
+1178686766892617728,"@Saandra_x3 Si un jour on a les droits, oui ! Pour l'instant, c'est pas prévu, Sandra. On va voir avec la maison de disques.",Mon Sep 30 15:03:18 +0000 2019,Netflix France,2341888057,1,0,1.1786866118502236e+18
+1178666272810311680,@amonhumbleavis Mais c'est prévu !,Mon Sep 30 13:41:52 +0000 2019,Netflix France,2341888057,4,0,1.1785530893532447e+18
+1178665692629012480,"@barrier_sarah C'est une mini-série, donc une seule saison, Sarah.",Mon Sep 30 13:39:34 +0000 2019,Netflix France,2341888057,1,0,1.1786644244433838e+18
+1178662144889573377,@D_French_Gunner Nous aussi.,Mon Sep 30 13:25:28 +0000 2019,Netflix France,2341888057,3,0,1.1786619018967327e+18
+1178948436470706176,"@BBuruku De notre côté, ce n'est pas dispo non plus. On va voir ce qu'il se passe. On te tient au courant quand c'est dispo !",Tue Oct 01 08:23:05 +0000 2019,Netflix France,2341888057,2,0,1.178946499306283e+18
+1178946218053046272,"@Hawkeye7011 Alors la première partie de la saison 6 (qui sera la dernière saison, on précise) sera dispo le 25 octobre. 
+
+Et la dernière partie arrivera le 31 janvier.",Tue Oct 01 08:14:16 +0000 2019,Netflix France,2341888057,0,0,1.1789445468073902e+18
+1178943985164918784,@ValRoutet Toujours en préparation.,Tue Oct 01 08:05:24 +0000 2019,Netflix France,2341888057,2,0,1.178943283755651e+18
+1178940146839891968,@K_jovovich Prochainement de façon approximative.,Tue Oct 01 07:50:09 +0000 2019,Netflix France,2341888057,2,0,1.1789394637723812e+18
+1178940001503059968,@Futekiii C'est carrément prévu.,Tue Oct 01 07:49:34 +0000 2019,Netflix France,2341888057,1,1,1.1789397689708462e+18
+1178939906716000256,"@maelsargel Oui, à partir du 29 octobre.",Tue Oct 01 07:49:12 +0000 2019,Netflix France,2341888057,1,0,1.1789291602254602e+18
+1178939631733297152,@SchmuckArthur La post production est en cours vu que le tournage est terminé.,Tue Oct 01 07:48:06 +0000 2019,Netflix France,2341888057,2,0,1.1789340799217664e+18
+1178939334088691712,@AkumakoYT Le 31 octobre. Comme c'est indiqué dans l'agenda.,Tue Oct 01 07:46:55 +0000 2019,Netflix France,2341888057,3,0,1.1789360053170708e+18
+1178939251372826625,"@SPvama On a annoncé le renouvellement de Stranger Things pour une 4ème saison hier soir, donc pas tout de suite. 
+Le tournage de la saison 2 de Sex Education est terminé donc prochainement et The Society revient en 2020.",Tue Oct 01 07:46:35 +0000 2019,Netflix France,2341888057,3,0,1.1789372309723464e+18
+1178939033713610752,@Ohamiis4 Le tournage de la saison finale est en cours. Et ça arrive en 2020.,Tue Oct 01 07:45:43 +0000 2019,Netflix France,2341888057,2,0,1.1789381122124227e+18
+1178715876511621120,"@RogetTurino Entre aujourd'hui et la fin du monde, pour l'instant.",Mon Sep 30 16:58:59 +0000 2019,Netflix France,2341888057,33,0,1.1787157449782927e+18
+1178713843855511552,@RebClara_ Prends l'air.,Mon Sep 30 16:50:54 +0000 2019,Netflix France,2341888057,47,0,1.1787136484093174e+18
+1178710811298189315,@EasyBabel @BordAmaury T'AS ÉCRIT LOGO DANS TOUT ÇA !!!!,Mon Sep 30 16:38:51 +0000 2019,Netflix France,2341888057,248,7,1.1787104128602317e+18
+1178710733426696192,@AlfeDimitri @Stranger_Things Regarde notre dernier tweet.,Mon Sep 30 16:38:32 +0000 2019,Netflix France,2341888057,2,0,1.1787105669170258e+18
