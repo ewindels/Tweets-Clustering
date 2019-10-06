@@ -123,7 +123,10 @@ def update_data(company, time='newest', mode='to'):
         return 1
     new_data = create_new_data(new_tweets, mode)
 
-    print('{:>4} new tweets'.format(len(new_tweets)))
+    if len(new_tweets) > 0:
+        print('{:>4} new tweets'.format(len(new_tweets)))
+    else:
+        print('   -')
 
     if new_data.shape[0] > 0:
         new_data_df = pd.concat([data_df, new_data])
