@@ -5,16 +5,17 @@ import random
 def annotate_tweet(tweet_id, company_tweets):
     ''' 
     Category : 0 if complain, 1 if question, 2 if simple mention without
-                expectation of an answer
+                expectation of an answer, 3 if thanks
     Toxicity: 0 if neutral, 1 if slighly aggressive, 2 if foul and 
             aggressive, 3 if insult but request, 4 if full insult
     Intent: str expected, main intent of the tweet (eg: retard, prix) (unique)
-    Entities: str, entities are separated by spaces
+    Entities: str, entities are separated by spaces 
+        (use _ if connected words: données_personnelles, service_client)
     '''
     print(company_tweets[company_tweets.id == tweet_id].text.values[0])
 
     categ = int(input('Category:\n'))
-    while categ not in [0, 1, 2]:
+    while categ not in [0, 1, 2, 3]:
         categ = int(input('Category: 0 if complain, 1 if question, 2 if mention\n'))
         
     if categ != 2:  # if the tweet is only a mention, we don't annotate it
@@ -34,7 +35,7 @@ def annotate_tweet(tweet_id, company_tweets):
         toxicity, intent, entities = [-1, -1, -1]
         
     return {'tweet_id': tweet_id, 
-            'category': categ,
+            'categ': categ,
             'toxicity': toxicity,
             'intent': intent,
             'entities': entities}
@@ -44,11 +45,11 @@ def annotate_csv(company):
     Annotate multiple tweets for a single company
     '''
     if company + '_annotations.csv' in os.listdir('annotations'):
-        company_annotations = pd.read_csv(os.path.join('annotations', 
-                                                       company + '_annotations.csv'))
+        company_annotations = pd.read_csv(os.path.join('annotations', company + '_annotations.csv'), 
+                                          sep=';')
     else:
         company_annotations = pd.DataFrame(columns=['tweet_id', 'company', 
-                                                    'category', 'toxicity', 
+                                                    'categ', 'toxicity', 
                                                     'intent', 'entities'])
     
     company_tweets = pd.read_csv(os.path.join('data', company + '.csv'))
@@ -69,5 +70,5 @@ def annotate_csv(company):
                                     sort=False)
     
     company_annotations.to_csv(os.path.join('annotations', company + '_annotations.csv'), 
-                               index=False)
+                               index=False, encoding='utf-8', sep=';')
     return 1
