@@ -1,0 +1,9 @@
+tweet_id,company,categ,toxicity,intent,entities
+1174015294827835395,Auchan,1,0,fs fdsf,['az']
+1180760467209367552,Auchan,2,-1,-1,-1
+1180455450472566784,Auchan,1,0,fsdf sazae,['ds']
+1179756679530995714,Auchan,2,-1,-1,-1
+1176436316550119424,Auchan,2,-1,-1,-1
+1177898889929773057,Auchan,1,0,acar,['fifa']
+1174630726383415298,Auchan,1,0,fifa,['a']
+1177327419520409600,Auchan,1,0,fifa,['lol']
