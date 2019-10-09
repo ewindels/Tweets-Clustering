@@ -4,7 +4,7 @@ import sys
 
 my_parser = argparse.ArgumentParser(description='Launch the Twitter parser')
 
-my_parser.add_argument('--mode',
+my_parser.add_argument('--scrap',
                        type=str,
                        help='retrieve tweets from companies or to companies')
 
@@ -13,7 +13,7 @@ my_parser.add_argument('--add',
                        help='add new company')
 
 args = my_parser.parse_args()
-input_mode = args.mode
+input_mode = args.scrap
 new_company = args.add
 
 if input_mode:
