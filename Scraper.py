@@ -5,18 +5,28 @@ import json
 import os
 from time import sleep
 
-with open('credentials.json') as handle:
-    credentials = json.loads(handle.read())
 
-api = twitter.Api(consumer_key=credentials['consumer_key'],
-                  consumer_secret=credentials['consumer_secret'],
-                  access_token_key=credentials['access_token_key'],
-                  access_token_secret=credentials['access_token_secret'],
-                  tweet_mode='extended')
+with open('credentials_pe.json') as handle:
+    credentials_pe = json.loads(handle.read())
+    
+with open('credentials_ew.json') as handle:
+    credentials_ew = json.loads(handle.read())
 
 with open('companies.json') as handle:
-    companies = json.loads(handle.read())
+    companies = json.loads(handle.read())    
 
+def make_API(who):
+	if who == 'pe':
+		credentials = credentials_pe
+	elif who == 'ew':
+		credentials = credentials_ew
+	else:
+		return 1
+	return twitter.Api(consumer_key=credentials['consumer_key'],
+                     	consumer_secret=credentials['consumer_secret'],
+                    	access_token_key=credentials['access_token_key'],
+                    	access_token_secret=credentials['access_token_secret'],
+                    	tweet_mode='extended')
 
 def get_tweets(company, max_id=0, since_id=0, mode='to'):
     company_account = companies[company]
@@ -34,8 +44,10 @@ def get_tweets(company, max_id=0, since_id=0, mode='to'):
         since_id_q = '&since_id=' + str(since_id)
     else:
         since_id_q = ''
+    api = make_API('pe') if mode == 'to' else make_API('ew')
+
     return api.GetSearch(raw_query="q={}{}{}&lang=fr&count=100".format(query, since_id_q, max_id_q),
-                         result_type='recent')
+                                result_type='recent')
 
 
 def filter_links(text):
