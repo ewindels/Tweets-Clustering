@@ -55,17 +55,20 @@ def filter_links(text):
     return re.sub(r'https://t.co/\w+', '[LIEN]', text)
 
 
-def create_new_data(tweets, mode='to'):
+def create_new_data(tweets, company, mode='to'):
     new_data = pd.DataFrame()
     new_data['id'] = [tweet.id for tweet in tweets]
     new_data['text'] = [filter_links(tweet.full_text) for tweet in tweets]
     new_data['date'] = [tweet.created_at for tweet in tweets]
     new_data['user'] = [tweet.user.name for tweet in tweets]
     new_data['user_id'] = [tweet.user.id for tweet in tweets]
-    new_data['favorite_cnt'] = [tweet.favorite_count for tweet in tweets]
-    new_data['retweet_cnt'] = [tweet.retweet_count for tweet in tweets]
+    if mode == 'to':
+        new_data['favorite_cnt'] = [tweet.favorite_count for tweet in tweets]
+        new_data['retweet_cnt'] = [tweet.retweet_count for tweet in tweets]
     if mode == 'from':
         new_data['reply_to_id'] = [tweet.in_reply_to_status_id for tweet in tweets]
+        df_to = pd.read_csv('data/{}.csv'.format(company))
+        new_data = new_data.loc[new_data['reply_to_id'].isin(df_to['id'])]
     return new_data
 
 
@@ -134,21 +137,20 @@ def update_data(company, time='newest', mode='to'):
     else:
         print('Time does not exist')
         return 1
-    new_data = create_new_data(new_tweets, mode)
-
-    if len(new_tweets) > 0:
-        print('{:>4} new tweets'.format(len(new_tweets)))
-    else:
-        print('   -')
+    new_data = create_new_data(new_tweets, company, mode)
 
     if new_data.shape[0] > 0:
+        print('{:>4} new tweets'.format(new_data.shape[0]))
+
         new_data_df = pd.concat([data_df, new_data])
         if mode == 'to':
+            new_data_df = new_data_df.drop_duplicates('user_id', keep='last')
             new_data_df.to_csv('data/{}.csv'.format(company), index=False)
         elif mode == 'from':
             new_data_df.to_csv('data/{}_replies.csv'.format(company), index=False)
         return 0
     else:
+        print('   -')
         return 1
 
 
