@@ -1,14 +1,8 @@
-id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
-1177142384284655617,"@gwendalavir @GEODIS_Group Bonjour et merci de nous avoir contactés. Nous vous conseillons de passer en DM avec votre numéro de commande pour pouvoir vous aider au plus vite. À tout de suite, L'équipe MdM
-[LIEN]",Thu Sep 26 08:46:29 +0000 2019,Maisons du Monde FR,385340948,0,0,1176868215319867392
-1177515370388656135,"@ChomatMelanie Bonjour, pour traiter votre demande, rendez-vous en DM avec votre numéro de commande. À tout de suite, L'équipe MdM
-[LIEN]",Fri Sep 27 09:28:36 +0000 2019,Maisons du Monde FR,385340948,0,0,1177293580844589058
-1178689083956219904,"@victoire2013 @DocPhilou Bonjour et merci d'être revenus vers nous. Nous vous conseillons de passer en DM avec votre numéro de commande pour pouvoir vous aider au plus vite. À tout de suite, L'équipe MdM
-[LIEN]",Mon Sep 30 15:12:31 +0000 2019,Maisons du Monde FR,385340948,0,0,1178680343043424257
-1178674775662747649,"@VincentGambette Bonjour, pour vous venir en aide dans les plus brefs délais, nous vous conseillons de revenir vers nous en discussion privée, avec votre numéro de commande. Nous serons ravis de vous répondre, L'équipe MdM
-[LIEN]",Mon Sep 30 14:15:39 +0000 2019,Maisons du Monde FR,385340948,0,0,1177575489688485889
-1178674608867811328,"@DocPhilou Bonjour et merci de nous avoir contactés. Avez-vous bien été livré, comme convenu ? Bonne journée, L'équipe MdM",Mon Sep 30 14:15:00 +0000 2019,Maisons du Monde FR,385340948,1,0,1177949511970369537
-1178674369637343232,"@alamiens1 Bonjour, nous sommes désolés d'apprendre la situation. Pourriez-vous nous communiquer votre numéro de commande en DM pour vous venir en aide au plus vite ? À tout de suite, L'équipe MdM
-[LIEN]",Mon Sep 30 14:14:03 +0000 2019,Maisons du Monde FR,385340948,0,0,1178287068541272064
-1178674189458382848,"@O_Thev Bonjour et merci de nous avoir contactés. Nous vous conseillons de passer en DM avec votre numéro de commande pour pouvoir vous aider au plus vite. À tout de suite, L'équipe MdM
-[LIEN]",Mon Sep 30 14:13:20 +0000 2019,Maisons du Monde FR,385340948,0,0,1178639961572216832
+id,text,date,user,user_id,reply_to_id
+1177515370388656135,"@ChomatMelanie Bonjour, pour traiter votre demande, rendez-vous en DM avec votre numéro de commande. À tout de suite, L'équipe MdM
+[LIEN]",Fri Sep 27 09:28:36 +0000 2019,Maisons du Monde FR,385340948,1177293580844589058
+1178674608867811328,"@DocPhilou Bonjour et merci de nous avoir contactés. Avez-vous bien été livré, comme convenu ? Bonne journée, L'équipe MdM",Mon Sep 30 14:15:00 +0000 2019,Maisons du Monde FR,385340948,1177949511970369537
+1178674369637343232,"@alamiens1 Bonjour, nous sommes désolés d'apprendre la situation. Pourriez-vous nous communiquer votre numéro de commande en DM pour vous venir en aide au plus vite ? À tout de suite, L'équipe MdM
+[LIEN]",Mon Sep 30 14:14:03 +0000 2019,Maisons du Monde FR,385340948,1178287068541272064
+1178674189458382848,"@O_Thev Bonjour et merci de nous avoir contactés. Nous vous conseillons de passer en DM avec votre numéro de commande pour pouvoir vous aider au plus vite. À tout de suite, L'équipe MdM
+[LIEN]",Mon Sep 30 14:13:20 +0000 2019,Maisons du Monde FR,385340948,1178639961572216832

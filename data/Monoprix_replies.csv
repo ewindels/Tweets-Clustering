@@ -1,9 +1,4 @@
-id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
-1175739517875163136,@fou_ad_ Ce modèle n’est pas disponible dans nos rayons 😇,Sun Sep 22 11:51:59 +0000 2019,Monoprix,62470684,0,0,1175720108234280962
-1175043565031964673,"@RedacAzur Bonjour, nous partageons votre suggestion auprès des équipes concernées. Bonne journée.",Fri Sep 20 13:46:31 +0000 2019,Monoprix,62470684,0,0,1174979738068144134
-1177577644604502016,"@SerwanMelk Bonjour. Oups, nous prévenons notre équipe web ! Merci de nous l'avoir signalé ! Bonne journée.",Fri Sep 27 13:36:03 +0000 2019,Monoprix,62470684,0,0,1177130272506167296
-1181607705959641089,@Clemfoodie Où retrouver nos deux premiers #Monop' ? Rue St Dominique (Paris 7) et Avenue Bugeaud (Paris 16) et demain à d’autres adresses ✨ [LIEN],Tue Oct 08 16:30:04 +0000 2019,Monoprix,62470684,4,1,1181607263578013697
-1181607263578013697,@Clemfoodie Notre nouveau Monop’ accueille l’offre Maison de #Monoprix ainsi que #Bergamote pour fleurir votre intérieur 🌸,Tue Oct 08 16:28:19 +0000 2019,Monoprix,62470684,3,0,1181606935453458432
-1181606935453458432,"@Clemfoodie Notre nouveau Monop’, des services pour vous faciliter la vie : #Jow pour découvrir des recettes faciles avec la liste des courses associées, #ScanUp pour récupérer les informations nutritionnelles des produits, #CoupeFile pour éviter l’attente en caisse ! [LIEN]",Tue Oct 08 16:27:01 +0000 2019,Monoprix,62470684,1,0,1181606592959205377
-1181606592959205377,@Clemfoodie Notre nouveau monop’ : Le Petit Ballon vous aide à sélectionner le cépage en fonction de vos goûts et propose une sélection exclusive de vins issus de petits vignerons. TWIL vous permet de connaitre l’histoire du vigneron ! [LIEN],Tue Oct 08 16:25:39 +0000 2019,Monoprix,62470684,1,0,1181606202754715648
-1181606202754715648,"Notre nouveau Monop’, une cuisine inspirante : un corner Home Made Food Rachel’s, une collaboration avec @Clemfoodie, la cuisine du resto mythique Blue Elephant… [LIEN]",Tue Oct 08 16:24:06 +0000 2019,Monoprix,62470684,7,0,1181605663358771200
+id,text,date,user,user_id,reply_to_id
+1175739517875163136,@fou_ad_ Ce modèle n’est pas disponible dans nos rayons 😇,Sun Sep 22 11:51:59 +0000 2019,Monoprix,62470684,1175720108234280962
+1177577644604502016,"@SerwanMelk Bonjour. Oups, nous prévenons notre équipe web ! Merci de nous l'avoir signalé ! Bonne journée.",Fri Sep 27 13:36:03 +0000 2019,Monoprix,62470684,1177130272506167296
+1181886775591079937,"@Babouchesucree  il s'agit de portion individuelle adaptée pour le déjeuner, nous partageons votre message avec notre équipe packaging afin d'améliorer ce point.",Wed Oct 09 10:59:00 +0000 2019,Monoprix,62470684,1181163436123836416

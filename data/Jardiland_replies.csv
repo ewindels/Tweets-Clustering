@@ -1,15 +1,6 @@
-id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
-1177505678941798402,"@NoartOnlyOne @60millions Bonjour, 
-Notre service client vous a répondu et nous nous excusons pour le retard de livraison. En attendant votre carte, une e-carte cadeau vous a été envoyée par e-mail.
-Encore toutes nos excuses pour ce désagrément. 
-Très belle journée 
-Le service client Jardiland",Fri Sep 27 08:50:05 +0000 2019,Jardiland,14693679,0,0,1177167316586553344
-1177495383884173314,@maexarmy Parce qu’il faut nous fololo.,Fri Sep 27 08:09:10 +0000 2019,Jardiland,14693679,2,0,1177304917112971264
-1176806130137337857,@drowninginpink @JiTaeme @JEVEUTMAPLACE @Decathlon Un Army ne peut que se réjouir de voir une autre marque s'intéresser à ce ✨groupe✨. Amour sur vous.,Wed Sep 25 10:30:20 +0000 2019,Jardiland,14693679,47,6,1176641061646688257
-1176401589608812545,@ActuFoot_ Merci @neymarjr de porter nos bottes de jardinage.,Tue Sep 24 07:42:50 +0000 2019,Jardiland,14693679,4,0,1176137175936700417
-1178992235582504960,@LaPetitePelle Nous c'est en cours... [LIEN],Tue Oct 01 11:17:08 +0000 2019,Jardiland,14693679,16,4,1178991403310952451
-1181483925203501056,@kepterotica @GiraudJules Viens pour le plaisir. :) [LIEN],Tue Oct 08 08:18:13 +0000 2019,Jardiland,14693679,1,2,1181472033814781953
-1181483122426335237,@ChipotleFR @lauriane_reine Le drap-house c'est hard quand même.,Tue Oct 08 08:15:01 +0000 2019,Jardiland,14693679,0,0,1181256609504342017
-1181547857796575233,"@Nono_Norie Avril, c’est le mois parfait pour un bouquet d’anémones. 🌺🌱",Tue Oct 08 12:32:16 +0000 2019,Jardiland,14693679,0,0,1181492922627379200
-1181546909548400641,@ChipotleFR @lauriane_reine @LaRedoute On veut bien un tuto en vrai.,Tue Oct 08 12:28:29 +0000 2019,Jardiland,14693679,1,0,1181545768387252225
-1181846511140982784,"@httppepite Comme dirait Gauvain dans #Kaamelott ""c'est d'une incroyable difficulté "". [LIEN]",Wed Oct 09 08:19:00 +0000 2019,Jardiland,14693679,2,0,1181843691620782080
+id,text,date,user,user_id,reply_to_id
+1177505678941798402,"@NoartOnlyOne @60millions Bonjour, 
+Notre service client vous a répondu et nous nous excusons pour le retard de livraison. En attendant votre carte, une e-carte cadeau vous a été envoyée par e-mail.
+Encore toutes nos excuses pour ce désagrément. 
+Très belle journée 
+Le service client Jardiland",Fri Sep 27 08:50:05 +0000 2019,Jardiland,14693679,1177167316586553344

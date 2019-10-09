@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 import json
-from random import choices, choice
+from random import choice
 
 with open('companies.json') as handle:
     companies = list(json.loads(handle.read()))
@@ -11,7 +11,8 @@ class Annotator:
     def __init__(self, company=None):
         self.company = company
         self.tweets = pd.read_csv(os.path.join('data', company + '.csv'))[['id', 'text']]
-        self.company_annotations = {'single': pd.read_csv(os.path.join('annotations', company + '_single.csv')),
+        self.company_annotations = {'single': pd.read_csv(os.path.join('annotations', company + '_single.csv'),
+                                                          dtype={'category': str}),
                                     'comp': pd.read_csv(os.path.join('annotations', company + '_comp.csv'))}
 
     def annotate(self, annotation_type='single'):
@@ -24,7 +25,7 @@ class Annotator:
                     aggressive, 3 if vulgar and aggressive but request, 4 if full insult
             Intent: str expected, main intent of the tweet (eg: retard, prix) (unique)
             """
-            print('\n---' + self.tweets[self.tweets.id == tweet_id].text.values[0] + '---\n')
+            print('\n---\n' + self.tweets[self.tweets['id'] == tweet_id].text.values[0] + '\n---\n')
 
             cat = input('Category:\n')
             categories = cat if len(cat) > 0 else '2'
@@ -47,7 +48,7 @@ class Annotator:
                     'intent': intent}
 
         if annotation_type == 'single':
-            potential_ids = set(self.tweets.id.values) - set(self.company_annotations['single'].tweet_id.values)
+            potential_ids = set(self.tweets['id'].values) - set(self.company_annotations['single'].tweet_id.values)
             print('{} tweets left to annotate'.format(len(potential_ids)))
             stop = False
             annotations_to_append = list()
