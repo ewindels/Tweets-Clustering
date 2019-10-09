@@ -1,7 +1,2 @@
-id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
-1175054028834840580,"@darkh3ll Bonjour, la collection est disponible sur notre eshop : [LIEN] Belle journée à vous !",Fri Sep 20 14:28:06 +0000 2019,L'Oréal Paris France,290014291,0,0,1174718289215467520
-1174944649300983809,@Timodelle @KarlLagerfeld @Monoprix Ravis de vous avoir eu parmi nous ! 💕,Fri Sep 20 07:13:28 +0000 2019,L'Oréal Paris France,290014291,0,0,1174750797072084996
-1174944472070684673,"@Criscristou1 Bonjour, il suffit de cliquer sur le lien 😊",Fri Sep 20 07:12:46 +0000 2019,L'Oréal Paris France,290014291,1,0,1174796847635976198
-1177961375638937600,"@Jvrdxnn @ajanaomi_king Bonjour, nous vous invitons à nous rejoindre sur le compte Instagram @lorealmakeup 💕",Sat Sep 28 15:00:52 +0000 2019,L'Oréal Paris France,290014291,1,1,1177934563449942018
-1177947560704696320,"@bref1234 @ajanaomi_king Bonjour @bref1234 
-Nous sommes navrés 😔 Des accès ont été gagnés par le Grand Public sur jeu concours. Par mesure de sécurité liée aux événements prévus dans Paris, ces accès ont dû être limités. Vous pourrez suivre le défilé en live sur notre compte instagram @lorealmakeup 😊😊",Sat Sep 28 14:05:58 +0000 2019,L'Oréal Paris France,290014291,0,0,1177940420606791680
+id,text,date,user,user_id,reply_to_id
+1174944649300983809,@Timodelle @KarlLagerfeld @Monoprix Ravis de vous avoir eu parmi nous ! 💕,Fri Sep 20 07:13:28 +0000 2019,L'Oréal Paris France,290014291,1174750797072084996

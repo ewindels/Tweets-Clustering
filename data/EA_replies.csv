@@ -1,4 +1,1 @@
-id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
-1176152114072104961,Plus de détails sur la mise à jour Coop : [LIEN] [LIEN],Mon Sep 23 15:11:30 +0000 2019,EA France,28693973,27,1,1176151745354973189
-1175074169920401408,@ZEventfr @ZeratoRSC2 @tpdach Dans ce cas échangeons par Messages Privés. Il faut juste nous follow pour pouvoir procéder. :),Fri Sep 20 15:48:08 +0000 2019,EA France,28693973,14,1,1175072746000322560
-1175072172462751744,"@ZEventfr @ZeratoRSC2 @tpdach Bonjour. Nous avons envoyé un mail à Zerator mais, si vous le souhaitez, nous pouvons entrer en contact autrement. 😉",Fri Sep 20 15:40:12 +0000 2019,EA France,28693973,25,1,1175071373926051843
+id,text,date,user,user_id,reply_to_id
