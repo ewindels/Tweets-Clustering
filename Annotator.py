@@ -24,7 +24,7 @@ class Annotator:
                     aggressive, 3 if vulgar and aggressive but request, 4 if full insult
             Intent: str expected, main intent of the tweet (eg: retard, prix) (unique)
             """
-            print(self.tweets[self.tweets.id == tweet_id].text.values[0])
+            print('\n---' + self.tweets[self.tweets.id == tweet_id].text.values[0] + '---\n')
 
             cat = input('Category:\n')
             categories = cat if len(cat) > 0 else '2'
@@ -48,9 +48,10 @@ class Annotator:
 
         if annotation_type == 'single':
             potential_ids = set(self.tweets.id.values) - set(self.company_annotations['single'].tweet_id.values)
+            print('{} tweets left to annotate'.format(len(potential_ids)))
             stop = False
             annotations_to_append = list()
-            while not stop:
+            while not stop and len(potential_ids) > 0:
                 tweet_id_ = choice(list(potential_ids))
                 tweet_annot = annotate_tweet(tweet_id_)
                 annotations_to_append.append(tweet_annot)
@@ -58,6 +59,8 @@ class Annotator:
 
                 stop = bool(input('Continue?'))
 
+            if len(potential_ids) == 0:
+                print('No more tweets to annotate')
             temp_df_to_concat = pd.DataFrame(annotations_to_append)
             print('{} new annotations'.format(temp_df_to_concat.shape[0]))
             company_annotations = pd.concat([self.company_annotations['single'], temp_df_to_concat])
