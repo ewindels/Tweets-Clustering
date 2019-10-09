@@ -1,1 +1,3 @@
-tweet_id,category,toxicity,intent
+category,intent,toxicity,tweet_id
+2,,,1173935124137820160
+1,,0,1176791739719397378
