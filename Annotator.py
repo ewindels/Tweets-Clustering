@@ -19,18 +19,24 @@ class Annotator:
 
         def annotate_tweet(tweet_id, mode='partial'):
             """
-            Category : 0 if complain, 1 if question, 2 if simple mention without
-                        expectation of an answer, 3 if thanks
-            Toxicity: 0 if neutral, 1 if neutral but vulgar, 2 if vulgar and slightly
-                    aggressive, 3 if vulgar and aggressive but request, 4 if full insult
+            Category : 0 if simple mention without complain expectation of an answer,
+                       1 if question,
+                       2 if complaint,
+                       3 if thanks,
+                       4 if willingness to switch
+                       5 if message to multiple companies of same sector
+            Toxicity: 0 if neutral,
+                      1 if neutral but vulgar,
+                      2 if vulgar and slightly aggressive
+                      3 if vulgar and aggressive
             Intent: str expected, main intent of the tweet (eg: retard, prix) (unique)
             """
             print('\n---\n' + self.tweets[self.tweets['id'] == tweet_id].text.values[0] + '\n---\n')
 
             cat = input('Category:\n')
-            categories = cat if len(cat) > 0 else '2'
+            categories = cat if len(cat) > 0 else '0'
 
-            if categories != '2':  # if the tweet is only a mention, we don't annotate it
+            if categories != '0':  # if the tweet is only a mention, we don't annotate it
                 tox = input('Toxicity:\n')
                 toxicity = tox if len(tox) > 0 else '0'  # default is 0
 
@@ -70,7 +76,7 @@ class Annotator:
 
         elif annotation_type == 'comp':
             while True:
-                tweet_1, tweet_2 = 1, 1
+                pass
 
         else:
             print('Supported annotation types are "single" and "comp"')
