@@ -1,1 +1,1 @@
-id,text,date,user,user_id,reply_to_id
+date,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id

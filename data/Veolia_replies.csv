@@ -1,6 +1,6 @@
-id,text,date,user,user_id,reply_to_id
-1177540605817360386,"@AmapolatekcoR Bonjour, pour cette demande, nous vous invitons à contacter notre service Relations Consommateurs au numéro figurant sur votre facture. Cordialement.",Fri Sep 27 11:08:52 +0000 2019,Veolia France,783942862685802500,1177528380650139649
-1174678307306184705,"@lothiraldan Bonjour, pouvez-vous suivre notre compte svp pour poursuivre cette conversation en pv?",Thu Sep 19 13:35:07 +0000 2019,Veolia France,783942862685802500,1174677621378093056
-1178087810357706757,"@Nicolas96517968 @villedechoisy Bonjour, je vous invite à suivre notre compte afin que nous discutions en privé svp.",Sat Sep 28 23:23:16 +0000 2019,Veolia France,783942862685802500,1177858529878773760
-1178566252211646466,"@Gege_BZH56 @Gege_BZH56  Bonjour, je vous invite à suivre notre compte afin que nous en discutions en privé svp.",Mon Sep 30 07:04:25 +0000 2019,Veolia France,783942862685802500,1178415211340017666
-1178674801658998785,"@Husky_31 Bonjour, je vous invite à suivre notre compte afin que nous en discutions en DM svp.",Mon Sep 30 14:15:46 +0000 2019,Veolia France,783942862685802500,1178626685031374849
+date,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id
+Fri Sep 27 11:08:52 +0000 2019,,1177540605817360386,1177528380650139649,,"@AmapolatekcoR Bonjour, pour cette demande, nous vous invitons à contacter notre service Relations Consommateurs au numéro figurant sur votre facture. Cordialement.",Veolia France,783942862685802500
+Thu Sep 19 13:35:07 +0000 2019,,1174678307306184705,1174677621378093056,,"@lothiraldan Bonjour, pouvez-vous suivre notre compte svp pour poursuivre cette conversation en pv?",Veolia France,783942862685802500
+Sat Sep 28 23:23:16 +0000 2019,,1178087810357706757,1177858529878773760,,"@Nicolas96517968 @villedechoisy Bonjour, je vous invite à suivre notre compte afin que nous discutions en privé svp.",Veolia France,783942862685802500
+Mon Sep 30 07:04:25 +0000 2019,,1178566252211646466,1178415211340017666,,"@Gege_BZH56 @Gege_BZH56  Bonjour, je vous invite à suivre notre compte afin que nous en discutions en privé svp.",Veolia France,783942862685802500
+Mon Sep 30 14:15:46 +0000 2019,,1178674801658998785,1178626685031374849,,"@Husky_31 Bonjour, je vous invite à suivre notre compte afin que nous en discutions en DM svp.",Veolia France,783942862685802500

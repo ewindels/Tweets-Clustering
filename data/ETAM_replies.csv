@@ -1,3 +1,3 @@
-id,text,date,user,user_id,reply_to_id
-1176405523794669569,"@Dohappy_ Hello, on vous a répondu en DM !",Tue Sep 24 07:58:28 +0000 2019,Etam Officiel,101292056,1176405020918591489
-1178700116498231297,"@ele_fastlord @lespetitsfans Oh, c'était dans quel film ?",Mon Sep 30 15:56:21 +0000 2019,Etam Officiel,101292056,1178356621984124934
+date,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id
+Tue Sep 24 07:58:28 +0000 2019,,1176405523794669569,1176405020918591489,,"@Dohappy_ Hello, on vous a répondu en DM !",Etam Officiel,101292056
+Mon Sep 30 15:56:21 +0000 2019,,1178700116498231297,1178356621984124934,,"@ele_fastlord @lespetitsfans Oh, c'était dans quel film ?",Etam Officiel,101292056

@@ -1,8 +1,8 @@
-id,text,date,user,user_id,reply_to_id
-1177515370388656135,"@ChomatMelanie Bonjour, pour traiter votre demande, rendez-vous en DM avec votre numéro de commande. À tout de suite, L'équipe MdM
-[LIEN]",Fri Sep 27 09:28:36 +0000 2019,Maisons du Monde FR,385340948,1177293580844589058
-1178674608867811328,"@DocPhilou Bonjour et merci de nous avoir contactés. Avez-vous bien été livré, comme convenu ? Bonne journée, L'équipe MdM",Mon Sep 30 14:15:00 +0000 2019,Maisons du Monde FR,385340948,1177949511970369537
-1178674369637343232,"@alamiens1 Bonjour, nous sommes désolés d'apprendre la situation. Pourriez-vous nous communiquer votre numéro de commande en DM pour vous venir en aide au plus vite ? À tout de suite, L'équipe MdM
-[LIEN]",Mon Sep 30 14:14:03 +0000 2019,Maisons du Monde FR,385340948,1178287068541272064
-1178674189458382848,"@O_Thev Bonjour et merci de nous avoir contactés. Nous vous conseillons de passer en DM avec votre numéro de commande pour pouvoir vous aider au plus vite. À tout de suite, L'équipe MdM
-[LIEN]",Mon Sep 30 14:13:20 +0000 2019,Maisons du Monde FR,385340948,1178639961572216832
+date,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id
+Fri Sep 27 09:28:36 +0000 2019,,1177515370388656135,1177293580844589058,,"@ChomatMelanie Bonjour, pour traiter votre demande, rendez-vous en DM avec votre numéro de commande. À tout de suite, L'équipe MdM
+[LIEN]",Maisons du Monde FR,385340948
+Mon Sep 30 14:15:00 +0000 2019,,1178674608867811328,1177949511970369537,,"@DocPhilou Bonjour et merci de nous avoir contactés. Avez-vous bien été livré, comme convenu ? Bonne journée, L'équipe MdM",Maisons du Monde FR,385340948
+Mon Sep 30 14:14:03 +0000 2019,,1178674369637343232,1178287068541272064,,"@alamiens1 Bonjour, nous sommes désolés d'apprendre la situation. Pourriez-vous nous communiquer votre numéro de commande en DM pour vous venir en aide au plus vite ? À tout de suite, L'équipe MdM
+[LIEN]",Maisons du Monde FR,385340948
+Mon Sep 30 14:13:20 +0000 2019,,1178674189458382848,1178639961572216832,,"@O_Thev Bonjour et merci de nous avoir contactés. Nous vous conseillons de passer en DM avec votre numéro de commande pour pouvoir vous aider au plus vite. À tout de suite, L'équipe MdM
+[LIEN]",Maisons du Monde FR,385340948

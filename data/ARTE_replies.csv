@@ -1,1 +1,2 @@
-id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+date,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id
+Sun Oct 13 21:26:17 +0000 2019,,1183494187884404736,1183493323174154247,,@Poulpix_ Avec plaisir,ARTE,14140057

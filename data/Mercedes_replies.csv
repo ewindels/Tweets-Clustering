@@ -1,7 +1,8 @@
-id,text,date,user,user_id,reply_to_id
-1177128451893055488,@Arval_France Un petit retour d'expérience ? 😊,Thu Sep 26 07:51:07 +0000 2019,Mercedes-Benz France,835062244803293188,1176896643779551235
-1176427470058393605,@ALarigaudrieBFM Nous sommes toujours très impressionnés de voir que l'imaginaire humain est sans limite ! 😂,Tue Sep 24 09:25:40 +0000 2019,Mercedes-Benz France,835062244803293188,1176414799271473152
-1176058267618947072,@Frdric12950609 Belle route à tous les deux ! 🥰,Mon Sep 23 08:58:35 +0000 2019,Mercedes-Benz France,835062244803293188,1175771410146504704
-1174626866222764032,@gonzague Merci pour votre retour ! ☺️,Thu Sep 19 10:10:43 +0000 2019,Mercedes-Benz France,835062244803293188,1174618650189475840
-1174598940999802880,@ArnaudCommun Nous sommes désolés d'apprendre ce terrible accident. Nous espérons que le passager se porte bien et nous remercions les forces de l'ordre pour leur travail efficace.,Thu Sep 19 08:19:45 +0000 2019,Mercedes-Benz France,835062244803293188,1174425753376690179
-1181470199226290176,@sovndb Magnifique ! 😍,Tue Oct 08 07:23:40 +0000 2019,Mercedes-Benz France,835062244803293188,1181286069876203520
+date,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id
+Thu Sep 26 07:51:07 +0000 2019,,1177128451893055488,1176896643779551235,,@Arval_France Un petit retour d'expérience ? 😊,Mercedes-Benz France,835062244803293188
+Tue Sep 24 09:25:40 +0000 2019,,1176427470058393605,1176414799271473152,,@ALarigaudrieBFM Nous sommes toujours très impressionnés de voir que l'imaginaire humain est sans limite ! 😂,Mercedes-Benz France,835062244803293188
+Mon Sep 23 08:58:35 +0000 2019,,1176058267618947072,1175771410146504704,,@Frdric12950609 Belle route à tous les deux ! 🥰,Mercedes-Benz France,835062244803293188
+Thu Sep 19 10:10:43 +0000 2019,,1174626866222764032,1174618650189475840,,@gonzague Merci pour votre retour ! ☺️,Mercedes-Benz France,835062244803293188
+Thu Sep 19 08:19:45 +0000 2019,,1174598940999802880,1174425753376690179,,@ArnaudCommun Nous sommes désolés d'apprendre ce terrible accident. Nous espérons que le passager se porte bien et nous remercions les forces de l'ordre pour leur travail efficace.,Mercedes-Benz France,835062244803293188
+Tue Oct 08 07:23:40 +0000 2019,,1181470199226290176,1181286069876203520,,@sovndb Magnifique ! 😍,Mercedes-Benz France,835062244803293188
+Mon Oct 14 08:02:34 +0000 2019,,1183654313870221314,1183274379326607360,,"@TheoDeSkyrock Bonjour, merci pour l'intérêt que vous portez à nos Etoiles. Nous ne distribuons pas de casquettes, mais vous pourrez trouver l'ensemble des accessoires de la collection Mercedes-Benz en suivant ce lien: [LIEN]. 😉",Mercedes-Benz France,835062244803293188

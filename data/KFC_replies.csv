@@ -1,3 +1,3 @@
-id,text,date,user,user_id,reply_to_id
-1179745871577178112,"@n_landie @WordPress Oups, Merci !
-On lui fait passer le message 🙃",Thu Oct 03 13:11:49 +0000 2019,KFC France,79428084,1179384955320901637
+date,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id
+Thu Oct 03 13:11:49 +0000 2019,,1179745871577178112,1179384955320901637,,"@n_landie @WordPress Oups, Merci !
+On lui fait passer le message 🙃",KFC France,79428084
