@@ -1,6 +1,6 @@
-id,text,date,user,user_id,reply_to_id
-1177505678941798402,"@NoartOnlyOne @60millions Bonjour, 
-Notre service client vous a répondu et nous nous excusons pour le retard de livraison. En attendant votre carte, une e-carte cadeau vous a été envoyée par e-mail.
-Encore toutes nos excuses pour ce désagrément. 
-Très belle journée 
-Le service client Jardiland",Fri Sep 27 08:50:05 +0000 2019,Jardiland,14693679,1177167316586553344
+date,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id
+Fri Sep 27 08:50:05 +0000 2019,,1177505678941798402,1177167316586553344,,"@NoartOnlyOne @60millions Bonjour, 
+Notre service client vous a répondu et nous nous excusons pour le retard de livraison. En attendant votre carte, une e-carte cadeau vous a été envoyée par e-mail.
+Encore toutes nos excuses pour ce désagrément. 
+Très belle journée 
+Le service client Jardiland",Jardiland,14693679

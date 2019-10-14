@@ -1,13 +1,13 @@
-id,text,date,user,user_id,reply_to_id
-1176540044162686977,"@delaunay22 Hello, postule comme tout le monde par ici : [LIEN]",Tue Sep 24 16:53:00 +0000 2019,Cultura,245371277,1176539294195945472
-1176109774108352513,"@dicaprioIic Bonjour ! En cliquant sur ""je fonce"" puis ""je la découvre en détails"" vous tomberez sur cette page avec toutes les caractéristiques 🤗 [LIEN]",Mon Sep 23 12:23:15 +0000 2019,Cultura,245371277,1176092136732803072
-1176059878521131008,"@Gr3g97 @Fnac Bonjour, ce hashtag correspond à un concours espagnol : [LIEN] D'où la présence de ""cultura"" pour dire Culture 😅",Mon Sep 23 09:04:59 +0000 2019,Cultura,245371277,1175416291039092736
-1175079688575881216,@Poupimali Oh mais 🙈 Merci beaucoup !,Fri Sep 20 16:10:04 +0000 2019,Cultura,245371277,1175071574162051072
-1175033277226409984,"@_y3il Bonjour, ce n'est pas prévu de notre côté !",Fri Sep 20 13:05:39 +0000 2019,Cultura,245371277,1174996672637804544
-1174948835417702401,@Poupimali Envoyez-nous votre numéro de commande en DM on va regarder ça de plus près 😏 [LIEN],Fri Sep 20 07:30:06 +0000 2019,Cultura,245371277,1174937635703291904
-1174575297880084480,"@Abbyssion Bonjour Sébastien, merci pour ton alerte ! Peux-tu nous communiquer le numéro de ta commande s'il te plait ? On passe le message à notre Service Relations Clients",Thu Sep 19 06:45:48 +0000 2019,Cultura,245371277,1174358696203313152
-1174290457200877569,"@Maxim_Yog @hamsterjoueur @ChocoBonPlan Maxime, pouvez-vous nous envoyer le numéro de votre commande en DM s'il vous plait ?",Wed Sep 18 11:53:56 +0000 2019,Cultura,245371277,1174285960626024448
-1174228092321222656,@xMarshadow Hello ! Alors tout dépend de la présence ou non d'un atelier musique dans ton magasin et s'il y a un.e collaborateur.rice formé.e pour le violon. Je t'invite à contacter ton magasin directement pour que tu puisses avoir l'info plus rapidement 😌,Wed Sep 18 07:46:07 +0000 2019,Cultura,245371277,1174039439020122114
-1178940762697940992,"@Ann_Bcl @PLK75 @PanenkaMusic @FonkyFlav1995 Bonjour, peux-tu nous envoyer ton numéro de commande en DM s'il te plait ?",Tue Oct 01 07:52:36 +0000 2019,Cultura,245371277,1178702926824562693
-1179776597953564675,"@pres3a @GallimardJeun Bonjour, ce sera disponible dans nos magasins😌",Thu Oct 03 15:13:54 +0000 2019,Cultura,245371277,1179428174666616832
-1181587518787063808,"@JeanPascalit Si c'était un partenariat, nous aurions été mentionné dans la vidéo. Or, ce n'est pas le cas. C'est une simple interaction, il ne faut pas voir le mal partout 😌",Tue Oct 08 15:09:51 +0000 2019,Cultura,245371277,1181579527862001664
+date,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id
+Tue Sep 24 16:53:00 +0000 2019,,1176540044162686977,1176539294195945472,,"@delaunay22 Hello, postule comme tout le monde par ici : [LIEN]",Cultura,245371277
+Mon Sep 23 12:23:15 +0000 2019,,1176109774108352513,1176092136732803072,,"@dicaprioIic Bonjour ! En cliquant sur ""je fonce"" puis ""je la découvre en détails"" vous tomberez sur cette page avec toutes les caractéristiques 🤗 [LIEN]",Cultura,245371277
+Mon Sep 23 09:04:59 +0000 2019,,1176059878521131008,1175416291039092736,,"@Gr3g97 @Fnac Bonjour, ce hashtag correspond à un concours espagnol : [LIEN] D'où la présence de ""cultura"" pour dire Culture 😅",Cultura,245371277
+Fri Sep 20 16:10:04 +0000 2019,,1175079688575881216,1175071574162051072,,@Poupimali Oh mais 🙈 Merci beaucoup !,Cultura,245371277
+Fri Sep 20 13:05:39 +0000 2019,,1175033277226409984,1174996672637804544,,"@_y3il Bonjour, ce n'est pas prévu de notre côté !",Cultura,245371277
+Fri Sep 20 07:30:06 +0000 2019,,1174948835417702401,1174937635703291904,,@Poupimali Envoyez-nous votre numéro de commande en DM on va regarder ça de plus près 😏 [LIEN],Cultura,245371277
+Thu Sep 19 06:45:48 +0000 2019,,1174575297880084480,1174358696203313152,,"@Abbyssion Bonjour Sébastien, merci pour ton alerte ! Peux-tu nous communiquer le numéro de ta commande s'il te plait ? On passe le message à notre Service Relations Clients",Cultura,245371277
+Wed Sep 18 11:53:56 +0000 2019,,1174290457200877569,1174285960626024448,,"@Maxim_Yog @hamsterjoueur @ChocoBonPlan Maxime, pouvez-vous nous envoyer le numéro de votre commande en DM s'il vous plait ?",Cultura,245371277
+Wed Sep 18 07:46:07 +0000 2019,,1174228092321222656,1174039439020122114,,@xMarshadow Hello ! Alors tout dépend de la présence ou non d'un atelier musique dans ton magasin et s'il y a un.e collaborateur.rice formé.e pour le violon. Je t'invite à contacter ton magasin directement pour que tu puisses avoir l'info plus rapidement 😌,Cultura,245371277
+Tue Oct 01 07:52:36 +0000 2019,,1178940762697940992,1178702926824562693,,"@Ann_Bcl @PLK75 @PanenkaMusic @FonkyFlav1995 Bonjour, peux-tu nous envoyer ton numéro de commande en DM s'il te plait ?",Cultura,245371277
+Thu Oct 03 15:13:54 +0000 2019,,1179776597953564675,1179428174666616832,,"@pres3a @GallimardJeun Bonjour, ce sera disponible dans nos magasins😌",Cultura,245371277
+Tue Oct 08 15:09:51 +0000 2019,,1181587518787063808,1181579527862001664,,"@JeanPascalit Si c'était un partenariat, nous aurions été mentionné dans la vidéo. Or, ce n'est pas le cas. C'est une simple interaction, il ne faut pas voir le mal partout 😌",Cultura,245371277

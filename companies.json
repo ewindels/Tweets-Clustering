@@ -1,223 +1,700 @@
-{"SNCF": "SNCF",
-"Carrefour": "CarrefourFrance",
-"RATP" : "ClientsRATP",
-"Auchan": "AUCHAN_France",
-"Monoprix": "Monoprix",
-"LOreal": "lorealparisfr",
-"Fnac": "FnacVousAide",
-"Citroen": "CitroenFrance",
-"AirFrance" : "AirFranceFR",
-"AccorHotels": "AccorHotels_FR",
-"EDF": "EDFofficiel",
-"BNP": "BNPParibas_SAV",
-"SocieteGenerale": "SG_etvous",
-"BanquePopulaire": "BanquePopulaire",
-"Leclerc": "LeclercBonPlan",
-"Micromania": "Micromania_Fr",
-"SFR": "SFR_SAV",
-"Orange": "Orange_conseil",
-"Casino": "geant_casino",
-"Freebox" : "Freebox",
-"Transavia": "transaviaFR",
-"Bouygues": "bouyguestelecom",
-"Sosh": "Sosh_fr",
-"RED": "REDbySFR",
-"LCL": "LCL",
-"HSBC": "HSBC_FR",
-"Samsung": "SamsungFR",
-"Darty": "Darty_SAV",
-"Boulanger": "boulanger",
-"Chronopost": "Chronopost",
-"LaPoste": "lisalaposte",
-"BurgerKing": "BurgerKingFR",
-"H&M": "hmfrance",
-"Sony": "SonyFrance",
-"KFC": "KFCFrance",
-"Renault": "renault_fr",
-"Amazon": "AmazonHelp",
-"LIDL": "lidlfrance",
-"Decathlon": "Decathlon",
-"UGC": "UGCcinemas",
-"MaterielNet": "materielnet",
-"Engie": "ENGIEpartFR",
-"Betclic": "Betclic",
-"Winamax": "Winamax",
-"Mercedes": "MBFRANCE_",
-"IKEA": "IKEA_France",
-"Picard": "picardsurgeles",
-"Showroomprive": "ShowroompriveFR",
-"Intermarche": "intermarche",
-"GRDF": "GRDF",
-"BMW": "BMWFrance",
-"Veolia": "Veolia_FR",
-"CocaCola": "cocacolafr",
-"Cdiscount": "Cdiscount",
-"LeroyMerlin": "leroymerlinfr",
-"Castorama": "castorama_fr",
-"MaisonsDuMonde": "MDM_FR",
-"ETAM": "etam_france",
-"AirBNB": "airbnb_fr",
-"Cultura": "Cultura",
-"EA": "EAFrance",
-"Ubisoft": "UbiSupportFR",
-"Conforama": "Conforama",
-"Jardiland": "Jardiland",
-"Netflix": "NetflixFR",
-"Truffaut": "Truffaut",
-"Uber": "UberFR_support",
-"UberEats": "ubereats_fr",
-"G7": "TAXISG7",
-"OUIGO": "ouigoSNCF",
-"PatheGaumont": "PatheGaumont",
-"DisneyLandParis": "DLPHelp",
-"CIC": "cic",
-"TF1": "TF1",
-"M6": "M6",
-"BFMTV": "BFMTV",
-"LeFigaro": "Le_Figaro",
-"LeMonde": "lemondefr",
-"Liberation": "libe",
-"France2": "France2tv",
-"PrimeVideo": "PrimeVideoFR",
-"Fortuneo": "fortuneo",
-"LDLC": "LDLC",
-"TopAchat": "TopAchat",
-"FIFA": "EA_FIFA_France",
-"PlayStation": "PlayStationFR",
-"XBOX": "XboxFR",
-"Nintendo": "NintendoFrance",
-"CallofDuty": "CallofDutyFR",
-"Fortnite": "FortniteFR",
-"Twitch": "TwitchFR",
-"Adidas": "adidasFR",
-"beIN": "beinsports_FR",
-"Disney": "DisneyFR",
-"TPMP": "TPMP",
-"Skyrock": "SkyrockFM",
-"FunRadio": "funradio_fr",
-"MeteoFrance": "meteofrance",
-"Nutella": "NutellaFR",
-"Sims": "LesSims",
-"UFCQueChoisir": "UFCquechoisir",
-"60Millions": "60millions",
-"DGCCRF": "dgccrf",
-"CSA": "csaudiovisuel",
-"FreeMobile": "freemobile",
-"Free": "free",
-"CanalPlus": "canalplus",
-"Unibet": "UnibetFrance",
-"Deliveroo": "Deliveroo_FR",
-"Ferrero": "FerreroFR",
-"Gouvernement": "gouvernementFR",
-"FranceTelevision": "Francetele",
-"Quotidien": "Qofficiel",
-"DALS": "DALS_TF1",
-"PoliceNationale": "PoliceNationale",
-"PoliceParis": "prefpolice",
-"Ligue1": "Ligue1Conforama",
-"Peugeot": "PeugeotFR",
-"Justice": "justice_gouv",
-"Gendarmerie": "Gendarmerie",
-"ARCEP": "Arcep",
-"Monabanq": "monabanq",
-"Groupama": "Groupama",
-"MAIF": "MAIF",
-"OCS": "OCSTV",
-"CreditAgricole": "CreditAgricole",
-"ParisAeroport": "ParisAeroport",
-"ARTE": "ARTEfr",
-"Apple": "Apple",
-"PoleEmploi": "pole_emploi",
-"Velib": "Velib",
-"Paris": "Parisjecoute",
-"Rainbow6": "Rainbow6FR",
-"LaBanquePostale": "LaBanquePostale",
-"NRJ": "NRJhitmusiconly",
-"Franprix": "franprix",
-"Spotify": "spotifyfrance",
-"Deezer": "DeezerFR",
-"FDJ": "FDJ",
-"Boursorama": "Boursorama",
-"Google": "GoogleFR",
-"GhostRecon": "GhostRecon_FR",
-"Facebook": "FacebookFR",
-"Pompiers": "PompiersFR",
-"MAAF": "MAAFAssurances",
-"CQuiLePatron": "C_qui_le_Patron",
-"CNIL": "CNIL",
-"EducationNationale": "EducationFrance",
-"MinistereEcologie": "Min_Ecologie",
-"McDonalds": "McDoFr_Newsroom",
-"MinistereDefense": "Defense_gouv",
-"Microsoft": "microsoftfrance",
-"Twitter": "TwitterFrance",
-"MinistereEconomie": "Economie_Gouv",
-"MinistereSante": "MinSoliSante",
-"MinistereCulture": "MinistereCC",
-"JeuxVideoCom": "JVCom",
-"Youtube": "YouTube",
-"Flixbus": "FlixBus_FR",
-"OUIBUS": "OUIBUS",
-"RERA": "RER_A",
-"RERB": "RERB",
-"RERC": "RERC_SNCF",
-"RERD": "RERD_SNCF",
-"RERE": "RERE_SNCF",
-"LHuma": "humanite_fr",
-"Enedis": "enedis",
-"PSG": "PSG_inside",
-"OM": "OM_Officiel",
-"OL": "OL",
-"Blizzard": "BlizzardCSEU_FR",
-"LeagueOfLegends": "LoL_France",
-"FnacSpectacles": "fnacspectacles",
-"Interflora": "Interflora",
-"Asus": "AsusFrance",
-"RueDuCommerce": "rueducommerce",
-"Leboncoin": "leboncoin",
-"Thalys": "thalys_fr",
-"CGR": "cgr_cinemas",
-"Kapten": "Kapten",
-"But": "But",
-"Veepee": "Veepee_Fr",
-"EasyJet": "easyJet",
-"Gaumont": "Gaumont",
-"CaisseEpargne": "Caisse_Epargne",
-"ONU": "ONU_fr",
-"ULesCommercants": "ULesCommercants",
-"AccorHotelArena": "AccorH_Arena",
-"Instagram": "instagram",
-"Nike": "Nike",
-"PMU": "PMU_Hippique",
-"Overwatch": "OverwatchFR",
-"30MillionsdAmis": "30millionsdamis",
-"SPA": "SPA_Officiel",
-"RCLens": "RCLens",
-"CreditMutuel": "CreditMutuel",
-"CNRS": "CNRS",
-"Allocine": "allocine",
-"Keolis": "groupekeolis",
-"ADNAnime": "ADNanime",
-"ASMonaco": "AS_Monaco",
-"GirondinsBordeaux": "girondins",
-"LesRepublicains": "lesRepublicains",
-"FranceInsoumise": "FranceInsoumise",
-"RassemblementNational": "RNational_off",
-"LREM": "enmarchefr",
-"PartiSocialiste": "partisocialiste",
-"ASSaintEtienne": "ASSEofficiel",
-"Mediapart": "Mediapart",
-"AmiensSC": "AmiensSC",
-"FCNantes": "FCNantes",
-"ToulouseFC": "ToulouseFC",
-"MontpellierHSC": "MontpellierHSC",
-"EELV": "EELV",
-"MyCANAL": "myCANAL",
-"PCF": "PCF",
-"DijonFCO": "DFCO_Officiel",
-"FCMetz": "FCMetz",
-"RCStrasbourg": "RCSA",
-"StadeDeReims": "StadeDeReims",
-"SecretariatEgalite": "Egal_FH",
-"ATTAC": "attac_fr",
-"Total": "Total"}
+{
+    "SNCF": [
+        "ouisncf",
+        "GroupeSNCF",
+        "TGVINOUI",
+        "ouigoSNCF",
+        "SNCF"
+    ],
+    "Carrefour": [
+        "CarrefourFrance",
+        "GroupeCarrefour",
+        "CarrefourSAV"
+    ],
+    "RATP": [
+        "RATPgroup",
+        "IDFmobilites",
+        "ClientsRATP"
+    ],
+    "Auchan": [
+        "HypergamesA",
+        "AUCHAN_France"
+    ],
+    "Monoprix": [
+        "Monoprix",
+        "MonopSav"
+    ],
+    "LOreal": [
+        "lorealparisfr",
+        "Loreal"
+    ],
+    "Fnac": [
+        "FnacVousAide",
+        "Fnac"
+    ],
+    "Citroen": [
+        "CitroenFrance",
+        "Citroen"
+    ],
+    "AirFrance": [
+        "AirFranceFR",
+        "airfrance"
+    ],
+    "AccorHotels": [
+        "AccorHotels_FR",
+        "Mercure_FR",
+        "ibisHotels_FR"
+    ],
+    "EDF": [
+        "EDFofficiel",
+        "EDFetMoi"
+    ],
+    "BNP": [
+        "BNPParibas_SAV",
+        "mabanque_bnpp",
+        "BNPParibas"
+    ],
+    "SocieteGenerale": [
+        "SG_etvous",
+        "SocieteGenerale"
+    ],
+    "GroupeBPCE": [
+        "BanquePopulaire",
+        "GroupeBPCE",
+        "Caisse_Epargne"
+    ],
+    "Leclerc": [
+        "leclercdrive",
+        "Leclerc_JV",
+        "LeclercBonPlan"
+    ],
+    "Micromania": [
+        "Micromania_Fr"
+    ],
+    "SFR": [
+        "SFR_SAV",
+        "SFR",
+        "REDbySFR"
+    ],
+    "Orange": [
+        "Orange_conseil",
+        "Orange_France",
+        "orange",
+        "Sosh_fr"
+    ],
+    "Casino": [
+        "geant_casino",
+        "Groupe_Casino"
+    ],
+    "Free": [
+        "free",
+        "freemobile",
+        "UniversFreebox",
+        "Freebox"
+    ],
+    "Transavia": [
+        "transaviaFR",
+        "transavia"
+    ],
+    "Bouygues": [
+        "bouyguestelecom"
+    ],
+    "LCL": [
+        "LCL"
+    ],
+    "Samsung": [
+        "SamsungFR",
+        "SamsungMobile",
+        "Samsung"
+    ],
+    "Darty": [
+        "Darty_SAV",
+        "Darty_Officiel"
+    ],
+    "Boulanger": [
+        "boulanger",
+        "SAVboulanger"
+    ],
+    "LaPoste": [
+        "lisalaposte",
+        "Chronopost",
+        "GroupeLaPoste"
+    ],
+    "BurgerKing": [
+        "BurgerKingFR",
+        "BurgerKing"
+    ],
+    "HM": [
+        "hmfrance",
+        "hm"
+    ],
+    "Sony": [
+        "SonyFrance",
+        "Sony"
+    ],
+    "KFC": [
+        "KFCFrance",
+        "kfc"
+    ],
+    "Renault": [
+        "renault_fr",
+        "Groupe_Renault"
+    ],
+    "Amazon": [
+        "AmazonHelp",
+        "AmazonNewsFR",
+        "amazon",
+        "AmazonFrance"
+    ],
+    "LIDL": [
+        "lidlfrance"
+    ],
+    "Decathlon": [
+        "Decathlon"
+    ],
+    "UGC": [
+        "UGCcinemas"
+    ],
+    "MaterielNet": [
+        "materielnet"
+    ],
+    "Engie": [
+        "ENGIEpartFR",
+        "ENGIEgroup"
+    ],
+    "Betclic": [
+        "Betclic"
+    ],
+    "Winamax": [
+        "Winamax"
+    ],
+    "Mercedes": [
+        "MBFRANCE_"
+    ],
+    "IKEA": [
+        "IKEA_France",
+        "IKEA"
+    ],
+    "Picard": [
+        "picardsurgeles"
+    ],
+    "Showroomprive": [
+        "ShowroompriveFR"
+    ],
+    "Intermarche": [
+        "intermarche"
+    ],
+    "GRDF": [
+        "GRDF"
+    ],
+    "BMW": [
+        "BMWFrance",
+        "BMW"
+    ],
+    "Veolia": [
+        "Veolia_FR",
+        "Veolia"
+    ],
+    "CocaCola": [
+        "cocacolafr"
+    ],
+    "CDiscount": [
+        "Cdiscount"
+    ],
+    "LeroyMerlin": [
+        "leroymerlinfr"
+    ],
+    "Castorama": [
+        "castorama_fr"
+    ],
+    "MaisonsDuMonde": [
+        "MDM_FR"
+    ],
+    "ETAM": [
+        "etam_france"
+    ],
+    "AirBNB": [
+        "airbnb_fr",
+        "Airbnb"
+    ],
+    "Cultura": [
+        "Cultura"
+    ],
+    "EA": [
+        "EAFrance",
+        "EA",
+        "EAHelp"
+    ],
+    "Ubisoft": [
+        "UbiSupportFR",
+        "UbisoftFR",
+        "UbisoftSupport",
+        "Ubisoft"
+    ],
+    "Conforama": [
+        "Conforama"
+    ],
+    "Jardiland": [
+        "Jardiland"
+    ],
+    "Netflix": [
+        "NetflixFR",
+        "netflix"
+    ],
+    "Truffaut": [
+        "Truffaut"
+    ],
+    "Uber": [
+        "UberFR_support",
+        "UberFR"
+    ],
+    "UberEats": [
+    	"UberEats",
+        "ubereats_fr"
+    ],
+    "G7": [
+        "TAXISG7"
+    ],
+    "ParcAsterix": [
+        "ParcAsterix"
+    ],
+    "PuyDuFou": [
+        "PuyDuFou"
+    ],
+    "PatheGaumont": [
+        "PatheGaumont",
+        "Gaumont"
+    ],
+    "DisneyLandParis": [
+        "DLPHelp",
+        "DisneylandParis"
+    ],
+    "CIC": [
+        "cic"
+    ],
+    "TF1": [
+    	"MYTF1",
+        "TF1"
+    ],
+    "M6": [
+        "M6",
+        "M6Groupe"
+    ],
+    "BFMTV": [
+        "BFMTV"
+    ],
+    "LeFigaro": [
+        "Le_Figaro"
+    ],
+    "LeMonde": [
+        "lemondefr"
+    ],
+    "Liberation": [
+        "libe"
+    ],
+    "FranceTelevision": [
+        "France2tv",
+        "France3tv",
+        "Francetele"
+    ],
+    "PrimeVideo": [
+        "PrimeVideoFR"
+    ],
+    "Fortuneo": [
+        "fortuneo"
+    ],
+    "LDLC": [
+        "LDLC",
+        "LDLC_Help"
+    ],
+    "TopAchat": [
+        "TopAchat"
+    ],
+    "FIFA": [
+        "EA_FIFA_France",
+        "EASPORTSFIFA"
+    ],
+    "PlayStation": [
+        "PlayStationFR",
+        "PlayStation"
+    ],
+    "XBOX": [
+        "XboxFR"
+    ],
+    "Nintendo": [
+    	"Nintendo",
+        "NintendoFrance"
+    ],
+    "CallofDuty": [
+    	"CODMobileFR",
+        "CallofDutyFR"
+    ],
+    "Fortnite": [
+    	"EpicGamesFR",
+    	"FortniteGame",
+        "FortniteFR"
+    ],
+    "Twitch": [
+    	"Twitch",
+        "TwitchFR"
+    ],
+    "Adidas": [
+    	"adidas",
+        "adidasFR"
+    ],
+    "BeIN": [
+        "beinsports_FR"
+    ],
+    "Disney": [
+        "DisneyFR"
+    ],
+    "TPMP": [
+        "TPMP"
+    ],
+    "Skyrock": [
+        "SkyrockFM"
+    ],
+    "FunRadio": [
+        "funradio_fr"
+    ],
+    "MeteoFrance": [
+        "meteofrance"
+    ],
+    "Ferrero": [
+        "NutellaFR",
+        "FerreroFR"
+    ],
+    "Sims": [
+    	"TheSims",
+        "LesSims"
+    ],
+    "UFCQueChoisir": [
+        "UFCquechoisir"
+    ],
+    "60Millions": [
+        "60millions"
+    ],
+    "DGCCRF": [
+        "dgccrf"
+    ],
+    "CSA": [
+        "csaudiovisuel"
+    ],
+    "CanalPlus": [
+    	"CanalFootClub",
+    	"myCANAL",
+        "canalplus"
+    ],
+    "Unibet": [
+        "UnibetFrance"
+    ],
+    "Deliveroo": [
+        "Deliveroo_FR"
+    ],
+    "Gouvernement": [
+        "gouvernementFR"
+    ],
+    "Quotidien": [
+        "Qofficiel"
+    ],
+    "DanseAvecLesStars": [
+        "DALS_TF1"
+    ],
+    "Police": [
+    	"prefpolice",
+        "PoliceNationale"
+    ],
+    "Ligue1": [
+        "Ligue1Conforama",
+        "PSG_inside",
+        "OM_Officiel",
+        "OL",
+        "FCNantes"
+    ],
+    "Peugeot": [
+    	"Peugeot",
+    	"GroupePSA",
+        "PeugeotFR"
+    ],
+    "Justice": [
+        "justice_gouv"
+    ],
+    "Gendarmerie": [
+        "Gendarmerie"
+    ],
+    "ARCEP": [
+        "Arcep"
+    ],
+    "Monabanq": [
+        "monabanq"
+    ],
+    "Groupama": [
+    	"GroupeGroupama",
+        "Groupama"
+    ],
+    "MAIF": [
+        "MAIF"
+    ],
+    "OCS": [
+        "OCSTV"
+    ],
+    "CreditAgricole": [
+        "CreditAgricole"
+    ],
+    "ParisAeroport": [
+        "ParisAeroport",
+        "GroupeADP"
+    ],
+    "ARTE": [
+        "ARTEfr"
+    ],
+    "Apple": [
+    	"AppleMusic",
+        "Apple"
+    ],
+    "PoleEmploi": [
+        "pole_emploi"
+    ],
+    "Velib": [
+        "Velib"
+    ],
+    "Paris": [
+    	"Paris",
+        "Parisjecoute"
+    ],
+    "Rainbow6": [
+    	"Rainbow6Game",
+    	"R6esports_FR",
+        "Rainbow6FR"
+    ],
+    "LaBanquePostale": [
+        "LaBanquePostale"
+    ],
+    "NRJ": [
+        "NRJhitmusiconly"
+    ],
+    "Franprix": [
+        "franprix"
+    ],
+    "Spotify": [
+    	"Spotify",
+        "spotifyfrance"
+    ],
+    "Deezer": [
+    	"Deezer",
+        "DeezerFR"
+    ],
+    "FDJ": [
+    	"FDJsport",
+        "FDJ"
+    ],
+    "Boursorama": [
+        "Boursorama"
+    ],
+    "Google": [
+    	"Google",
+        "GoogleFR"
+    ],
+    "GhostRecon": [
+    	"GhostRecon",
+        "GhostRecon_FR"
+    ],
+    "Facebook": [
+    	"facebook",
+        "FacebookFR"
+    ],
+    "Pompiers": [
+    	"PompiersParis",
+        "PompiersFR"
+    ],
+    "MAAF": [
+        "MAAFAssurances"
+    ],
+    "CQuiLePatron": [
+        "C_qui_le_Patron"
+    ],
+    "CNIL": [
+        "CNIL"
+    ],
+    "EducationNationale": [
+        "EducationFrance"
+    ],
+    "MinistereEcologie": [
+        "Min_Ecologie"
+    ],
+    "McDonalds": [
+    	"mcdonalds_paris",
+    	"McDonalds",
+        "McDoFr_Newsroom"
+    ],
+    "MinistereDefense": [
+        "Defense_gouv"
+    ],
+    "Microsoft": [
+    	"WindowsFrance",
+        "microsoftfrance"
+    ],
+    "Twitter": [
+    	"Twitter",
+    	"TwitterSupport",
+        "TwitterFrance"
+    ],
+    "MinistereEconomie": [
+        "Economie_Gouv"
+    ],
+    "MinistereSante": [
+        "MinSoliSante"
+    ],
+    "MinistereCulture": [
+        "MinistereCC"
+    ],
+    "JeuxVideoCom": [
+        "JVCom"
+    ],
+    "Youtube": [
+        "YouTube"
+    ],
+    "Flixbus": [
+        "FlixBus_FR"
+    ],
+    "OUIBUS": [
+        "OUIBUS"
+    ],
+    "RER": [
+        "RER_A",
+        "RERB",
+        "RERC_SNCF",
+        "RERD_SNCF",
+        "RERE_SNCF"
+    ],
+    "Enedis": [
+        "enedis"
+    ],
+    "Blizzard": [
+        "BlizzardCSEU_FR",
+        "Blizzard_Ent"
+    ],
+    "LeagueOfLegends": [
+    	"LeagueOfLegends",
+    	"lolesports_fr",
+    	"RiotSupportFR",
+        "LoL_France"
+    ],
+    "FnacSpectacles": [
+        "fnacspectacles"
+    ],
+    "Interflora": [
+        "Interflora"
+    ],
+    "Asus": [
+    	"ASUS_ROG_FR",
+        "AsusFrance"
+    ],
+    "RueDuCommerce": [
+        "rueducommerce"
+    ],
+    "Leboncoin": [
+        "leboncoin"
+    ],
+    "Thalys": [
+        "thalys_fr"
+    ],
+    "CGR": [
+        "cgr_cinemas"
+    ],
+    "Kapten": [
+        "Kapten"
+    ],
+    "But": [
+        "But"
+    ],
+    "Veepee": [
+        "Veepee_Fr"
+    ],
+    "EasyJet": [
+        "easyJet"
+    ],
+    "ONU": [
+        "ONU_fr"
+    ],
+    "ULesCommercants": [
+        "ULesCommercants"
+    ],
+    "AccorHotelsArena": [
+        "AccorH_Arena"
+    ],
+    "Instagram": [
+        "instagram"
+    ],
+    "Nike": [
+        "Nike"
+    ],
+    "PMU": [
+        "PMU_Hippique"
+    ],
+    "Overwatch": [
+        "OverwatchFR"
+    ],
+    "30MillionsdAmis": [
+        "30millionsdamis"
+    ],
+    "SPA": [
+        "SPA_Officiel"
+    ],
+    "CreditMutuel": [
+        "CreditMutuel"
+    ],
+    "CNRS": [
+        "CNRS"
+    ],
+    "Allocine": [
+        "allocine"
+    ],
+    "Keolis": [
+        "groupekeolis"
+    ],
+    "ADNAnime": [
+        "ADNanime"
+    ],
+    "LesRepublicains": [
+        "lesRepublicains"
+    ],
+    "FranceInsoumise": [
+        "FranceInsoumise"
+    ],
+    "RassemblementNational": [
+        "RNational_off"
+    ],
+    "LREM": [
+        "enmarchefr"
+    ],
+    "PartiSocialiste": [
+        "partisocialiste"
+    ],
+    "Mediapart": [
+        "Mediapart"
+    ],
+    "EELV": [
+        "EELV"
+    ],
+    "PCF": [
+        "PCF"
+    ],
+    "SecretariatEgalite": [
+        "Egal_FH"
+    ],
+    "ATTAC": [
+        "attac_fr"
+    ],
+    "Total": [
+        "Total"
+    ],
+    "DisneyChannel": [
+        "DisneyChannelFR"
+    ],
+    "Marvel": [
+        "Marvel",
+        "MarvelStudios",
+        "MarvelFR"
+    ]
+}

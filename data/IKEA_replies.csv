@@ -1,7 +1,7 @@
-id,text,date,user,user_id,reply_to_id
-1177206824749228033,"@Videoludeek Hej! En effet ce n'est pas normal... Pouvez-vous nous envoyer votre mail en message privé, on va voir ce qu'il se passe. Merci d'avance
-
-[LIEN]",Thu Sep 26 13:02:33 +0000 2019,IKEA France,113648092,1177138311028203521
-1179357691036291073,@sophmout Hej! Voici la marche à suivre en vidéo : [LIEN],Wed Oct 02 11:29:19 +0000 2019,IKEA France,113648092,1179350427588055040
-1181137153918750720,"@natachaordas Hej! Désolé de lire cela, je vous conseille de contacter le service client en MP pour trouver une solution. Je vous conseille également de ne pas dévoiler en public votre numéro de commande. Bonne journée.
-[LIEN]",Mon Oct 07 09:20:16 +0000 2019,IKEA France,113648092,1180749819364745216
+date,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id
+Thu Sep 26 13:02:33 +0000 2019,,1177206824749228033,1177138311028203521,,"@Videoludeek Hej! En effet ce n'est pas normal... Pouvez-vous nous envoyer votre mail en message privé, on va voir ce qu'il se passe. Merci d'avance
+
+[LIEN]",IKEA France,113648092
+Wed Oct 02 11:29:19 +0000 2019,,1179357691036291073,1179350427588055040,,@sophmout Hej! Voici la marche à suivre en vidéo : [LIEN],IKEA France,113648092
+Mon Oct 07 09:20:16 +0000 2019,,1181137153918750720,1180749819364745216,,"@natachaordas Hej! Désolé de lire cela, je vous conseille de contacter le service client en MP pour trouver une solution. Je vous conseille également de ne pas dévoiler en public votre numéro de commande. Bonne journée.
+[LIEN]",IKEA France,113648092

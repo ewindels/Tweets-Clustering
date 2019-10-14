@@ -30,11 +30,13 @@ def make_api(who):
 
 
 def get_tweets(company, max_id=0, since_id=0, mode='to'):
-    company_account = companies[company]
+    tweet_accounts = companies[company]
     if mode == 'to':
-        query = '%40{}%20-filter%3Aretweets%20-filter%3Areplies'.format(company_account)
+        tweet_accounts_q = '%20OR%20'.join(['%40' + account for account in tweet_accounts])
+        query = '{}%20-filter%3Aretweets%20-filter%3Areplies%20'.format(tweet_accounts_q)
     elif mode == 'from':
-        query = 'from%3A{}%20-filter%3Aretweets%20filter%3Areplies'.format(company_account)
+        tweet_accounts_q = '%20OR%20'.join(['from%3A' + account for account in tweet_accounts])
+        query = '{}%20filter%3Areplies%20'.format(tweet_accounts_q)
     else:
         return 1
     if max_id != 0:
@@ -46,7 +48,6 @@ def get_tweets(company, max_id=0, since_id=0, mode='to'):
     else:
         since_id_q = ''
     api = make_api('pe') if mode == 'to' else make_api('ew')
-
     return api.GetSearch(raw_query="q={}{}{}&lang=fr&count=100".format(query, since_id_q, max_id_q),
                          result_type='recent')
 
@@ -84,7 +85,7 @@ def update_data(company, time='newest', mode='to'):
             time = 'new_company'
             data_df = pd.DataFrame(columns=['id', 'text', 'date', 'user', 'user_id', 'favorite_cnt', 'retweet_cnt'])
             data_df.to_csv('data/{}.csv'.format(company), index=False)
-        print('{:>5} tweets to {:<15}'.format(data_df.shape[0], company), end=' | ')
+        print('{:>5} tweets to {:<22}'.format(data_df.shape[0], company), end=' | ')
     elif mode == 'from':
         if time != 'new_company' and '{}_replies.csv'.format(company) in os.listdir('data'):
             data_df = pd.read_csv('data/{}_replies.csv'.format(company))
@@ -93,7 +94,7 @@ def update_data(company, time='newest', mode='to'):
             data_df = pd.DataFrame(columns=['id', 'text', 'date', 'user', 'user_id', 'favorite_cnt', 'retweet_cnt',
                                             'reply_to_id'])
             data_df.to_csv('data/{}_replies.csv'.format(company), index=False)
-        print('{:>5} tweets from {:<15}'.format(data_df.shape[0], company), end=' | ')
+        print('{:>5} tweets from {:<20}'.format(data_df.shape[0], company), end=' | ')
     else:
         print('Mode does not exist')
         return 1

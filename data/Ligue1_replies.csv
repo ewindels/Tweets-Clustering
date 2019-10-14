@@ -1,1 +1,5 @@
-id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+date,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id
+Sat Oct 05 15:50:27 +0000 2019,,1180510571755651073,1.180509400026493e+18,,@Pablosarabia92 Pablo a pris à contre-pied le portier angevin après être entré dans la surface sur son pied gauche 👟 [LIEN],Paris Saint-Germain,38164846
+Sat Oct 05 14:03:45 +0000 2019,,1180483718294773761,1.180402243146793e+18,,"@PSG_inside @AngersSCO @canalplus 📊 @KMbappe absent, qui prendra le relais face à @AngersSCO en son absence ? 🤔
+
+#PSGSCO [LIEN]",Ligue 1 Conforama,3302900980
