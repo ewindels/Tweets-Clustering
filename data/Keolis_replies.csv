@@ -1,1 +1,10 @@
-id,text,date,user,user_id,favorite_cnt,retweet_cnt,reply_to_id
+date,favorite_cnt,id,reply_to_id,retweet_cnt,text,user,user_id
+Mon Oct 14 10:07:00 +0000 2019,,1183685628631891969,1183594385352613888,,"@Shelnouille Bonjour, nous sommes désolés pour cet accident. Pouvez-vous nous donner plus d’informations? (ligne, ville, département, horaire) Merci et bonne journée!",TransdevFR,2512174170
+Mon Oct 14 08:41:25 +0000 2019,,1183664093372321792,1182321440626008065,,"@damiencolrat @groupekeolis Bonjour Monsieur Colrat, les équipes de #PAM75 vont rapidement se mettre en relation avec vous à la suite de la réclamation dont vous faites part dans votre tweet. Nous vous souhaitons une bonne journée.",Keolis Île-de-France,950662473933316097
+Fri Oct 11 16:31:06 +0000 2019,,1182695129301356545,1182694889676562433,,"@thierrymallet @UTP_Fr Il oeuvrera notamment à : 
+▪️La finalisation de la Convention collective #ferroviaire 🚄 
+▪️La mise en oeuvre de la #LOM 📃 
+▪️La promotion et la consolidation du #TransportPublic et de ses acteurs 🚌",TransdevFR,2512174170
+Thu Oct 10 08:40:05 +0000 2019,,1182214202964008960,1182169165957869569,,@julietterychw Pouvez-vous nous préciser le nom de l'arrêt s'il vous plait ? Merci,TransdevFR,2512174170
+Thu Oct 10 08:27:43 +0000 2019,,1182211094095511552,1182169165957869569,,"@julietterychw Bonjour, merci de nous l'avoir signalé. Nous avons transmis bien l'information. Bonne journée !",TransdevFR,2512174170
+Wed Oct 09 08:06:12 +0000 2019,,1181843288623603713,1181595522538311680,,"@Adel_bls Bonjour. Merci de votre remarque. Pouvez-vous nous donner plus d’informations (ville, département, ligne de bus, horaire) ? Merci et bonne journée !",TransdevFR,2512174170

@@ -4,6 +4,7 @@ import re
 import json
 import os
 from time import sleep
+from datetime import datetime
 
 with open(os.path.join('credentials', 'credentials_pe.json')) as handle:
     credentials_pe = json.loads(handle.read())
@@ -146,6 +147,7 @@ def update_data(company, time='newest', mode='to'):
         new_data_df = pd.concat([data_df, new_data])
         if mode == 'to':
             new_data_df = new_data_df.drop_duplicates('user_id', keep='last')
+            new_data_df = new_data_df.drop_duplicates('text', keep='first')
             new_data_df.to_csv('data/{}.csv'.format(company), index=False)
         elif mode == 'from':
             new_data_df.to_csv('data/{}_replies.csv'.format(company), index=False)
@@ -155,8 +157,30 @@ def update_data(company, time='newest', mode='to'):
         return 1
 
 
-def update_all(mode='to'):
+def tweets_estimate(company, mode='to'):
+    df_to = pd.read_csv('data/{}{}.csv'.format(company, '_replies'*(mode == 'from')))
+    df_to.index = pd.to_datetime(df_to['date'])
+    df_to['date'] = pd.to_datetime(df_to['date'])
+    last_hour = (df_to.index.max().hour, df_to.index.max().minute)
+    current_hour = (datetime.today().hour, datetime.today().minute)
+    time_since_last = datetime.today() - df_to.index.max()
+    hours = df_to['date'].apply(lambda t: (t.hour, t.minute))
+    if last_hour <= current_hour:
+        in_hours = df_to.loc[(last_hour <= hours) & (hours <= current_hour)]
+    else:
+        in_hours = df_to.loc[(last_hour <= hours) | (hours <= current_hour)]
+    total_days = (df_to.index.max() - df_to.index.min()).days
+    hours_mean = in_hours.resample('D')['text'].count().sum() / total_days
+    days_mean = df_to.resample('D')['text'].count().sum() / total_days
+    return time_since_last.days, round(days_mean * time_since_last.days + hours_mean)
+
+
+def update_all(mode='to', scheduler=True):
     for company in sorted(companies):
+        if scheduler:
+            days_since_last, estimate = tweets_estimate(company)
+            if not (days_since_last >= 2 or estimate > 50):
+                continue
         update_data(company, 'newest', mode)
         sleep(1)
 

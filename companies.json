@@ -4,12 +4,110 @@
         "GroupeSNCF",
         "TGVINOUI",
         "ouigoSNCF",
+        "evoyageursSNCF",
+        "Intercites",
         "SNCF"
+    ],
+    "Tram": [
+        "T2_RATP",
+        "T3b_RATP",
+        "T8_RATP"
+    ],
+    "TER": [
+        "TERHDF",
+        "TERNormandie",
+        "SNCFTERAURA",
+        "TERGrandEst",
+        "TERPays2LaLoire",
+        "TER_Occitanie",
+        "TERNouvelleAQ",
+        "TER_Metz_Lux"
+    ],
+    "Metro": [
+        "Ligne13_RATP",
+        "Ligne6_RATP",
+        "Ligne7_RATP",
+        "Ligne4_RATP",
+        "Ligne8_RATP",
+        "Ligne12_RATP",
+        "Ligne14_RATP",
+        "Ligne9_RATP"
+    ],
+    "IleDeFrance": [
+        "iledefrance"
+    ],
+    "CNEWS": [
+        "CNEWS"
+    ],
+    "LCI": [
+        "LCI"
+    ],
+    "Normandie": [
+        "RegionNormandie"
+    ],
+    "NouvelleAquitaine": [
+        "NvelleAquitaine"
+    ],
+    "HautsDeFrance": [
+        "hautsdefrance"
+    ],
+    "SouthPark": [
+        "SouthPark"
+    ],
+    "PartiAnimaliste": [
+        "PartiAnimaliste"
+    ],
+    "Marseille": [
+        "marseille"
+    ],
+    "SudPACA": [
+        "MaRegionSud"
+    ],
+    "GrandEst": [
+        "regiongrandest"
+    ],
+    "Transilien": [
+        "LIGNEJ_SNCF",
+        "LigneH_SNCF",
+        "LIGNEL_sncf",
+        "LIGNER_SNCF",
+        "LIGNEP_SNCF",
+        "lignesNetU_SNCF",
+        "Actu_Transilien"
     ],
     "Carrefour": [
         "CarrefourFrance",
         "GroupeCarrefour",
         "CarrefourSAV"
+    ],
+    "Equidia": [
+        "equidia"
+    ],
+    "ParionsSport": [
+        "ParionsSport"
+    ],
+    "FFF": [
+        "FFF"
+    ],
+    "LaManifPourTous": [
+        "LaManifPourTous"
+    ],
+    "Wakanim": [
+        "Wakanim"
+    ],
+    "OneVoice": [
+        "onevoiceanimal"
+    ],
+    "Crunchyroll": [
+        "Crunchyroll_fr"
+    ],
+    "EditionsKana": [
+        "EditionsKana"
+    ],
+    "FBB": [
+    	"FBB_Adoptions",
+    	"FBB_Com",
+        "FBB_PORTEPAROLE"
     ],
     "RATP": [
         "RATPgroup",
@@ -37,6 +135,7 @@
         "Citroen"
     ],
     "AirFrance": [
+    	"AirFranceKLM",
         "AirFranceFR",
         "airfrance"
     ],
@@ -46,6 +145,7 @@
         "ibisHotels_FR"
     ],
     "EDF": [
+    	"EDF_Aquitaine",
         "EDFofficiel",
         "EDFetMoi"
     ],
@@ -64,12 +164,16 @@
         "Caisse_Epargne"
     ],
     "Leclerc": [
+    	"Leclerc",
         "leclercdrive",
         "Leclerc_JV",
         "LeclercBonPlan"
     ],
     "Micromania": [
         "Micromania_Fr"
+    ],
+    "Logitech": [
+        "LogitechGFrance"
     ],
     "SFR": [
         "SFR_SAV",
@@ -83,6 +187,7 @@
         "Sosh_fr"
     ],
     "Casino": [
+    	"casino_super",
         "geant_casino",
         "Groupe_Casino"
     ],
@@ -97,10 +202,36 @@
         "transavia"
     ],
     "Bouygues": [
+    	"GroupeBouygues",
         "bouyguestelecom"
     ],
     "LCL": [
         "LCL"
+    ],
+    "WWF": [
+        "WWFFrance"
+    ],
+    "Greenpeace": [
+    	"greenpeacefr",
+        "Greenpeace"
+    ],
+    "Sorbonne": [
+        "Sorbonne_Univ_"
+    ],
+    "Vueling": [
+        "vueling"
+    ],
+    "Kiabi": [
+        "KiabiFrance"
+    ],
+    "KiOon": [
+        "ki_oon_Editions"
+    ],
+    "PikaEdition": [
+        "pikaedition"
+    ],
+    "LaQuadratureDuNet": [
+        "laquadrature"
     ],
     "Samsung": [
         "SamsungFR",
@@ -112,6 +243,7 @@
         "Darty_Officiel"
     ],
     "Boulanger": [
+    	"BoulangerGaming",
         "boulanger",
         "SAVboulanger"
     ],
@@ -132,11 +264,15 @@
         "SonyFrance",
         "Sony"
     ],
+    "PETA": [
+        "PETA_France"
+    ],
     "KFC": [
         "KFCFrance",
         "kfc"
     ],
     "Renault": [
+    	"Renault_Elec_Fr",
         "renault_fr",
         "Groupe_Renault"
     ],
@@ -166,9 +302,11 @@
         "Betclic"
     ],
     "Winamax": [
+    	"WinamaxSport",
         "Winamax"
     ],
     "Mercedes": [
+    	"MercedesBenz",
         "MBFRANCE_"
     ],
     "IKEA": [
@@ -182,12 +320,18 @@
         "ShowroompriveFR"
     ],
     "Intermarche": [
+    	"mousquetairesfr",
         "intermarche"
     ],
     "GRDF": [
         "GRDF"
     ],
+    "L214": [
+        "L214"
+    ],
     "BMW": [
+    	"BMWGroup",
+    	"BMWMotorsport",
         "BMWFrance",
         "BMW"
     ],
@@ -196,7 +340,27 @@
         "Veolia"
     ],
     "CocaCola": [
+    	"CocaCola",
+    	"CocaColaEP_FR",
         "cocacolafr"
+    ],
+    "CoolerMaster": [
+    	"CoolerMaster",
+        "coolermasterfr"
+    ],
+    "MSI": [
+        "msifrance"
+    ],
+    "NVIDIA": [
+    	"nvidia",
+        "NVIDIAGeForceFR"
+    ],
+    "Ligue2": [
+    	"ACAjaccio",
+    	"FCSM_officiel",
+    	"RCLens",
+        "FCLorient",
+        "DominosLigue2"
     ],
     "CDiscount": [
         "Cdiscount"
@@ -221,6 +385,7 @@
         "Cultura"
     ],
     "EA": [
+    	"EASPORTS",
         "EAFrance",
         "EA",
         "EAHelp"
@@ -234,6 +399,9 @@
     "Conforama": [
         "Conforama"
     ],
+    "GoSport": [
+        "gosportfrance"
+    ],
     "Jardiland": [
         "Jardiland"
     ],
@@ -245,8 +413,15 @@
         "Truffaut"
     ],
     "Uber": [
+    	"Uber_Support",
         "UberFR_support",
         "UberFR"
+    ],
+    "Suez": [
+    	"suezFR"
+    ],
+    "JustEat": [
+    	"JustEatFr"
     ],
     "UberEats": [
     	"UberEats",
@@ -262,6 +437,7 @@
         "PuyDuFou"
     ],
     "PatheGaumont": [
+    	"PatheFilms",
         "PatheGaumont",
         "Gaumont"
     ],
@@ -269,10 +445,17 @@
         "DLPHelp",
         "DisneylandParis"
     ],
+    "Celio": [
+        "celio"
+    ],
+    "EquipeDeFrance": [
+        "equipedefrance"
+    ],
     "CIC": [
         "cic"
     ],
     "TF1": [
+    	"GroupeTF1",
     	"MYTF1",
         "TF1"
     ],
@@ -295,6 +478,7 @@
     "FranceTelevision": [
         "France2tv",
         "France3tv",
+        "FRANCE24",
         "Francetele"
     ],
     "PrimeVideo": [
@@ -315,10 +499,12 @@
         "EASPORTSFIFA"
     ],
     "PlayStation": [
+    	"PlayStationEU",
         "PlayStationFR",
         "PlayStation"
     ],
     "XBOX": [
+    	"Xbox",
         "XboxFR"
     ],
     "Nintendo": [
@@ -326,24 +512,36 @@
         "NintendoFrance"
     ],
     "CallofDuty": [
+    	"CallOfDutyMobil",
+    	"CallofDuty",
     	"CODMobileFR",
         "CallofDutyFR"
     ],
     "Fortnite": [
+    	"EpicGames",
     	"EpicGamesFR",
     	"FortniteGame",
-        "FortniteFR"
+        "FortniteFR",
+        "FortniteGameFR"
     ],
     "Twitch": [
+    	"TwitchSupport",
     	"Twitch",
         "TwitchFR"
     ],
     "Adidas": [
+    	"ReebokFR",
     	"adidas",
         "adidasFR"
     ],
     "BeIN": [
         "beinsports_FR"
+    ],
+    "OperaDeParis": [
+        "operadeparis"
+    ],
+    "TooGoodToGo": [
+        "TooGoodToGo_Fr"
     ],
     "Disney": [
         "DisneyFR"
@@ -352,6 +550,7 @@
         "TPMP"
     ],
     "Skyrock": [
+    	"Planete_Rap",
         "SkyrockFM"
     ],
     "FunRadio": [
@@ -359,6 +558,9 @@
     ],
     "MeteoFrance": [
         "meteofrance"
+    ],
+    "LaChaineMeteo": [
+        "lachainemeteo"
     ],
     "Ferrero": [
         "NutellaFR",
@@ -381,6 +583,8 @@
         "csaudiovisuel"
     ],
     "CanalPlus": [
+    	"CanalplusSport",
+    	"CanalplusCinema",
     	"CanalFootClub",
     	"myCANAL",
         "canalplus"
@@ -400,7 +604,11 @@
     "DanseAvecLesStars": [
         "DALS_TF1"
     ],
+    "Corsair": [
+        "CORSAIRFRA"
+    ],
     "Police": [
+    	"alliancepolice",
     	"prefpolice",
         "PoliceNationale"
     ],
@@ -409,7 +617,14 @@
         "PSG_inside",
         "OM_Officiel",
         "OL",
-        "FCNantes"
+        "ASSEofficiel"
+    ],
+    "StarLigueHandball": [
+        "LidlStarligue",
+        "psghand",
+        "HBCNantes",
+        "FENIX_HB",
+        "USAMNIMESGARD"
     ],
     "Peugeot": [
     	"Peugeot",
@@ -441,19 +656,33 @@
     "CreditAgricole": [
         "CreditAgricole"
     ],
+    "AmisDeLaTerre": [
+        "amisdelaterre"
+    ],
+    "LigueDroitsHomme": [
+        "LDH_Fr"
+    ],
+    "Sodexo": [
+        "SodexoFrance"
+    ],
     "ParisAeroport": [
         "ParisAeroport",
         "GroupeADP"
     ],
     "ARTE": [
+    	"28minutes",
         "ARTEfr"
     ],
     "Apple": [
+    	"AppleSupport",
     	"AppleMusic",
         "Apple"
     ],
     "PoleEmploi": [
         "pole_emploi"
+    ],
+    "AMD": [
+        "AMD_France"
     ],
     "Velib": [
         "Velib"
@@ -481,6 +710,7 @@
         "spotifyfrance"
     ],
     "Deezer": [
+    	"DeezerHelp",
     	"Deezer",
         "DeezerFR"
     ],
@@ -516,11 +746,26 @@
     "CNIL": [
         "CNIL"
     ],
+    "Montpellier": [
+        "Montpellier3m"
+    ],
+    "PaysDeLaLoire": [
+        "paysdelaloire"
+    ],
+    "UnionEuropenne": [
+        "UEFrance"
+    ],
     "EducationNationale": [
         "EducationFrance"
     ],
     "MinistereEcologie": [
         "Min_Ecologie"
+    ],
+    "MinistereInterieur": [
+        "Place_Beauvau"
+    ],
+    "MinistereAgriculture": [
+        "Min_Agriculture"
     ],
     "McDonalds": [
     	"mcdonalds_paris",
@@ -530,7 +775,14 @@
     "MinistereDefense": [
         "Defense_gouv"
     ],
+    "MinistereRecherche": [
+        "sup_recherche"
+    ],
+    "Ulule": [
+        "ululeFR"
+    ],
     "Microsoft": [
+    	"Microsoft",
     	"WindowsFrance",
         "microsoftfrance"
     ],
@@ -551,14 +803,18 @@
     "JeuxVideoCom": [
         "JVCom"
     ],
-    "Youtube": [
-        "YouTube"
+    "TicketMaster": [
+        "TicketmasterFR"
     ],
     "Flixbus": [
+    	"Flixbus",
         "FlixBus_FR"
     ],
     "OUIBUS": [
         "OUIBUS"
+    ],
+    "Asterix": [
+        "asterixofficiel"
     ],
     "RER": [
         "RER_A",
@@ -568,16 +824,22 @@
         "RERE_SNCF"
     ],
     "Enedis": [
-        "enedis"
+        "enedis",
+        "enedis_clients"
     ],
     "Blizzard": [
         "BlizzardCSEU_FR",
         "Blizzard_Ent"
     ],
+    "HearthStone": [
+        "hearthstone_fr",
+        "PlayHearthstone"
+    ],
     "LeagueOfLegends": [
     	"LeagueOfLegends",
     	"lolesports_fr",
     	"RiotSupportFR",
+    	"RiotGamesFrance",
         "LoL_France"
     ],
     "FnacSpectacles": [
@@ -585,6 +847,9 @@
     ],
     "Interflora": [
         "Interflora"
+    ],
+    "Wootbox": [
+        "wootbox_fr"
     ],
     "Asus": [
     	"ASUS_ROG_FR",
@@ -596,8 +861,15 @@
     "Leboncoin": [
         "leboncoin"
     ],
+    "MondialRelay": [
+        "mondialrelay"
+    ],
     "Thalys": [
+    	"thalysthecard",
         "thalys_fr"
+    ],
+    "Eurostar": [
+    	"Eurostar"
     ],
     "CGR": [
         "cgr_cinemas"
@@ -630,6 +902,7 @@
         "Nike"
     ],
     "PMU": [
+    	"PMU_Sport",
         "PMU_Hippique"
     ],
     "Overwatch": [
@@ -651,10 +924,15 @@
         "allocine"
     ],
     "Keolis": [
-        "groupekeolis"
+        "groupekeolis",
+        "transdevFR",
+        "KeolisIDF"
     ],
     "ADNAnime": [
         "ADNanime"
+    ],
+    "GlenatManga": [
+        "Glenat_Manga"
     ],
     "LesRepublicains": [
         "lesRepublicains"
